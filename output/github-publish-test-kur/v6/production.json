@@ -115,6 +115,21 @@
       "file": "remotion-bits/.gitignore",
       "sha256": "8eab952f6c18464653de8071ccc5b0731591a2f167f933f54e715e8abd69d82b",
       "read": true
+    },
+    {
+      "file": "output/CONTEXT.md",
+      "sha256": "4eaf1e218dd66aba242abfbb17f00abf2d25884e0870214773f04464513cfca6",
+      "read": true
+    },
+    {
+      "file": "README.md",
+      "sha256": "eea57d6ea165235537c13950151114ccfe222c887e993364fa733ee1116f7c71",
+      "read": true
+    },
+    {
+      "file": ".gitmodules",
+      "sha256": "7bdd50f66e8c24eb451b6887f9524470baba370b016fd05808360a8150eb640f",
+      "read": true
     }
   ],
   "decisions": [
@@ -140,12 +155,20 @@
       "name": "Git publication size",
       "status": "passed",
       "files_over_100_mib": 0
+    },
+    {
+      "name": "Remote publication verification",
+      "status": "passed",
+      "evidence": "GitHub API confirms private repository and main default branch; git ls-remote matches source commit."
     }
   ],
   "publication": {
     "repository": "PhatTran-cloud/test-kur",
     "visibility": "private",
-    "status": "prepared"
+    "status": "published",
+    "url": "https://github.com/PhatTran-cloud/test-kur",
+    "branch": "main",
+    "source_commit": "2de8833c866de348f67c14572ef6c22a8893fe46"
   },
   "production_approval": false
 }
