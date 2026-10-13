@@ -1,0 +1,343 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:explainer:v6:asset-bible",
+  "type": "object",
+  "required": [
+    "version",
+    "visual_system_id",
+    "assets"
+  ],
+  "properties": {
+    "version": {
+      "const": 1
+    },
+    "visual_system_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z][A-Za-z0-9_-]*$"
+    },
+    "assets": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "asset_id",
+          "referent",
+          "narrative_role",
+          "recognition_traits",
+          "forbidden_confusions",
+          "silhouette",
+          "proportions",
+          "palette_roles",
+          "materials",
+          "light_response",
+          "parts",
+          "anchors",
+          "dimensions",
+          "states",
+          "state_transitions",
+          "contact_constraints",
+          "closest_camera_use",
+          "reuse_rules",
+          "representation",
+          "technical_budget",
+          "provenance",
+          "inspection"
+        ],
+        "properties": {
+          "asset_id": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_-]*$"
+          },
+          "referent": {
+            "type": "string",
+            "minLength": 1
+          },
+          "narrative_role": {
+            "type": "string",
+            "minLength": 1
+          },
+          "recognition_traits": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "forbidden_confusions": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "silhouette": {
+            "type": "string",
+            "minLength": 1
+          },
+          "proportions": {
+            "type": "string",
+            "minLength": 1
+          },
+          "palette_roles": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "materials": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "light_response": {
+            "type": "string",
+            "minLength": 1
+          },
+          "parts": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": [
+                "part_id",
+                "construction",
+                "surface"
+              ],
+              "properties": {
+                "part_id": {
+                  "type": "string",
+                  "pattern": "^[A-Za-z][A-Za-z0-9_-]*$"
+                },
+                "construction": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "surface": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "anchors": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": [
+                "anchor_id",
+                "part_id",
+                "purpose"
+              ],
+              "properties": {
+                "anchor_id": {
+                  "type": "string",
+                  "pattern": "^[A-Za-z][A-Za-z0-9_-]*$"
+                },
+                "part_id": {
+                  "type": "string",
+                  "pattern": "^[A-Za-z][A-Za-z0-9_-]*$"
+                },
+                "purpose": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "dimensions": {
+            "type": "object",
+            "required": [
+              "units",
+              "extent"
+            ],
+            "properties": {
+              "units": {
+                "type": "string",
+                "minLength": 1
+              },
+              "extent": {
+                "type": "array",
+                "minItems": 3,
+                "maxItems": 3,
+                "items": {
+                  "type": "number"
+                }
+              }
+            },
+            "additionalProperties": false
+          },
+          "states": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": [
+                "state_id",
+                "appearance",
+                "behavior"
+              ],
+              "properties": {
+                "state_id": {
+                  "type": "string",
+                  "pattern": "^[A-Za-z][A-Za-z0-9_-]*$"
+                },
+                "appearance": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "behavior": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "state_transitions": {
+            "type": "array",
+            "minItems": 0,
+            "items": {
+              "type": "object",
+              "required": [
+                "from",
+                "to",
+                "trigger",
+                "visible_change"
+              ],
+              "properties": {
+                "from": {
+                  "type": "string",
+                  "pattern": "^[A-Za-z][A-Za-z0-9_-]*$"
+                },
+                "to": {
+                  "type": "string",
+                  "pattern": "^[A-Za-z][A-Za-z0-9_-]*$"
+                },
+                "trigger": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "visible_change": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "contact_constraints": {
+            "type": "string",
+            "minLength": 1
+          },
+          "closest_camera_use": {
+            "type": "string",
+            "minLength": 1
+          },
+          "reuse_rules": {
+            "type": "string",
+            "minLength": 1
+          },
+          "representation": {
+            "type": "string",
+            "enum": [
+              "2d",
+              "2.5d",
+              "3d",
+              "hybrid"
+            ]
+          },
+          "technical_budget": {
+            "type": "object",
+            "required": [
+              "triangles",
+              "texture_mb",
+              "measurement_plan"
+            ],
+            "properties": {
+              "triangles": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "texture_mb": {
+                "type": "number",
+                "minimum": 0
+              },
+              "measurement_plan": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "additionalProperties": false
+          },
+          "provenance": {
+            "type": "object",
+            "required": [
+              "source",
+              "license",
+              "created_by"
+            ],
+            "properties": {
+              "source": {
+                "type": "string",
+                "minLength": 1
+              },
+              "license": {
+                "type": "string",
+                "minLength": 1
+              },
+              "created_by": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "additionalProperties": false
+          },
+          "inspection": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": [
+                "view",
+                "artifact",
+                "status"
+              ],
+              "properties": {
+                "view": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "artifact": {
+                  "type": "string"
+                },
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "unstarted",
+                    "observed",
+                    "approved",
+                    "rejected"
+                  ]
+                }
+              },
+              "additionalProperties": false
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

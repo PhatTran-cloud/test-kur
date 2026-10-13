@@ -1,0 +1,24 @@
+{
+  "asset_id": "",
+  "storyboard_ids": [],
+  "identity": "",
+  "recognition_traits": [],
+  "forbidden_confusions": [],
+  "dimensions": {},
+  "parts": [],
+  "anchors": [],
+  "variants": [],
+  "surface_regions": [],
+  "texture_plan": [],
+  "closest_camera_usage": "",
+  "representation": "2.5d|3d|hybrid",
+  "research_uncertainties": [],
+  "conformance": {
+    "identity": "UNVERIFIED",
+    "parts": "UNVERIFIED",
+    "anchors": "UNVERIFIED",
+    "variants": "UNVERIFIED",
+    "surface": "UNVERIFIED",
+    "closest_view": "UNVERIFIED"
+  }
+}

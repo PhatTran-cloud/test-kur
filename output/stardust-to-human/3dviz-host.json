@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "probed_at": "2026-10-10T05:48:42+00:00",
+  "os": {
+    "system": "Windows",
+    "release": "11",
+    "product_version": null,
+    "arch": "AMD64"
+  },
+  "cpu": {
+    "brand": null,
+    "logical_cores": 12
+  },
+  "memory_gb": null,
+  "gpu": {
+    "found": false,
+    "source": "wmic path win32_VideoController unavailable"
+  },
+  "blender": {
+    "found": false,
+    "path": null,
+    "version": null,
+    "on_path": false,
+    "meets_minimum": false,
+    "source": "no runnable candidate on PATH or standard paths"
+  },
+  "runtimes": {
+    "node": "24.18.0",
+    "pnpm": null,
+    "python": "3.12.0",
+    "playwright": "1.62.0",
+    "playwright_source": "importlib.metadata in the interpreter running this probe",
+    "chromium_installed": true
+  },
+  "quality_ceiling": "T2",
+  "quality_ceiling_reason": "no runnable Blender (no runnable candidate on PATH or standard paths), so no T3 bake",
+  "quality_ceiling_scope": "shipped-kit-pipelines",
+  "quality_note": "Tool discovery does not grade art, constrain custom/sourced geometry, or prove that a bake, render or scientific model was executed.",
+  "capture_mode_expected": "swiftshader",
+  "capture_mode_reason": "Windows: the ANGLE backend flag is unverified here, so the expected capture mode stays the software renderer"
+}

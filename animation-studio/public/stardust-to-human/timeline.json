@@ -1,0 +1,7030 @@
+{
+  "fps": 30,
+  "duration": 535.4421705426356,
+  "frames": 16064,
+  "voiceEnd": 528.4421705426356,
+  "audioRevision": "95950ec478a1",
+  "chapters": [
+    {
+      "index": 0,
+      "title": "STARDUST TO HUMAN",
+      "time": 0.0,
+      "frame": 0,
+      "layout": "cinematic",
+      "pattern": "Zoom-In"
+    },
+    {
+      "index": 1,
+      "title": "FROM NOTHING",
+      "time": 39.528837209302324,
+      "frame": 1185,
+      "layout": "floating",
+      "pattern": "Scale"
+    },
+    {
+      "index": 2,
+      "title": "THE SUN CAME FIRST",
+      "time": 97.34883720930233,
+      "frame": 2920,
+      "layout": "radial",
+      "pattern": "Hub-Spoke"
+    },
+    {
+      "index": 3,
+      "title": "HELL AND THE MOON",
+      "time": 138.9088372093023,
+      "frame": 4167,
+      "layout": "cinematic",
+      "pattern": "Timeline"
+    },
+    {
+      "index": 4,
+      "title": "WATER FROM THE SKY",
+      "time": 202.38883720930232,
+      "frame": 6071,
+      "layout": "split-h",
+      "pattern": "Comparison"
+    },
+    {
+      "index": 5,
+      "title": "SLIME REWRITES THE SKY",
+      "time": 255.72883720930233,
+      "frame": 7671,
+      "layout": "grid",
+      "pattern": "Zoom-In"
+    },
+    {
+      "index": 6,
+      "title": "FROZEN THEN ALIVE",
+      "time": 304.4088372093023,
+      "frame": 9132,
+      "layout": "split-v",
+      "pattern": "Comparison"
+    },
+    {
+      "index": 7,
+      "title": "LAND AND THE GREAT DYING",
+      "time": 349.06883720930233,
+      "frame": 10472,
+      "layout": "stacked",
+      "pattern": "Timeline"
+    },
+    {
+      "index": 8,
+      "title": "THE DINOSAURS LAST DAY",
+      "time": 398.7088372093023,
+      "frame": 11961,
+      "layout": "cinematic",
+      "pattern": "Scale"
+    },
+    {
+      "index": 9,
+      "title": "THE FINAL SECOND",
+      "time": 454.78883720930236,
+      "frame": 13643,
+      "layout": "floating",
+      "pattern": "Verdict"
+    }
+  ],
+  "shots": [
+    {
+      "time": 0.0,
+      "frame": 0,
+      "kind": "hand",
+      "title": "YOU ARE STARDUST"
+    },
+    {
+      "time": 9.0,
+      "frame": 270,
+      "kind": "elements",
+      "title": "IRON / CALCIUM / GOLD"
+    },
+    {
+      "time": 18.348837209302324,
+      "frame": 550,
+      "kind": "dust",
+      "title": "ASHES OF A STAR"
+    },
+    {
+      "time": 21.528837209302324,
+      "frame": 645,
+      "kind": "lava",
+      "title": "4.5 BILLION YEARS"
+    },
+    {
+      "time": 32.42883720930232,
+      "frame": 972,
+      "kind": "earth",
+      "title": "FROM FIRE TO HOME"
+    },
+    {
+      "time": 39.528837209302324,
+      "frame": 1185,
+      "kind": "void",
+      "title": "BEFORE EARTH"
+    },
+    {
+      "time": 49.808837209302325,
+      "frame": 1494,
+      "kind": "bang",
+      "title": "13.8 BILLION YEARS AGO"
+    },
+    {
+      "time": 64.34883720930233,
+      "frame": 1930,
+      "kind": "star",
+      "title": "THE FIRST STARS"
+    },
+    {
+      "time": 69.82883720930232,
+      "frame": 2094,
+      "kind": "elements",
+      "title": "A COSMIC FURNACE"
+    },
+    {
+      "time": 81.54883720930232,
+      "frame": 2446,
+      "kind": "supernova",
+      "title": "A STAR DIES"
+    },
+    {
+      "time": 95.06883720930233,
+      "frame": 2852,
+      "kind": "collision-stars",
+      "title": "GOLD FROM COLLISION"
+    },
+    {
+      "time": 97.34883720930233,
+      "frame": 2920,
+      "kind": "cloud",
+      "title": "4.6 BILLION YEARS"
+    },
+    {
+      "time": 113.42883720930233,
+      "frame": 3402,
+      "kind": "disk",
+      "title": "GRAVITY BUILDS A STAR"
+    },
+    {
+      "time": 120.82883720930234,
+      "frame": 3624,
+      "kind": "sun",
+      "title": "THE SUN CAME FIRST"
+    },
+    {
+      "time": 131.0288372093023,
+      "frame": 3930,
+      "kind": "disk",
+      "title": "THE PLANET FACTORY"
+    },
+    {
+      "time": 138.9088372093023,
+      "frame": 4167,
+      "kind": "accretion",
+      "title": "DUST / ROCK / WORLD"
+    },
+    {
+      "time": 154.9088372093023,
+      "frame": 4647,
+      "kind": "lava",
+      "title": "4.54 BILLION YEARS"
+    },
+    {
+      "time": 158.30883720930234,
+      "frame": 4749,
+      "kind": "meteors",
+      "title": "1,200 C / NO OCEANS"
+    },
+    {
+      "time": 172.16883720930235,
+      "frame": 5165,
+      "kind": "theia",
+      "title": "THEIA APPROACHES"
+    },
+    {
+      "time": 179.50883720930233,
+      "frame": 5385,
+      "kind": "collision",
+      "title": "THE GREAT IMPACT"
+    },
+    {
+      "time": 185.58883720930234,
+      "frame": 5567,
+      "kind": "debris",
+      "title": "GRAVITY HOLDS THE PIECES"
+    },
+    {
+      "time": 193.30883720930234,
+      "frame": 5799,
+      "kind": "moon",
+      "title": "4.51 BILLION YEARS"
+    },
+    {
+      "time": 202.38883720930232,
+      "frame": 6071,
+      "kind": "lava",
+      "title": "THE LONG COOLING"
+    },
+    {
+      "time": 212.44883720930233,
+      "frame": 6373,
+      "kind": "crust",
+      "title": "THE FIRST CRUST"
+    },
+    {
+      "time": 214.88883720930232,
+      "frame": 6446,
+      "kind": "volcano",
+      "title": "VAPOR BECOMES SKY"
+    },
+    {
+      "time": 221.72883720930233,
+      "frame": 6651,
+      "kind": "rain",
+      "title": "THOUSANDS OF YEARS OF RAIN"
+    },
+    {
+      "time": 232.90883720930233,
+      "frame": 6987,
+      "kind": "ocean",
+      "title": "4.4 BILLION YEARS / OCEANS"
+    },
+    {
+      "time": 239.90883720930233,
+      "frame": 7197,
+      "kind": "zircon",
+      "title": "WATER LEAVES EVIDENCE"
+    },
+    {
+      "time": 255.72883720930233,
+      "frame": 7671,
+      "kind": "vents",
+      "title": "THE OCEAN FLOOR"
+    },
+    {
+      "time": 262.06883720930233,
+      "frame": 7862,
+      "kind": "cells",
+      "title": "LIFE COPIES ITSELF"
+    },
+    {
+      "time": 273.80883720930234,
+      "frame": 8214,
+      "kind": "slime",
+      "title": "A BILLION YEARS OF MICROBES"
+    },
+    {
+      "time": 278.60883720930235,
+      "frame": 8358,
+      "kind": "oxygen",
+      "title": "SUNLIGHT BECOMES ENERGY"
+    },
+    {
+      "time": 284.54883720930235,
+      "frame": 8536,
+      "kind": "oxygen",
+      "title": "2.4 BILLION YEARS / OXYGEN"
+    },
+    {
+      "time": 304.4088372093023,
+      "frame": 9132,
+      "kind": "cells",
+      "title": "CELLS BECOME COMPLEX"
+    },
+    {
+      "time": 315.22883720930236,
+      "frame": 9456,
+      "kind": "snowball",
+      "title": "720 MILLION / SNOWBALL EARTH"
+    },
+    {
+      "time": 321.98883720930235,
+      "frame": 9659,
+      "kind": "thaw",
+      "title": "VOLCANOES BREAK THE FREEZE"
+    },
+    {
+      "time": 334.80883720930234,
+      "frame": 10044,
+      "kind": "cambrian",
+      "title": "541 MILLION / LIFE EXPLODES"
+    },
+    {
+      "time": 349.06883720930233,
+      "frame": 10472,
+      "kind": "plants",
+      "title": "LIFE REACHES LAND"
+    },
+    {
+      "time": 357.3888372093023,
+      "frame": 10721,
+      "kind": "forest",
+      "title": "THE LAND TURNS GREEN"
+    },
+    {
+      "time": 359.30883720930234,
+      "frame": 10779,
+      "kind": "fish",
+      "title": "FINS BECOME FEET"
+    },
+    {
+      "time": 368.04883720930235,
+      "frame": 11041,
+      "kind": "pangea",
+      "title": "ONE SUPERCONTINENT"
+    },
+    {
+      "time": 374.74883720930234,
+      "frame": 11242,
+      "kind": "volcano",
+      "title": "252 MILLION / THE GREAT DYING"
+    },
+    {
+      "time": 387.1488372093023,
+      "frame": 11614,
+      "kind": "extinction",
+      "title": "90% OF MARINE SPECIES LOST"
+    },
+    {
+      "time": 398.7088372093023,
+      "frame": 11961,
+      "kind": "dinosaur",
+      "title": "230 MILLION / DINOSAURS"
+    },
+    {
+      "time": 413.8288372093023,
+      "frame": 12414,
+      "kind": "mammal",
+      "title": "SMALL CREATURES WAIT"
+    },
+    {
+      "time": 419.0088372093023,
+      "frame": 12570,
+      "kind": "asteroid",
+      "title": "66 MILLION / INCOMING"
+    },
+    {
+      "time": 426.74883720930234,
+      "frame": 12802,
+      "kind": "impact",
+      "title": "THE DINOSAURS LAST DAY"
+    },
+    {
+      "time": 437.3288372093023,
+      "frame": 13119,
+      "kind": "ash",
+      "title": "THE SUN DISAPPEARS"
+    },
+    {
+      "time": 446.84883720930236,
+      "frame": 13405,
+      "kind": "mammal",
+      "title": "THE SURVIVORS"
+    },
+    {
+      "time": 454.78883720930236,
+      "frame": 13643,
+      "kind": "forest",
+      "title": "LIFE RETURNS"
+    },
+    {
+      "time": 464.43328165374675,
+      "frame": 13932,
+      "kind": "human",
+      "title": "OUR ANCESTORS STAND UP"
+    },
+    {
+      "time": 474.9666149870801,
+      "frame": 14248,
+      "kind": "cave",
+      "title": "300,000 YEARS / US"
+    },
+    {
+      "time": 477.455503875969,
+      "frame": 14323,
+      "kind": "calendar",
+      "title": "4.54 BILLION YEARS / ONE CALENDAR YEAR"
+    },
+    {
+      "time": 498.2110594315246,
+      "frame": 14946,
+      "kind": "calendar",
+      "title": "THE FINAL 35 SECONDS"
+    },
+    {
+      "time": 510.3666149870801,
+      "frame": 15310,
+      "kind": "earth",
+      "title": "WE NEED IT"
+    },
+    {
+      "time": 524.5888372093024,
+      "frame": 15737,
+      "kind": "city",
+      "title": "4.5 BILLION YEARS TO MAKE YOU."
+    }
+  ],
+  "cues": [],
+  "words": [
+    {
+      "word": "Put",
+      "start": 0.0,
+      "end": 0.3256
+    },
+    {
+      "word": "your",
+      "start": 0.3256,
+      "end": 0.5581
+    },
+    {
+      "word": "hand",
+      "start": 0.5581,
+      "end": 0.8372
+    },
+    {
+      "word": "on",
+      "start": 0.8372,
+      "end": 1.0
+    },
+    {
+      "word": "your",
+      "start": 1.0,
+      "end": 1.3023
+    },
+    {
+      "word": "chest.",
+      "start": 1.3023,
+      "end": 2.7442
+    },
+    {
+      "word": "The",
+      "start": 3.0465,
+      "end": 3.2093
+    },
+    {
+      "word": "iron",
+      "start": 3.2093,
+      "end": 3.6279
+    },
+    {
+      "word": "in",
+      "start": 3.6279,
+      "end": 3.8372
+    },
+    {
+      "word": "your",
+      "start": 3.8372,
+      "end": 4.093
+    },
+    {
+      "word": "blood,",
+      "start": 4.093,
+      "end": 4.4884
+    },
+    {
+      "word": "the",
+      "start": 4.6279,
+      "end": 4.814
+    },
+    {
+      "word": "calcium",
+      "start": 4.814,
+      "end": 5.3721
+    },
+    {
+      "word": "in",
+      "start": 5.3721,
+      "end": 5.5581
+    },
+    {
+      "word": "your",
+      "start": 5.5581,
+      "end": 5.8605
+    },
+    {
+      "word": "bones,",
+      "start": 5.8605,
+      "end": 6.2326
+    },
+    {
+      "word": "the",
+      "start": 6.4186,
+      "end": 6.6047
+    },
+    {
+      "word": "gold",
+      "start": 6.6047,
+      "end": 7.0233
+    },
+    {
+      "word": "in",
+      "start": 7.0233,
+      "end": 7.2093
+    },
+    {
+      "word": "your",
+      "start": 7.2093,
+      "end": 7.5116
+    },
+    {
+      "word": "ring,",
+      "start": 7.5116,
+      "end": 7.8605
+    },
+    {
+      "word": "none",
+      "start": 8.3488,
+      "end": 8.5581
+    },
+    {
+      "word": "of",
+      "start": 8.5581,
+      "end": 8.7674
+    },
+    {
+      "word": "it",
+      "start": 8.7674,
+      "end": 8.907
+    },
+    {
+      "word": "was",
+      "start": 8.907,
+      "end": 9.1395
+    },
+    {
+      "word": "born",
+      "start": 9.1395,
+      "end": 9.4651
+    },
+    {
+      "word": "on",
+      "start": 9.4651,
+      "end": 9.8605
+    },
+    {
+      "word": "Earth.",
+      "start": 9.8605,
+      "end": 10.1395
+    },
+    {
+      "word": "It",
+      "start": 10.4651,
+      "end": 10.6047
+    },
+    {
+      "word": "was",
+      "start": 10.6047,
+      "end": 10.9535
+    },
+    {
+      "word": "forged",
+      "start": 10.9535,
+      "end": 11.3023
+    },
+    {
+      "word": "at",
+      "start": 11.3023,
+      "end": 11.6512
+    },
+    {
+      "word": "a",
+      "start": 11.6512,
+      "end": 11.7209
+    },
+    {
+      "word": "hundred",
+      "start": 11.7209,
+      "end": 12.1163
+    },
+    {
+      "word": "million",
+      "start": 12.1163,
+      "end": 12.5814
+    },
+    {
+      "word": "degrees",
+      "start": 12.5814,
+      "end": 13.2326
+    },
+    {
+      "word": "inside",
+      "start": 13.2326,
+      "end": 13.8372
+    },
+    {
+      "word": "the",
+      "start": 13.8372,
+      "end": 14.0698
+    },
+    {
+      "word": "heart",
+      "start": 14.0698,
+      "end": 14.2326
+    },
+    {
+      "word": "of",
+      "start": 14.2326,
+      "end": 14.4419
+    },
+    {
+      "word": "a",
+      "start": 14.4419,
+      "end": 14.6512
+    },
+    {
+      "word": "star",
+      "start": 14.6512,
+      "end": 14.8837
+    },
+    {
+      "word": "that",
+      "start": 14.8837,
+      "end": 15.2093
+    },
+    {
+      "word": "exploded",
+      "start": 15.2093,
+      "end": 15.6977
+    },
+    {
+      "word": "before",
+      "start": 15.6977,
+      "end": 16.1628
+    },
+    {
+      "word": "the",
+      "start": 16.1628,
+      "end": 16.4651
+    },
+    {
+      "word": "sun",
+      "start": 16.4651,
+      "end": 16.7209
+    },
+    {
+      "word": "even",
+      "start": 16.7209,
+      "end": 17.1395
+    },
+    {
+      "word": "existed.",
+      "start": 17.1395,
+      "end": 17.7442
+    },
+    {
+      "word": "Literally,",
+      "start": 18.3488,
+      "end": 18.6688
+    },
+    {
+      "word": "you",
+      "start": 18.7888,
+      "end": 19.0088
+    },
+    {
+      "word": "are",
+      "start": 19.0088,
+      "end": 19.3288
+    },
+    {
+      "word": "the",
+      "start": 19.3288,
+      "end": 19.4888
+    },
+    {
+      "word": "ashes",
+      "start": 19.4888,
+      "end": 19.7488
+    },
+    {
+      "word": "of",
+      "start": 19.7488,
+      "end": 19.9888
+    },
+    {
+      "word": "a",
+      "start": 19.9888,
+      "end": 20.1688
+    },
+    {
+      "word": "stellar",
+      "start": 20.1688,
+      "end": 20.4088
+    },
+    {
+      "word": "explosion,",
+      "start": 20.4088,
+      "end": 21.1288
+    },
+    {
+      "word": "and",
+      "start": 21.3688,
+      "end": 21.5288
+    },
+    {
+      "word": "the",
+      "start": 21.5288,
+      "end": 21.7288
+    },
+    {
+      "word": "rock",
+      "start": 21.7288,
+      "end": 21.9288
+    },
+    {
+      "word": "beneath",
+      "start": 21.9288,
+      "end": 22.2688
+    },
+    {
+      "word": "your",
+      "start": 22.2688,
+      "end": 22.6088
+    },
+    {
+      "word": "feet?",
+      "start": 22.6088,
+      "end": 22.8688
+    },
+    {
+      "word": "4",
+      "start": 23.1688,
+      "end": 23.5688
+    },
+    {
+      "word": ".5",
+      "start": 23.5688,
+      "end": 24.3288
+    },
+    {
+      "word": "billion",
+      "start": 24.3288,
+      "end": 24.6288
+    },
+    {
+      "word": "years",
+      "start": 24.6288,
+      "end": 25.0088
+    },
+    {
+      "word": "ago",
+      "start": 25.0088,
+      "end": 25.3088
+    },
+    {
+      "word": "it",
+      "start": 25.3088,
+      "end": 25.4288
+    },
+    {
+      "word": "was",
+      "start": 25.4288,
+      "end": 25.6488
+    },
+    {
+      "word": "a",
+      "start": 25.6488,
+      "end": 25.7488
+    },
+    {
+      "word": "boiling",
+      "start": 25.7488,
+      "end": 26.1288
+    },
+    {
+      "word": "inferno",
+      "start": 26.1288,
+      "end": 26.6688
+    },
+    {
+      "word": "at",
+      "start": 26.6688,
+      "end": 26.8888
+    },
+    {
+      "word": "1200",
+      "start": 26.8888,
+      "end": 27.4088
+    },
+    {
+      "word": "degrees",
+      "start": 27.4088,
+      "end": 27.9888
+    },
+    {
+      "word": "Celsius.",
+      "start": 27.9888,
+      "end": 28.5488
+    },
+    {
+      "word": "No",
+      "start": 29.0088,
+      "end": 29.2088
+    },
+    {
+      "word": "water,",
+      "start": 29.2088,
+      "end": 29.7088
+    },
+    {
+      "word": "no",
+      "start": 30.0688,
+      "end": 30.2688
+    },
+    {
+      "word": "air,",
+      "start": 30.2688,
+      "end": 30.6088
+    },
+    {
+      "word": "meteorites",
+      "start": 30.8488,
+      "end": 31.2488
+    },
+    {
+      "word": "hammered",
+      "start": 31.2488,
+      "end": 31.6488
+    },
+    {
+      "word": "it",
+      "start": 31.6488,
+      "end": 31.8888
+    },
+    {
+      "word": "every",
+      "start": 31.8888,
+      "end": 32.1088
+    },
+    {
+      "word": "day.",
+      "start": 32.1088,
+      "end": 32.4288
+    },
+    {
+      "word": "So",
+      "start": 32.4288,
+      "end": 33.0088
+    },
+    {
+      "word": "how,",
+      "start": 33.0088,
+      "end": 33.3488
+    },
+    {
+      "word": "did",
+      "start": 33.5088,
+      "end": 33.6288
+    },
+    {
+      "word": "that",
+      "start": 33.6288,
+      "end": 33.8688
+    },
+    {
+      "word": "hell",
+      "start": 33.8688,
+      "end": 34.0288
+    },
+    {
+      "word": "become",
+      "start": 34.0288,
+      "end": 34.3888
+    },
+    {
+      "word": "the",
+      "start": 34.3888,
+      "end": 34.5688
+    },
+    {
+      "word": "place",
+      "start": 34.5688,
+      "end": 34.8088
+    },
+    {
+      "word": "where",
+      "start": 34.8088,
+      "end": 35.0288
+    },
+    {
+      "word": "you",
+      "start": 35.0288,
+      "end": 35.2088
+    },
+    {
+      "word": "are",
+      "start": 35.2088,
+      "end": 35.4688
+    },
+    {
+      "word": "sitting",
+      "start": 35.4688,
+      "end": 35.7488
+    },
+    {
+      "word": "scrolling",
+      "start": 35.7488,
+      "end": 36.2888
+    },
+    {
+      "word": "through",
+      "start": 36.2888,
+      "end": 36.5888
+    },
+    {
+      "word": "your",
+      "start": 36.5888,
+      "end": 36.9288
+    },
+    {
+      "word": "phone?",
+      "start": 36.9288,
+      "end": 37.2088
+    },
+    {
+      "word": "This",
+      "start": 37.4688,
+      "end": 37.6688
+    },
+    {
+      "word": "is",
+      "start": 37.6688,
+      "end": 37.9288
+    },
+    {
+      "word": "the",
+      "start": 37.9288,
+      "end": 38.1488
+    },
+    {
+      "word": "whole",
+      "start": 38.1488,
+      "end": 38.3888
+    },
+    {
+      "word": "story.",
+      "start": 38.3888,
+      "end": 38.8288
+    },
+    {
+      "word": "To",
+      "start": 39.5288,
+      "end": 39.6488
+    },
+    {
+      "word": "tell",
+      "start": 39.6488,
+      "end": 39.8688
+    },
+    {
+      "word": "the",
+      "start": 39.8688,
+      "end": 40.1488
+    },
+    {
+      "word": "story",
+      "start": 40.1488,
+      "end": 40.3888
+    },
+    {
+      "word": "of",
+      "start": 40.3888,
+      "end": 40.5888
+    },
+    {
+      "word": "Earth",
+      "start": 40.5888,
+      "end": 40.8288
+    },
+    {
+      "word": "we",
+      "start": 40.8288,
+      "end": 41.0488
+    },
+    {
+      "word": "have",
+      "start": 41.0488,
+      "end": 41.2488
+    },
+    {
+      "word": "to",
+      "start": 41.2488,
+      "end": 41.4288
+    },
+    {
+      "word": "begin",
+      "start": 41.4288,
+      "end": 41.6888
+    },
+    {
+      "word": "before",
+      "start": 41.6888,
+      "end": 42.1088
+    },
+    {
+      "word": "Earth,",
+      "start": 42.1088,
+      "end": 42.4688
+    },
+    {
+      "word": "before",
+      "start": 42.6688,
+      "end": 42.9688
+    },
+    {
+      "word": "time",
+      "start": 42.9688,
+      "end": 43.2688
+    },
+    {
+      "word": "itself.",
+      "start": 43.2688,
+      "end": 43.8688
+    },
+    {
+      "word": "13",
+      "start": 44.4288,
+      "end": 44.7888
+    },
+    {
+      "word": ".8",
+      "start": 44.7888,
+      "end": 45.3688
+    },
+    {
+      "word": "billion",
+      "start": 45.3688,
+      "end": 45.7288
+    },
+    {
+      "word": "years",
+      "start": 45.7288,
+      "end": 46.0888
+    },
+    {
+      "word": "ago",
+      "start": 46.0888,
+      "end": 46.4088
+    },
+    {
+      "word": "everything",
+      "start": 46.4088,
+      "end": 46.9088
+    },
+    {
+      "word": "was",
+      "start": 46.9088,
+      "end": 47.2288
+    },
+    {
+      "word": "packed",
+      "start": 47.2288,
+      "end": 47.5088
+    },
+    {
+      "word": "into",
+      "start": 47.5088,
+      "end": 47.7888
+    },
+    {
+      "word": "a",
+      "start": 47.7888,
+      "end": 48.0288
+    },
+    {
+      "word": "point",
+      "start": 48.0288,
+      "end": 48.2688
+    },
+    {
+      "word": "smaller",
+      "start": 48.2688,
+      "end": 48.7488
+    },
+    {
+      "word": "than",
+      "start": 48.7488,
+      "end": 48.9488
+    },
+    {
+      "word": "an",
+      "start": 48.9488,
+      "end": 49.2288
+    },
+    {
+      "word": "atom.",
+      "start": 49.2288,
+      "end": 49.4688
+    },
+    {
+      "word": "Then",
+      "start": 49.8088,
+      "end": 49.9888
+    },
+    {
+      "word": "it",
+      "start": 49.9888,
+      "end": 50.3088
+    },
+    {
+      "word": "expanded.",
+      "start": 50.3088,
+      "end": 50.7488
+    },
+    {
+      "word": "The",
+      "start": 51.0688,
+      "end": 51.2088
+    },
+    {
+      "word": "Big",
+      "start": 51.2088,
+      "end": 51.4688
+    },
+    {
+      "word": "Bang,",
+      "start": 51.4688,
+      "end": 51.7888
+    },
+    {
+      "word": "not",
+      "start": 52.0288,
+      "end": 52.2488
+    },
+    {
+      "word": "an",
+      "start": 52.2488,
+      "end": 52.5088
+    },
+    {
+      "word": "explosion",
+      "start": 52.5088,
+      "end": 52.9288
+    },
+    {
+      "word": "like",
+      "start": 52.9288,
+      "end": 53.2288
+    },
+    {
+      "word": "fireworks",
+      "start": 53.2288,
+      "end": 53.7488
+    },
+    {
+      "word": "but",
+      "start": 53.7488,
+      "end": 54.0488
+    },
+    {
+      "word": "space",
+      "start": 54.0488,
+      "end": 54.3888
+    },
+    {
+      "word": "itself",
+      "start": 54.3888,
+      "end": 54.8088
+    },
+    {
+      "word": "swelling",
+      "start": 54.8088,
+      "end": 55.2088
+    },
+    {
+      "word": "faster",
+      "start": 55.2088,
+      "end": 55.7288
+    },
+    {
+      "word": "than",
+      "start": 55.7288,
+      "end": 55.9888
+    },
+    {
+      "word": "light.",
+      "start": 55.9888,
+      "end": 56.3288
+    },
+    {
+      "word": "Three",
+      "start": 56.8088,
+      "end": 57.0288
+    },
+    {
+      "word": "minutes",
+      "start": 57.0288,
+      "end": 57.3288
+    },
+    {
+      "word": "later",
+      "start": 57.3288,
+      "end": 57.6688
+    },
+    {
+      "word": "the",
+      "start": 57.6688,
+      "end": 57.9288
+    },
+    {
+      "word": "first",
+      "start": 57.9288,
+      "end": 58.2088
+    },
+    {
+      "word": "protons",
+      "start": 58.2088,
+      "end": 58.6688
+    },
+    {
+      "word": "appeared,",
+      "start": 58.6688,
+      "end": 59.3488
+    },
+    {
+      "word": "380",
+      "start": 59.9488,
+      "end": 60.5088
+    },
+    {
+      "word": ",000",
+      "start": 60.5088,
+      "end": 61.0088
+    },
+    {
+      "word": "years",
+      "start": 61.0088,
+      "end": 61.3488
+    },
+    {
+      "word": "later",
+      "start": 61.3488,
+      "end": 61.7288
+    },
+    {
+      "word": "there",
+      "start": 61.7288,
+      "end": 61.9288
+    },
+    {
+      "word": "was",
+      "start": 61.9288,
+      "end": 62.1488
+    },
+    {
+      "word": "light.",
+      "start": 62.1488,
+      "end": 62.4688
+    },
+    {
+      "word": "200",
+      "start": 62.4688,
+      "end": 63.1688
+    },
+    {
+      "word": "million",
+      "start": 63.1688,
+      "end": 63.6688
+    },
+    {
+      "word": "years",
+      "start": 63.6688,
+      "end": 63.9888
+    },
+    {
+      "word": "later",
+      "start": 63.9888,
+      "end": 64.3488
+    },
+    {
+      "word": "hydrogen",
+      "start": 64.3488,
+      "end": 64.9088
+    },
+    {
+      "word": "gas",
+      "start": 64.9088,
+      "end": 65.3288
+    },
+    {
+      "word": "gathered",
+      "start": 65.3288,
+      "end": 65.7688
+    },
+    {
+      "word": "grew",
+      "start": 65.7688,
+      "end": 66.0688
+    },
+    {
+      "word": "hotter",
+      "start": 66.0688,
+      "end": 66.5288
+    },
+    {
+      "word": "and",
+      "start": 66.5288,
+      "end": 66.9688
+    },
+    {
+      "word": "lit",
+      "start": 66.9688,
+      "end": 67.1088
+    },
+    {
+      "word": "up.",
+      "start": 67.1088,
+      "end": 67.4488
+    },
+    {
+      "word": "The",
+      "start": 67.6888,
+      "end": 67.7688
+    },
+    {
+      "word": "first",
+      "start": 67.7688,
+      "end": 68.0688
+    },
+    {
+      "word": "star",
+      "start": 68.0688,
+      "end": 68.3888
+    },
+    {
+      "word": "switched",
+      "start": 68.3888,
+      "end": 68.7888
+    },
+    {
+      "word": "on.",
+      "start": 68.7888,
+      "end": 69.1888
+    },
+    {
+      "word": "Inside",
+      "start": 69.8288,
+      "end": 70.0488
+    },
+    {
+      "word": "every",
+      "start": 70.0488,
+      "end": 70.4688
+    },
+    {
+      "word": "star",
+      "start": 70.4688,
+      "end": 70.8088
+    },
+    {
+      "word": "is",
+      "start": 70.8088,
+      "end": 71.0488
+    },
+    {
+      "word": "a",
+      "start": 71.0488,
+      "end": 71.2088
+    },
+    {
+      "word": "furnace,",
+      "start": 71.2088,
+      "end": 71.5888
+    },
+    {
+      "word": "burning",
+      "start": 71.8888,
+      "end": 72.1288
+    },
+    {
+      "word": "hydrogen",
+      "start": 72.1288,
+      "end": 72.7088
+    },
+    {
+      "word": "into",
+      "start": 72.7088,
+      "end": 73.0488
+    },
+    {
+      "word": "carbon,",
+      "start": 73.0488,
+      "end": 73.5888
+    },
+    {
+      "word": "oxygen",
+      "start": 73.8888,
+      "end": 74.2688
+    },
+    {
+      "word": "and",
+      "start": 74.2688,
+      "end": 74.5488
+    },
+    {
+      "word": "eventually",
+      "start": 74.5488,
+      "end": 75.0888
+    },
+    {
+      "word": "iron.",
+      "start": 75.0888,
+      "end": 75.5488
+    },
+    {
+      "word": "The",
+      "start": 75.9088,
+      "end": 75.9888
+    },
+    {
+      "word": "very",
+      "start": 75.9888,
+      "end": 76.3488
+    },
+    {
+      "word": "carbon",
+      "start": 76.3488,
+      "end": 76.6888
+    },
+    {
+      "word": "in",
+      "start": 76.6888,
+      "end": 76.8488
+    },
+    {
+      "word": "your",
+      "start": 76.8488,
+      "end": 77.0888
+    },
+    {
+      "word": "skin,",
+      "start": 77.0888,
+      "end": 77.4488
+    },
+    {
+      "word": "the",
+      "start": 77.6688,
+      "end": 77.8288
+    },
+    {
+      "word": "oxygen",
+      "start": 77.8288,
+      "end": 78.2888
+    },
+    {
+      "word": "you",
+      "start": 78.2888,
+      "end": 78.5288
+    },
+    {
+      "word": "are",
+      "start": 78.5288,
+      "end": 78.7088
+    },
+    {
+      "word": "breathing,",
+      "start": 78.7088,
+      "end": 79.0688
+    },
+    {
+      "word": "the",
+      "start": 79.2888,
+      "end": 79.3688
+    },
+    {
+      "word": "bigger",
+      "start": 79.3688,
+      "end": 79.6088
+    },
+    {
+      "word": "a",
+      "start": 79.6088,
+      "end": 79.9488
+    },
+    {
+      "word": "star",
+      "start": 79.9488,
+      "end": 80.1688
+    },
+    {
+      "word": "the",
+      "start": 80.1688,
+      "end": 80.4288
+    },
+    {
+      "word": "sooner",
+      "start": 80.4288,
+      "end": 80.7288
+    },
+    {
+      "word": "it",
+      "start": 80.7288,
+      "end": 80.9888
+    },
+    {
+      "word": "dies,",
+      "start": 80.9888,
+      "end": 81.2888
+    },
+    {
+      "word": "it",
+      "start": 81.5488,
+      "end": 81.7688
+    },
+    {
+      "word": "collapses",
+      "start": 81.7688,
+      "end": 82.1488
+    },
+    {
+      "word": "inward",
+      "start": 82.1488,
+      "end": 82.6488
+    },
+    {
+      "word": "then",
+      "start": 82.6488,
+      "end": 82.8888
+    },
+    {
+      "word": "explodes.",
+      "start": 82.8888,
+      "end": 83.4888
+    },
+    {
+      "word": "A",
+      "start": 83.9688,
+      "end": 84.2488
+    },
+    {
+      "word": "supernova?",
+      "start": 84.2488,
+      "end": 84.8088
+    },
+    {
+      "word": "As",
+      "start": 85.0288,
+      "end": 85.3288
+    },
+    {
+      "word": "bright",
+      "start": 85.3288,
+      "end": 85.6488
+    },
+    {
+      "word": "as",
+      "start": 85.6488,
+      "end": 85.8488
+    },
+    {
+      "word": "an",
+      "start": 85.8488,
+      "end": 86.1288
+    },
+    {
+      "word": "entire",
+      "start": 86.1288,
+      "end": 86.5088
+    },
+    {
+      "word": "galaxy,",
+      "start": 86.5088,
+      "end": 87.0688
+    },
+    {
+      "word": "scattering",
+      "start": 87.0688,
+      "end": 87.7088
+    },
+    {
+      "word": "gold,",
+      "start": 87.7088,
+      "end": 88.2288
+    },
+    {
+      "word": "silver",
+      "start": 88.3688,
+      "end": 88.7688
+    },
+    {
+      "word": "and",
+      "start": 88.7688,
+      "end": 88.9688
+    },
+    {
+      "word": "uranium",
+      "start": 88.9688,
+      "end": 89.5488
+    },
+    {
+      "word": "across",
+      "start": 89.5488,
+      "end": 89.9488
+    },
+    {
+      "word": "the",
+      "start": 89.9488,
+      "end": 90.1688
+    },
+    {
+      "word": "universe.",
+      "start": 90.1688,
+      "end": 90.6688
+    },
+    {
+      "word": "The",
+      "start": 91.1288,
+      "end": 91.2888
+    },
+    {
+      "word": "gold",
+      "start": 91.2888,
+      "end": 91.6088
+    },
+    {
+      "word": "in",
+      "start": 91.6088,
+      "end": 91.7688
+    },
+    {
+      "word": "a",
+      "start": 91.7688,
+      "end": 91.9088
+    },
+    {
+      "word": "wedding",
+      "start": 91.9088,
+      "end": 92.2088
+    },
+    {
+      "word": "ring",
+      "start": 92.2088,
+      "end": 92.5088
+    },
+    {
+      "word": "was",
+      "start": 92.5088,
+      "end": 92.7688
+    },
+    {
+      "word": "not",
+      "start": 92.7688,
+      "end": 93.0288
+    },
+    {
+      "word": "born",
+      "start": 93.0288,
+      "end": 93.2688
+    },
+    {
+      "word": "on",
+      "start": 93.2688,
+      "end": 93.6088
+    },
+    {
+      "word": "Earth,",
+      "start": 93.6088,
+      "end": 93.9088
+    },
+    {
+      "word": "it",
+      "start": 94.1488,
+      "end": 94.2688
+    },
+    {
+      "word": "was",
+      "start": 94.2688,
+      "end": 94.4888
+    },
+    {
+      "word": "born",
+      "start": 94.4888,
+      "end": 94.8088
+    },
+    {
+      "word": "when",
+      "start": 94.8088,
+      "end": 95.0688
+    },
+    {
+      "word": "two",
+      "start": 95.0688,
+      "end": 95.4688
+    },
+    {
+      "word": "stellar",
+      "start": 95.4688,
+      "end": 95.8088
+    },
+    {
+      "word": "corpses",
+      "start": 95.8088,
+      "end": 96.2888
+    },
+    {
+      "word": "collided.",
+      "start": 96.2888,
+      "end": 97.1688
+    },
+    {
+      "word": "Fast",
+      "start": 97.3488,
+      "end": 97.7288
+    },
+    {
+      "word": "forward",
+      "start": 97.7288,
+      "end": 98.1288
+    },
+    {
+      "word": "to",
+      "start": 98.1288,
+      "end": 98.3488
+    },
+    {
+      "word": "4",
+      "start": 98.3488,
+      "end": 98.7088
+    },
+    {
+      "word": ".6",
+      "start": 98.7088,
+      "end": 99.3688
+    },
+    {
+      "word": "billion",
+      "start": 99.3688,
+      "end": 99.7688
+    },
+    {
+      "word": "years",
+      "start": 99.7688,
+      "end": 100.1488
+    },
+    {
+      "word": "ago,",
+      "start": 100.1488,
+      "end": 100.4888
+    },
+    {
+      "word": "a",
+      "start": 100.7488,
+      "end": 100.8688
+    },
+    {
+      "word": "cold",
+      "start": 100.8688,
+      "end": 101.2488
+    },
+    {
+      "word": "cloud",
+      "start": 101.2488,
+      "end": 101.4888
+    },
+    {
+      "word": "of",
+      "start": 101.4888,
+      "end": 101.7488
+    },
+    {
+      "word": "stardust",
+      "start": 101.7488,
+      "end": 102.2488
+    },
+    {
+      "word": "millions",
+      "start": 102.2488,
+      "end": 102.7288
+    },
+    {
+      "word": "of",
+      "start": 102.7288,
+      "end": 103.0288
+    },
+    {
+      "word": "times",
+      "start": 103.0288,
+      "end": 103.4088
+    },
+    {
+      "word": "larger",
+      "start": 103.4088,
+      "end": 103.7888
+    },
+    {
+      "word": "than",
+      "start": 103.7888,
+      "end": 103.9688
+    },
+    {
+      "word": "the",
+      "start": 103.9688,
+      "end": 104.1688
+    },
+    {
+      "word": "solar",
+      "start": 104.1688,
+      "end": 104.5288
+    },
+    {
+      "word": "system",
+      "start": 104.5288,
+      "end": 104.9288
+    },
+    {
+      "word": "was",
+      "start": 104.9288,
+      "end": 105.2288
+    },
+    {
+      "word": "drifting",
+      "start": 105.2288,
+      "end": 105.6288
+    },
+    {
+      "word": "through",
+      "start": 105.6288,
+      "end": 105.9088
+    },
+    {
+      "word": "space.",
+      "start": 105.9088,
+      "end": 106.4288
+    },
+    {
+      "word": "Then",
+      "start": 106.7688,
+      "end": 107.1088
+    },
+    {
+      "word": "a",
+      "start": 107.1088,
+      "end": 107.3688
+    },
+    {
+      "word": "nearby",
+      "start": 107.3688,
+      "end": 107.8088
+    },
+    {
+      "word": "star",
+      "start": 107.8088,
+      "end": 108.1888
+    },
+    {
+      "word": "exploded.",
+      "start": 108.1888,
+      "end": 108.7888
+    },
+    {
+      "word": "Its",
+      "start": 109.2088,
+      "end": 109.4688
+    },
+    {
+      "word": "shock",
+      "start": 109.4688,
+      "end": 109.8088
+    },
+    {
+      "word": "wave",
+      "start": 109.8088,
+      "end": 110.1288
+    },
+    {
+      "word": "arrived",
+      "start": 110.1288,
+      "end": 110.6088
+    },
+    {
+      "word": "like",
+      "start": 110.6088,
+      "end": 110.8688
+    },
+    {
+      "word": "an",
+      "start": 110.8688,
+      "end": 111.1088
+    },
+    {
+      "word": "invisible",
+      "start": 111.1088,
+      "end": 111.5088
+    },
+    {
+      "word": "hand",
+      "start": 111.5088,
+      "end": 112.0288
+    },
+    {
+      "word": "crushing",
+      "start": 112.0288,
+      "end": 112.3888
+    },
+    {
+      "word": "the",
+      "start": 112.3888,
+      "end": 112.7288
+    },
+    {
+      "word": "cloud.",
+      "start": 112.7288,
+      "end": 113.0488
+    },
+    {
+      "word": "The",
+      "start": 113.4288,
+      "end": 113.6688
+    },
+    {
+      "word": "cloud",
+      "start": 113.6688,
+      "end": 113.9888
+    },
+    {
+      "word": "collapsed",
+      "start": 113.9888,
+      "end": 114.4888
+    },
+    {
+      "word": "inward,",
+      "start": 114.4888,
+      "end": 114.9888
+    },
+    {
+      "word": "spinning",
+      "start": 114.9888,
+      "end": 115.4688
+    },
+    {
+      "word": "like",
+      "start": 115.4688,
+      "end": 115.6688
+    },
+    {
+      "word": "a",
+      "start": 115.6688,
+      "end": 115.9288
+    },
+    {
+      "word": "whirlpool.",
+      "start": 115.9288,
+      "end": 116.4688
+    },
+    {
+      "word": "At",
+      "start": 116.7088,
+      "end": 116.8288
+    },
+    {
+      "word": "its",
+      "start": 116.8288,
+      "end": 117.0488
+    },
+    {
+      "word": "center",
+      "start": 117.0488,
+      "end": 117.3888
+    },
+    {
+      "word": "the",
+      "start": 117.3888,
+      "end": 117.5688
+    },
+    {
+      "word": "temperature",
+      "start": 117.5688,
+      "end": 118.0488
+    },
+    {
+      "word": "reached",
+      "start": 118.0488,
+      "end": 118.3888
+    },
+    {
+      "word": "10",
+      "start": 118.3888,
+      "end": 118.6888
+    },
+    {
+      "word": "million",
+      "start": 118.6888,
+      "end": 119.0688
+    },
+    {
+      "word": "degrees,",
+      "start": 119.0688,
+      "end": 119.6488
+    },
+    {
+      "word": "and",
+      "start": 119.8888,
+      "end": 120.0088
+    },
+    {
+      "word": "it",
+      "start": 120.0088,
+      "end": 120.1688
+    },
+    {
+      "word": "lit",
+      "start": 120.1688,
+      "end": 120.3088
+    },
+    {
+      "word": "up.",
+      "start": 120.3088,
+      "end": 120.6488
+    },
+    {
+      "word": "The",
+      "start": 120.8288,
+      "end": 120.9888
+    },
+    {
+      "word": "newborn",
+      "start": 120.9888,
+      "end": 121.3288
+    },
+    {
+      "word": "sun.",
+      "start": 121.3288,
+      "end": 121.7888
+    },
+    {
+      "word": "The",
+      "start": 122.2488,
+      "end": 122.3088
+    },
+    {
+      "word": "first",
+      "start": 122.3088,
+      "end": 122.6488
+    },
+    {
+      "word": "light",
+      "start": 122.6488,
+      "end": 122.9088
+    },
+    {
+      "word": "in",
+      "start": 122.9088,
+      "end": 123.0688
+    },
+    {
+      "word": "our",
+      "start": 123.0688,
+      "end": 123.2688
+    },
+    {
+      "word": "solar",
+      "start": 123.2688,
+      "end": 123.6088
+    },
+    {
+      "word": "system.",
+      "start": 123.6088,
+      "end": 124.0688
+    },
+    {
+      "word": "There",
+      "start": 124.4888,
+      "end": 124.4888
+    },
+    {
+      "word": "was",
+      "start": 124.4888,
+      "end": 124.7088
+    },
+    {
+      "word": "no",
+      "start": 124.7088,
+      "end": 124.9488
+    },
+    {
+      "word": "Earth",
+      "start": 124.9488,
+      "end": 125.1688
+    },
+    {
+      "word": "yet,",
+      "start": 125.1688,
+      "end": 125.4288
+    },
+    {
+      "word": "just",
+      "start": 125.5288,
+      "end": 125.7488
+    },
+    {
+      "word": "a",
+      "start": 125.7488,
+      "end": 125.9688
+    },
+    {
+      "word": "young",
+      "start": 125.9688,
+      "end": 126.2088
+    },
+    {
+      "word": "sun",
+      "start": 126.2088,
+      "end": 126.4688
+    },
+    {
+      "word": "in",
+      "start": 126.4688,
+      "end": 126.6288
+    },
+    {
+      "word": "the",
+      "start": 126.6288,
+      "end": 126.7688
+    },
+    {
+      "word": "middle",
+      "start": 126.7688,
+      "end": 126.9888
+    },
+    {
+      "word": "surrounded",
+      "start": 126.9888,
+      "end": 127.5088
+    },
+    {
+      "word": "by",
+      "start": 127.5088,
+      "end": 127.8088
+    },
+    {
+      "word": "an",
+      "start": 127.8088,
+      "end": 128.0688
+    },
+    {
+      "word": "enormous",
+      "start": 128.0688,
+      "end": 128.5888
+    },
+    {
+      "word": "wildly",
+      "start": 128.5888,
+      "end": 129.2288
+    },
+    {
+      "word": "spinning",
+      "start": 129.2288,
+      "end": 129.7488
+    },
+    {
+      "word": "disk",
+      "start": 129.7488,
+      "end": 130.1288
+    },
+    {
+      "word": "of",
+      "start": 130.1288,
+      "end": 130.3488
+    },
+    {
+      "word": "dust.",
+      "start": 130.3488,
+      "end": 130.7288
+    },
+    {
+      "word": "That",
+      "start": 131.0288,
+      "end": 131.3088
+    },
+    {
+      "word": "disk",
+      "start": 131.3088,
+      "end": 131.6488
+    },
+    {
+      "word": "was",
+      "start": 131.6488,
+      "end": 131.8688
+    },
+    {
+      "word": "the",
+      "start": 131.8688,
+      "end": 132.0688
+    },
+    {
+      "word": "construction",
+      "start": 132.0688,
+      "end": 132.6488
+    },
+    {
+      "word": "site.",
+      "start": 132.6488,
+      "end": 132.9488
+    },
+    {
+      "word": "Remember",
+      "start": 133.2288,
+      "end": 133.5488
+    },
+    {
+      "word": "this,",
+      "start": 133.5488,
+      "end": 133.8488
+    },
+    {
+      "word": "the",
+      "start": 134.1088,
+      "end": 134.2288
+    },
+    {
+      "word": "sun",
+      "start": 134.2288,
+      "end": 134.4888
+    },
+    {
+      "word": "came",
+      "start": 134.4888,
+      "end": 134.8088
+    },
+    {
+      "word": "first.",
+      "start": 134.8088,
+      "end": 135.3088
+    },
+    {
+      "word": "Earth",
+      "start": 135.6688,
+      "end": 136.0088
+    },
+    {
+      "word": "was",
+      "start": 136.0088,
+      "end": 136.2288
+    },
+    {
+      "word": "the",
+      "start": 136.2288,
+      "end": 136.5088
+    },
+    {
+      "word": "child",
+      "start": 136.5088,
+      "end": 136.8888
+    },
+    {
+      "word": "built",
+      "start": 136.8888,
+      "end": 137.2088
+    },
+    {
+      "word": "from",
+      "start": 137.2088,
+      "end": 137.3888
+    },
+    {
+      "word": "the",
+      "start": 137.3888,
+      "end": 137.6088
+    },
+    {
+      "word": "leftover",
+      "start": 137.6088,
+      "end": 138.0488
+    },
+    {
+      "word": "dust.",
+      "start": 138.0488,
+      "end": 138.5688
+    },
+    {
+      "word": "Inside",
+      "start": 138.9088,
+      "end": 139.4488
+    },
+    {
+      "word": "that",
+      "start": 139.4488,
+      "end": 139.7888
+    },
+    {
+      "word": "disk",
+      "start": 139.7888,
+      "end": 140.1488
+    },
+    {
+      "word": "dust",
+      "start": 140.1488,
+      "end": 140.6088
+    },
+    {
+      "word": "grains",
+      "start": 140.6088,
+      "end": 141.0888
+    },
+    {
+      "word": "collided",
+      "start": 141.0888,
+      "end": 141.6688
+    },
+    {
+      "word": "and",
+      "start": 141.6688,
+      "end": 141.9488
+    },
+    {
+      "word": "stuck",
+      "start": 141.9488,
+      "end": 142.1088
+    },
+    {
+      "word": "together.",
+      "start": 142.1088,
+      "end": 142.5488
+    },
+    {
+      "word": "Dust",
+      "start": 142.6888,
+      "end": 143.0288
+    },
+    {
+      "word": "became",
+      "start": 143.0288,
+      "end": 143.4688
+    },
+    {
+      "word": "pebbles,",
+      "start": 143.4688,
+      "end": 143.9688
+    },
+    {
+      "word": "pebbles",
+      "start": 144.2088,
+      "end": 144.5488
+    },
+    {
+      "word": "became",
+      "start": 144.5488,
+      "end": 144.9688
+    },
+    {
+      "word": "house",
+      "start": 144.9688,
+      "end": 145.3688
+    },
+    {
+      "word": "-sized",
+      "start": 145.3688,
+      "end": 145.7288
+    },
+    {
+      "word": "rocks,",
+      "start": 145.7288,
+      "end": 146.2488
+    },
+    {
+      "word": "rocks",
+      "start": 146.5288,
+      "end": 146.9288
+    },
+    {
+      "word": "became",
+      "start": 146.9288,
+      "end": 147.3488
+    },
+    {
+      "word": "planetary",
+      "start": 147.3488,
+      "end": 148.0888
+    },
+    {
+      "word": "embryos.",
+      "start": 148.0888,
+      "end": 149.1488
+    },
+    {
+      "word": "Colliding",
+      "start": 149.3288,
+      "end": 149.8288
+    },
+    {
+      "word": "and",
+      "start": 149.8288,
+      "end": 150.0488
+    },
+    {
+      "word": "merging",
+      "start": 150.0488,
+      "end": 150.3488
+    },
+    {
+      "word": "for",
+      "start": 150.3488,
+      "end": 150.6288
+    },
+    {
+      "word": "50",
+      "start": 150.6288,
+      "end": 150.9888
+    },
+    {
+      "word": "million",
+      "start": 150.9888,
+      "end": 151.3288
+    },
+    {
+      "word": "years.",
+      "start": 151.3288,
+      "end": 151.8088
+    },
+    {
+      "word": "The",
+      "start": 152.0488,
+      "end": 152.2088
+    },
+    {
+      "word": "result?",
+      "start": 152.2088,
+      "end": 152.6288
+    },
+    {
+      "word": "A",
+      "start": 152.8288,
+      "end": 153.1488
+    },
+    {
+      "word": "glowing",
+      "start": 153.1488,
+      "end": 153.4488
+    },
+    {
+      "word": "ball",
+      "start": 153.4488,
+      "end": 153.7888
+    },
+    {
+      "word": "of",
+      "start": 153.7888,
+      "end": 154.0088
+    },
+    {
+      "word": "hot",
+      "start": 154.0088,
+      "end": 154.2488
+    },
+    {
+      "word": "rock.",
+      "start": 154.2488,
+      "end": 154.5888
+    },
+    {
+      "word": "The",
+      "start": 154.9088,
+      "end": 155.0288
+    },
+    {
+      "word": "newborn",
+      "start": 155.0288,
+      "end": 155.4288
+    },
+    {
+      "word": "Earth",
+      "start": 155.4288,
+      "end": 155.7888
+    },
+    {
+      "word": "4",
+      "start": 155.7888,
+      "end": 156.2088
+    },
+    {
+      "word": ".54",
+      "start": 156.2088,
+      "end": 157.1088
+    },
+    {
+      "word": "billion",
+      "start": 157.1088,
+      "end": 157.5688
+    },
+    {
+      "word": "years",
+      "start": 157.5688,
+      "end": 157.9288
+    },
+    {
+      "word": "ago,",
+      "start": 157.9288,
+      "end": 158.2488
+    },
+    {
+      "word": "this",
+      "start": 158.3088,
+      "end": 158.4888
+    },
+    {
+      "word": "was",
+      "start": 158.4888,
+      "end": 158.7488
+    },
+    {
+      "word": "hell.",
+      "start": 158.7488,
+      "end": 158.9688
+    },
+    {
+      "word": "The",
+      "start": 159.2888,
+      "end": 159.4488
+    },
+    {
+      "word": "surface",
+      "start": 159.4488,
+      "end": 159.8088
+    },
+    {
+      "word": "was",
+      "start": 159.8088,
+      "end": 160.0688
+    },
+    {
+      "word": "boiling",
+      "start": 160.0688,
+      "end": 160.4288
+    },
+    {
+      "word": "magma",
+      "start": 160.4288,
+      "end": 160.9288
+    },
+    {
+      "word": "at",
+      "start": 160.9288,
+      "end": 161.1288
+    },
+    {
+      "word": "1200",
+      "start": 161.1288,
+      "end": 161.6488
+    },
+    {
+      "word": "degrees",
+      "start": 161.6488,
+      "end": 162.2288
+    },
+    {
+      "word": "Celsius.",
+      "start": 162.2288,
+      "end": 162.7688
+    },
+    {
+      "word": "No",
+      "start": 163.1488,
+      "end": 163.4088
+    },
+    {
+      "word": "water.",
+      "start": 163.4088,
+      "end": 163.8488
+    },
+    {
+      "word": "No",
+      "start": 164.2488,
+      "end": 164.5288
+    },
+    {
+      "word": "soil,",
+      "start": 164.5288,
+      "end": 164.9288
+    },
+    {
+      "word": "a",
+      "start": 165.1088,
+      "end": 165.2688
+    },
+    {
+      "word": "sky",
+      "start": 165.2688,
+      "end": 165.5888
+    },
+    {
+      "word": "full",
+      "start": 165.5888,
+      "end": 165.9088
+    },
+    {
+      "word": "of",
+      "start": 165.9088,
+      "end": 166.1488
+    },
+    {
+      "word": "poisonous",
+      "start": 166.1488,
+      "end": 166.5688
+    },
+    {
+      "word": "gases.",
+      "start": 166.5688,
+      "end": 167.1288
+    },
+    {
+      "word": "Thousands",
+      "start": 167.1288,
+      "end": 167.8488
+    },
+    {
+      "word": "of",
+      "start": 167.8488,
+      "end": 168.1888
+    },
+    {
+      "word": "meteorites",
+      "start": 168.1888,
+      "end": 168.6688
+    },
+    {
+      "word": "rained",
+      "start": 168.6688,
+      "end": 168.9888
+    },
+    {
+      "word": "down",
+      "start": 168.9888,
+      "end": 169.3688
+    },
+    {
+      "word": "every",
+      "start": 169.3688,
+      "end": 169.7288
+    },
+    {
+      "word": "day.",
+      "start": 169.7288,
+      "end": 170.0688
+    },
+    {
+      "word": "Then",
+      "start": 170.2488,
+      "end": 170.4888
+    },
+    {
+      "word": "came",
+      "start": 170.4888,
+      "end": 170.8288
+    },
+    {
+      "word": "the",
+      "start": 170.8288,
+      "end": 171.0688
+    },
+    {
+      "word": "apocalypse.",
+      "start": 171.0688,
+      "end": 171.6488
+    },
+    {
+      "word": "A",
+      "start": 172.1688,
+      "end": 172.2088
+    },
+    {
+      "word": "Mars",
+      "start": 172.2088,
+      "end": 172.5688
+    },
+    {
+      "word": "-sized",
+      "start": 172.5688,
+      "end": 173.0088
+    },
+    {
+      "word": "planet",
+      "start": 173.0088,
+      "end": 173.4088
+    },
+    {
+      "word": "called",
+      "start": 173.4088,
+      "end": 173.7288
+    },
+    {
+      "word": "Theia",
+      "start": 173.7288,
+      "end": 174.1688
+    },
+    {
+      "word": "hurtled",
+      "start": 174.1688,
+      "end": 174.5688
+    },
+    {
+      "word": "toward",
+      "start": 174.5688,
+      "end": 174.8688
+    },
+    {
+      "word": "Earth",
+      "start": 174.8688,
+      "end": 175.1488
+    },
+    {
+      "word": "at",
+      "start": 175.1488,
+      "end": 175.4288
+    },
+    {
+      "word": "40",
+      "start": 175.4288,
+      "end": 175.7888
+    },
+    {
+      "word": ",000",
+      "start": 175.7888,
+      "end": 176.1888
+    },
+    {
+      "word": "kilometers",
+      "start": 176.1888,
+      "end": 176.7288
+    },
+    {
+      "word": "per",
+      "start": 176.7288,
+      "end": 177.0488
+    },
+    {
+      "word": "hour",
+      "start": 177.0488,
+      "end": 177.3688
+    },
+    {
+      "word": "and",
+      "start": 177.3688,
+      "end": 177.6288
+    },
+    {
+      "word": "struck",
+      "start": 177.6288,
+      "end": 177.7888
+    },
+    {
+      "word": "it",
+      "start": 177.7888,
+      "end": 178.0088
+    },
+    {
+      "word": "head",
+      "start": 178.0088,
+      "end": 178.2088
+    },
+    {
+      "word": "on.",
+      "start": 178.2088,
+      "end": 178.4488
+    },
+    {
+      "word": "The",
+      "start": 179.5088,
+      "end": 179.7288
+    },
+    {
+      "word": "impact",
+      "start": 179.7288,
+      "end": 180.1488
+    },
+    {
+      "word": "shattered",
+      "start": 180.1488,
+      "end": 180.6288
+    },
+    {
+      "word": "Theia",
+      "start": 180.6288,
+      "end": 181.1288
+    },
+    {
+      "word": "and",
+      "start": 181.1288,
+      "end": 181.3488
+    },
+    {
+      "word": "blasted",
+      "start": 181.3488,
+      "end": 181.8888
+    },
+    {
+      "word": "Earth's",
+      "start": 181.8888,
+      "end": 182.4288
+    },
+    {
+      "word": "outer",
+      "start": 182.4288,
+      "end": 182.6288
+    },
+    {
+      "word": "layers",
+      "start": 182.6288,
+      "end": 183.1088
+    },
+    {
+      "word": "into",
+      "start": 183.1088,
+      "end": 183.3688
+    },
+    {
+      "word": "space.",
+      "start": 183.3688,
+      "end": 183.9088
+    },
+    {
+      "word": "It",
+      "start": 184.2888,
+      "end": 184.2888
+    },
+    {
+      "word": "looked",
+      "start": 184.2888,
+      "end": 184.4688
+    },
+    {
+      "word": "like",
+      "start": 184.4688,
+      "end": 184.7288
+    },
+    {
+      "word": "the",
+      "start": 184.7288,
+      "end": 184.9888
+    },
+    {
+      "word": "end.",
+      "start": 184.9888,
+      "end": 185.2488
+    },
+    {
+      "word": "But",
+      "start": 185.5888,
+      "end": 185.6888
+    },
+    {
+      "word": "the",
+      "start": 185.6888,
+      "end": 185.9088
+    },
+    {
+      "word": "debris",
+      "start": 185.9088,
+      "end": 186.1488
+    },
+    {
+      "word": "did",
+      "start": 186.1488,
+      "end": 186.4288
+    },
+    {
+      "word": "not",
+      "start": 186.4288,
+      "end": 186.6288
+    },
+    {
+      "word": "escape.",
+      "start": 186.6288,
+      "end": 187.0888
+    },
+    {
+      "word": "Gravity",
+      "start": 187.4688,
+      "end": 187.8488
+    },
+    {
+      "word": "held",
+      "start": 187.8488,
+      "end": 188.0888
+    },
+    {
+      "word": "it",
+      "start": 188.0888,
+      "end": 188.3088
+    },
+    {
+      "word": "nearby.",
+      "start": 188.3088,
+      "end": 188.7688
+    },
+    {
+      "word": "The",
+      "start": 189.0288,
+      "end": 189.2488
+    },
+    {
+      "word": "fragments",
+      "start": 189.2488,
+      "end": 189.5888
+    },
+    {
+      "word": "orbited,",
+      "start": 189.5888,
+      "end": 190.1888
+    },
+    {
+      "word": "collided,",
+      "start": 190.3488,
+      "end": 190.6888
+    },
+    {
+      "word": "stuck",
+      "start": 190.8888,
+      "end": 190.9688
+    },
+    {
+      "word": "together.",
+      "start": 190.9688,
+      "end": 191.4888
+    },
+    {
+      "word": "And",
+      "start": 191.7888,
+      "end": 192.0088
+    },
+    {
+      "word": "in",
+      "start": 192.0088,
+      "end": 192.1488
+    },
+    {
+      "word": "just",
+      "start": 192.1488,
+      "end": 192.4288
+    },
+    {
+      "word": "a",
+      "start": 192.4288,
+      "end": 192.5088
+    },
+    {
+      "word": "hundred",
+      "start": 192.5088,
+      "end": 192.8488
+    },
+    {
+      "word": "years",
+      "start": 192.8488,
+      "end": 193.3088
+    },
+    {
+      "word": "became",
+      "start": 193.3088,
+      "end": 193.7288
+    },
+    {
+      "word": "the",
+      "start": 193.7288,
+      "end": 194.0088
+    },
+    {
+      "word": "moon.",
+      "start": 194.0088,
+      "end": 194.2888
+    },
+    {
+      "word": "The",
+      "start": 194.5488,
+      "end": 194.7288
+    },
+    {
+      "word": "moon",
+      "start": 194.7288,
+      "end": 195.0688
+    },
+    {
+      "word": "is",
+      "start": 195.0688,
+      "end": 195.3088
+    },
+    {
+      "word": "a",
+      "start": 195.3088,
+      "end": 195.5088
+    },
+    {
+      "word": "piece",
+      "start": 195.5088,
+      "end": 195.6888
+    },
+    {
+      "word": "of",
+      "start": 195.6888,
+      "end": 195.9088
+    },
+    {
+      "word": "Earth.",
+      "start": 195.9088,
+      "end": 196.1688
+    },
+    {
+      "word": "Every",
+      "start": 196.1688,
+      "end": 196.7488
+    },
+    {
+      "word": "time",
+      "start": 196.7488,
+      "end": 197.0488
+    },
+    {
+      "word": "you",
+      "start": 197.0488,
+      "end": 197.2088
+    },
+    {
+      "word": "gaze",
+      "start": 197.2088,
+      "end": 197.4688
+    },
+    {
+      "word": "at",
+      "start": 197.4688,
+      "end": 197.6888
+    },
+    {
+      "word": "it",
+      "start": 197.6888,
+      "end": 197.8088
+    },
+    {
+      "word": "you",
+      "start": 197.8088,
+      "end": 197.9688
+    },
+    {
+      "word": "are",
+      "start": 197.9688,
+      "end": 198.1488
+    },
+    {
+      "word": "looking",
+      "start": 198.1488,
+      "end": 198.4288
+    },
+    {
+      "word": "at",
+      "start": 198.4288,
+      "end": 198.6288
+    },
+    {
+      "word": "the",
+      "start": 198.6288,
+      "end": 198.8688
+    },
+    {
+      "word": "scar",
+      "start": 198.8688,
+      "end": 199.0688
+    },
+    {
+      "word": "of",
+      "start": 199.0688,
+      "end": 199.2488
+    },
+    {
+      "word": "the",
+      "start": 199.2488,
+      "end": 199.3688
+    },
+    {
+      "word": "most",
+      "start": 199.3688,
+      "end": 199.6088
+    },
+    {
+      "word": "terrifying",
+      "start": 199.6088,
+      "end": 200.1888
+    },
+    {
+      "word": "accident",
+      "start": 200.1888,
+      "end": 200.7688
+    },
+    {
+      "word": "in",
+      "start": 200.7688,
+      "end": 200.9288
+    },
+    {
+      "word": "our",
+      "start": 200.9288,
+      "end": 201.1688
+    },
+    {
+      "word": "planet's",
+      "start": 201.1688,
+      "end": 201.6488
+    },
+    {
+      "word": "history.",
+      "start": 201.6488,
+      "end": 201.9888
+    },
+    {
+      "word": "After",
+      "start": 202.3888,
+      "end": 202.6288
+    },
+    {
+      "word": "the",
+      "start": 202.6288,
+      "end": 202.8488
+    },
+    {
+      "word": "impact,",
+      "start": 202.8488,
+      "end": 203.3288
+    },
+    {
+      "word": "Earth",
+      "start": 203.5488,
+      "end": 203.7488
+    },
+    {
+      "word": "was",
+      "start": 203.7488,
+      "end": 203.9888
+    },
+    {
+      "word": "a",
+      "start": 203.9888,
+      "end": 204.1688
+    },
+    {
+      "word": "ball",
+      "start": 204.1688,
+      "end": 204.3688
+    },
+    {
+      "word": "of",
+      "start": 204.3688,
+      "end": 204.5888
+    },
+    {
+      "word": "fire.",
+      "start": 204.5888,
+      "end": 204.9888
+    },
+    {
+      "word": "But",
+      "start": 205.3488,
+      "end": 205.4488
+    },
+    {
+      "word": "it",
+      "start": 205.4488,
+      "end": 205.5888
+    },
+    {
+      "word": "had",
+      "start": 205.5888,
+      "end": 205.7688
+    },
+    {
+      "word": "two",
+      "start": 205.7688,
+      "end": 206.1088
+    },
+    {
+      "word": "rescuers,",
+      "start": 206.1088,
+      "end": 206.6688
+    },
+    {
+      "word": "the",
+      "start": 206.8088,
+      "end": 206.9488
+    },
+    {
+      "word": "perfect",
+      "start": 206.9488,
+      "end": 207.3088
+    },
+    {
+      "word": "distance",
+      "start": 207.3088,
+      "end": 207.7888
+    },
+    {
+      "word": "from",
+      "start": 207.7888,
+      "end": 207.9888
+    },
+    {
+      "word": "the",
+      "start": 207.9888,
+      "end": 208.2088
+    },
+    {
+      "word": "sun",
+      "start": 208.2088,
+      "end": 208.4088
+    },
+    {
+      "word": "and",
+      "start": 208.4088,
+      "end": 208.5888
+    },
+    {
+      "word": "just",
+      "start": 208.5888,
+      "end": 208.8688
+    },
+    {
+      "word": "enough",
+      "start": 208.8688,
+      "end": 209.1688
+    },
+    {
+      "word": "size",
+      "start": 209.1688,
+      "end": 209.5288
+    },
+    {
+      "word": "to",
+      "start": 209.5288,
+      "end": 209.7288
+    },
+    {
+      "word": "hold",
+      "start": 209.7288,
+      "end": 209.9288
+    },
+    {
+      "word": "on",
+      "start": 209.9288,
+      "end": 210.1888
+    },
+    {
+      "word": "to",
+      "start": 210.1888,
+      "end": 210.4288
+    },
+    {
+      "word": "water.",
+      "start": 210.4288,
+      "end": 210.7888
+    },
+    {
+      "word": "Earth",
+      "start": 211.1088,
+      "end": 211.3488
+    },
+    {
+      "word": "cooled.",
+      "start": 211.3488,
+      "end": 211.8688
+    },
+    {
+      "word": "Magma",
+      "start": 212.4488,
+      "end": 212.7488
+    },
+    {
+      "word": "hardened",
+      "start": 212.7488,
+      "end": 213.0688
+    },
+    {
+      "word": "into",
+      "start": 213.0688,
+      "end": 213.3888
+    },
+    {
+      "word": "a",
+      "start": 213.3888,
+      "end": 213.5888
+    },
+    {
+      "word": "rocky",
+      "start": 213.5888,
+      "end": 213.9288
+    },
+    {
+      "word": "crust.",
+      "start": 213.9288,
+      "end": 214.3888
+    },
+    {
+      "word": "Volcanoes",
+      "start": 214.8888,
+      "end": 215.4488
+    },
+    {
+      "word": "erupted",
+      "start": 215.4488,
+      "end": 215.9288
+    },
+    {
+      "word": "furiously",
+      "start": 215.9288,
+      "end": 216.5688
+    },
+    {
+      "word": "releasing",
+      "start": 216.5688,
+      "end": 217.0488
+    },
+    {
+      "word": "water",
+      "start": 217.0488,
+      "end": 217.5288
+    },
+    {
+      "word": "vapor",
+      "start": 217.5288,
+      "end": 217.8488
+    },
+    {
+      "word": "and",
+      "start": 217.8488,
+      "end": 218.1088
+    },
+    {
+      "word": "building",
+      "start": 218.1088,
+      "end": 218.3488
+    },
+    {
+      "word": "the",
+      "start": 218.3488,
+      "end": 218.5888
+    },
+    {
+      "word": "first",
+      "start": 218.5888,
+      "end": 218.8288
+    },
+    {
+      "word": "atmosphere.",
+      "start": 218.8288,
+      "end": 219.4488
+    },
+    {
+      "word": "The",
+      "start": 219.9088,
+      "end": 220.0888
+    },
+    {
+      "word": "vapor",
+      "start": 220.0888,
+      "end": 220.3688
+    },
+    {
+      "word": "rose",
+      "start": 220.3688,
+      "end": 220.7488
+    },
+    {
+      "word": "into",
+      "start": 220.7488,
+      "end": 221.0488
+    },
+    {
+      "word": "clouds.",
+      "start": 221.0488,
+      "end": 221.5488
+    },
+    {
+      "word": "Then",
+      "start": 221.7288,
+      "end": 221.9888
+    },
+    {
+      "word": "came",
+      "start": 221.9888,
+      "end": 222.3288
+    },
+    {
+      "word": "rain,",
+      "start": 222.3288,
+      "end": 222.7288
+    },
+    {
+      "word": "rain",
+      "start": 223.0088,
+      "end": 223.3288
+    },
+    {
+      "word": "that",
+      "start": 223.3288,
+      "end": 223.6088
+    },
+    {
+      "word": "lasted,",
+      "start": 223.6088,
+      "end": 224.0288
+    },
+    {
+      "word": "not",
+      "start": 224.3488,
+      "end": 224.5288
+    },
+    {
+      "word": "a",
+      "start": 224.5288,
+      "end": 224.7088
+    },
+    {
+      "word": "few",
+      "start": 224.7088,
+      "end": 224.8488
+    },
+    {
+      "word": "days",
+      "start": 224.8488,
+      "end": 225.2088
+    },
+    {
+      "word": "but",
+      "start": 225.2088,
+      "end": 225.4888
+    },
+    {
+      "word": "thousands",
+      "start": 225.4888,
+      "end": 225.9288
+    },
+    {
+      "word": "of",
+      "start": 225.9288,
+      "end": 226.1488
+    },
+    {
+      "word": "years.",
+      "start": 226.1488,
+      "end": 226.5088
+    },
+    {
+      "word": "Millions",
+      "start": 226.8088,
+      "end": 227.2688
+    },
+    {
+      "word": "of",
+      "start": 227.2688,
+      "end": 227.5488
+    },
+    {
+      "word": "icy",
+      "start": 227.5488,
+      "end": 227.8288
+    },
+    {
+      "word": "comets",
+      "start": 227.8288,
+      "end": 228.2288
+    },
+    {
+      "word": "crashed",
+      "start": 228.2288,
+      "end": 228.6688
+    },
+    {
+      "word": "down",
+      "start": 228.6688,
+      "end": 229.0888
+    },
+    {
+      "word": "bringing",
+      "start": 229.0888,
+      "end": 229.3888
+    },
+    {
+      "word": "even",
+      "start": 229.3888,
+      "end": 229.7688
+    },
+    {
+      "word": "more",
+      "start": 229.7688,
+      "end": 230.0488
+    },
+    {
+      "word": "water.",
+      "start": 230.0488,
+      "end": 230.3688
+    },
+    {
+      "word": "Water",
+      "start": 230.6488,
+      "end": 230.9888
+    },
+    {
+      "word": "filled",
+      "start": 230.9888,
+      "end": 231.3688
+    },
+    {
+      "word": "every",
+      "start": 231.3688,
+      "end": 231.7488
+    },
+    {
+      "word": "low",
+      "start": 231.7488,
+      "end": 232.0288
+    },
+    {
+      "word": "place.",
+      "start": 232.0288,
+      "end": 232.4688
+    },
+    {
+      "word": "Magma",
+      "start": 232.9088,
+      "end": 233.2688
+    },
+    {
+      "word": "basins",
+      "start": 233.2688,
+      "end": 233.6688
+    },
+    {
+      "word": "became",
+      "start": 233.6688,
+      "end": 234.0688
+    },
+    {
+      "word": "oceans.",
+      "start": 234.0688,
+      "end": 234.6688
+    },
+    {
+      "word": "The",
+      "start": 235.1488,
+      "end": 235.2688
+    },
+    {
+      "word": "Red",
+      "start": 235.2688,
+      "end": 235.6088
+    },
+    {
+      "word": "Inferno",
+      "start": 235.6088,
+      "end": 236.2688
+    },
+    {
+      "word": "became",
+      "start": 236.2688,
+      "end": 236.6488
+    },
+    {
+      "word": "a",
+      "start": 236.6488,
+      "end": 236.8888
+    },
+    {
+      "word": "blue",
+      "start": 236.8888,
+      "end": 237.1288
+    },
+    {
+      "word": "planet.",
+      "start": 237.1288,
+      "end": 237.6088
+    },
+    {
+      "word": "The",
+      "start": 238.0288,
+      "end": 238.1488
+    },
+    {
+      "word": "evidence",
+      "start": 238.1488,
+      "end": 238.4888
+    },
+    {
+      "word": "is",
+      "start": 238.4888,
+      "end": 238.7688
+    },
+    {
+      "word": "in",
+      "start": 238.7688,
+      "end": 238.9088
+    },
+    {
+      "word": "Australia.",
+      "start": 238.9088,
+      "end": 239.5088
+    },
+    {
+      "word": "Zircon",
+      "start": 239.9088,
+      "end": 240.4088
+    },
+    {
+      "word": "crystals",
+      "start": 240.4088,
+      "end": 240.8688
+    },
+    {
+      "word": "4",
+      "start": 240.8688,
+      "end": 241.3888
+    },
+    {
+      "word": ".4",
+      "start": 241.3888,
+      "end": 242.1288
+    },
+    {
+      "word": "billion",
+      "start": 242.1288,
+      "end": 242.4888
+    },
+    {
+      "word": "years",
+      "start": 242.4888,
+      "end": 242.9288
+    },
+    {
+      "word": "old",
+      "start": 242.9288,
+      "end": 243.2488
+    },
+    {
+      "word": "formed",
+      "start": 243.2488,
+      "end": 243.6488
+    },
+    {
+      "word": "in",
+      "start": 243.6488,
+      "end": 243.8488
+    },
+    {
+      "word": "the",
+      "start": 243.8488,
+      "end": 244.0088
+    },
+    {
+      "word": "presence",
+      "start": 244.0088,
+      "end": 244.2488
+    },
+    {
+      "word": "of",
+      "start": 244.2488,
+      "end": 244.5488
+    },
+    {
+      "word": "water.",
+      "start": 244.5488,
+      "end": 244.8688
+    },
+    {
+      "word": "Just",
+      "start": 245.1688,
+      "end": 245.5088
+    },
+    {
+      "word": "150",
+      "start": 245.5088,
+      "end": 246.1688
+    },
+    {
+      "word": "million",
+      "start": 246.1688,
+      "end": 246.7288
+    },
+    {
+      "word": "years",
+      "start": 246.7288,
+      "end": 247.1288
+    },
+    {
+      "word": "after",
+      "start": 247.1288,
+      "end": 247.4288
+    },
+    {
+      "word": "its",
+      "start": 247.4288,
+      "end": 247.6488
+    },
+    {
+      "word": "birth,",
+      "start": 247.6488,
+      "end": 247.9288
+    },
+    {
+      "word": "Earth",
+      "start": 248.0488,
+      "end": 248.2688
+    },
+    {
+      "word": "already",
+      "start": 248.2688,
+      "end": 248.7088
+    },
+    {
+      "word": "had",
+      "start": 248.7088,
+      "end": 248.9688
+    },
+    {
+      "word": "seas.",
+      "start": 248.9688,
+      "end": 249.3488
+    },
+    {
+      "word": "This",
+      "start": 249.8088,
+      "end": 250.0688
+    },
+    {
+      "word": "was",
+      "start": 250.0688,
+      "end": 250.3288
+    },
+    {
+      "word": "the",
+      "start": 250.3288,
+      "end": 250.5688
+    },
+    {
+      "word": "first",
+      "start": 250.5688,
+      "end": 250.8488
+    },
+    {
+      "word": "great",
+      "start": 250.8488,
+      "end": 251.1888
+    },
+    {
+      "word": "turning",
+      "start": 251.1888,
+      "end": 251.5088
+    },
+    {
+      "word": "point.",
+      "start": 251.5088,
+      "end": 251.9288
+    },
+    {
+      "word": "With",
+      "start": 252.0288,
+      "end": 252.2288
+    },
+    {
+      "word": "water,",
+      "start": 252.2288,
+      "end": 252.7488
+    },
+    {
+      "word": "everything",
+      "start": 252.7488,
+      "end": 253.3088
+    },
+    {
+      "word": "became",
+      "start": 253.3088,
+      "end": 253.7888
+    },
+    {
+      "word": "possible.",
+      "start": 253.7888,
+      "end": 254.3888
+    },
+    {
+      "word": "3",
+      "start": 254.8688,
+      "end": 255.1288
+    },
+    {
+      "word": ".8",
+      "start": 255.1288,
+      "end": 255.7288
+    },
+    {
+      "word": "billion",
+      "start": 255.7288,
+      "end": 256.1088
+    },
+    {
+      "word": "years",
+      "start": 256.1088,
+      "end": 256.5288
+    },
+    {
+      "word": "ago",
+      "start": 256.5288,
+      "end": 256.8288
+    },
+    {
+      "word": "on",
+      "start": 256.8288,
+      "end": 257.0288
+    },
+    {
+      "word": "the",
+      "start": 257.0288,
+      "end": 257.2288
+    },
+    {
+      "word": "ocean",
+      "start": 257.2288,
+      "end": 257.6088
+    },
+    {
+      "word": "floor,",
+      "start": 257.6088,
+      "end": 257.9688
+    },
+    {
+      "word": "underwater",
+      "start": 258.3488,
+      "end": 258.7288
+    },
+    {
+      "word": "volcanoes",
+      "start": 258.7288,
+      "end": 259.4488
+    },
+    {
+      "word": "vented",
+      "start": 259.4488,
+      "end": 259.8888
+    },
+    {
+      "word": "hot",
+      "start": 259.8888,
+      "end": 260.2288
+    },
+    {
+      "word": "water",
+      "start": 260.2288,
+      "end": 260.5688
+    },
+    {
+      "word": "rich",
+      "start": 260.5688,
+      "end": 260.8488
+    },
+    {
+      "word": "in",
+      "start": 260.8488,
+      "end": 261.1088
+    },
+    {
+      "word": "chemicals.",
+      "start": 261.1088,
+      "end": 261.5688
+    },
+    {
+      "word": "A",
+      "start": 262.0688,
+      "end": 262.2488
+    },
+    {
+      "word": "tiny",
+      "start": 262.2488,
+      "end": 262.6888
+    },
+    {
+      "word": "fatty",
+      "start": 262.6888,
+      "end": 263.0488
+    },
+    {
+      "word": "membrane",
+      "start": 263.0488,
+      "end": 263.5888
+    },
+    {
+      "word": "folded",
+      "start": 263.5888,
+      "end": 263.9888
+    },
+    {
+      "word": "around",
+      "start": 263.9888,
+      "end": 264.3288
+    },
+    {
+      "word": "itself",
+      "start": 264.3288,
+      "end": 264.7488
+    },
+    {
+      "word": "trapped",
+      "start": 264.7488,
+      "end": 265.2088
+    },
+    {
+      "word": "chemicals",
+      "start": 265.2088,
+      "end": 265.6888
+    },
+    {
+      "word": "inside",
+      "start": 265.6888,
+      "end": 266.2888
+    },
+    {
+      "word": "and",
+      "start": 266.2888,
+      "end": 266.5488
+    },
+    {
+      "word": "learned",
+      "start": 266.5488,
+      "end": 266.7688
+    },
+    {
+      "word": "to",
+      "start": 266.7688,
+      "end": 267.0488
+    },
+    {
+      "word": "copy",
+      "start": 267.0488,
+      "end": 267.2888
+    },
+    {
+      "word": "itself.",
+      "start": 267.2888,
+      "end": 267.7488
+    },
+    {
+      "word": "The",
+      "start": 268.1888,
+      "end": 268.3888
+    },
+    {
+      "word": "first",
+      "start": 268.3888,
+      "end": 268.6688
+    },
+    {
+      "word": "life,",
+      "start": 268.6688,
+      "end": 269.0488
+    },
+    {
+      "word": "just",
+      "start": 269.2288,
+      "end": 269.4888
+    },
+    {
+      "word": "bacteria,",
+      "start": 269.4888,
+      "end": 270.1288
+    },
+    {
+      "word": "for",
+      "start": 270.4688,
+      "end": 270.6088
+    },
+    {
+      "word": "a",
+      "start": 270.6088,
+      "end": 270.8088
+    },
+    {
+      "word": "billion",
+      "start": 270.8088,
+      "end": 271.0888
+    },
+    {
+      "word": "years",
+      "start": 271.0888,
+      "end": 271.4888
+    },
+    {
+      "word": "Earth",
+      "start": 271.4888,
+      "end": 271.8288
+    },
+    {
+      "word": "had",
+      "start": 271.8288,
+      "end": 272.0688
+    },
+    {
+      "word": "nothing",
+      "start": 272.0688,
+      "end": 272.3688
+    },
+    {
+      "word": "but",
+      "start": 272.3688,
+      "end": 272.6088
+    },
+    {
+      "word": "these",
+      "start": 272.6088,
+      "end": 272.8688
+    },
+    {
+      "word": "little",
+      "start": 272.8688,
+      "end": 273.1088
+    },
+    {
+      "word": "things,",
+      "start": 273.1088,
+      "end": 273.5288
+    },
+    {
+      "word": "blue",
+      "start": 273.8088,
+      "end": 274.0488
+    },
+    {
+      "word": "water,",
+      "start": 274.0488,
+      "end": 274.4088
+    },
+    {
+      "word": "green,",
+      "start": 274.5688,
+      "end": 275.0288
+    },
+    {
+      "word": "slimy",
+      "start": 275.3088,
+      "end": 275.6088
+    },
+    {
+      "word": "rocks.",
+      "start": 275.6088,
+      "end": 276.0488
+    },
+    {
+      "word": "Then",
+      "start": 276.5088,
+      "end": 276.7888
+    },
+    {
+      "word": "one",
+      "start": 276.7888,
+      "end": 277.0888
+    },
+    {
+      "word": "branch",
+      "start": 277.0888,
+      "end": 277.4288
+    },
+    {
+      "word": "learned",
+      "start": 277.4288,
+      "end": 277.7488
+    },
+    {
+      "word": "a",
+      "start": 277.7488,
+      "end": 278.0288
+    },
+    {
+      "word": "magic",
+      "start": 278.0288,
+      "end": 278.2888
+    },
+    {
+      "word": "trick,",
+      "start": 278.2888,
+      "end": 278.6088
+    },
+    {
+      "word": "photosynthesis,",
+      "start": 278.6088,
+      "end": 279.6288
+    },
+    {
+      "word": "taking",
+      "start": 279.9688,
+      "end": 280.1888
+    },
+    {
+      "word": "in",
+      "start": 280.1888,
+      "end": 280.5288
+    },
+    {
+      "word": "carbon",
+      "start": 280.5288,
+      "end": 280.8288
+    },
+    {
+      "word": "dioxide",
+      "start": 280.8288,
+      "end": 281.5688
+    },
+    {
+      "word": "and",
+      "start": 281.5688,
+      "end": 281.8488
+    },
+    {
+      "word": "releasing",
+      "start": 281.8488,
+      "end": 282.3288
+    },
+    {
+      "word": "oxygen.",
+      "start": 282.3288,
+      "end": 283.4088
+    },
+    {
+      "word": "Back",
+      "start": 283.6888,
+      "end": 283.9488
+    },
+    {
+      "word": "then,",
+      "start": 283.9488,
+      "end": 284.2488
+    },
+    {
+      "word": "oxygen",
+      "start": 284.5488,
+      "end": 284.8488
+    },
+    {
+      "word": "was",
+      "start": 284.8488,
+      "end": 285.1488
+    },
+    {
+      "word": "poison.",
+      "start": 285.1488,
+      "end": 285.5488
+    },
+    {
+      "word": "It",
+      "start": 285.7688,
+      "end": 285.9488
+    },
+    {
+      "word": "killed",
+      "start": 285.9488,
+      "end": 286.2888
+    },
+    {
+      "word": "almost",
+      "start": 286.2888,
+      "end": 286.7288
+    },
+    {
+      "word": "all",
+      "start": 286.7288,
+      "end": 287.0488
+    },
+    {
+      "word": "the",
+      "start": 287.0488,
+      "end": 287.2488
+    },
+    {
+      "word": "older",
+      "start": 287.2488,
+      "end": 287.4688
+    },
+    {
+      "word": "life.",
+      "start": 287.4688,
+      "end": 287.7888
+    },
+    {
+      "word": "This",
+      "start": 288.0688,
+      "end": 288.3288
+    },
+    {
+      "word": "was",
+      "start": 288.3288,
+      "end": 288.5888
+    },
+    {
+      "word": "the",
+      "start": 288.5888,
+      "end": 288.8088
+    },
+    {
+      "word": "first",
+      "start": 288.8088,
+      "end": 289.0088
+    },
+    {
+      "word": "pollution",
+      "start": 289.0088,
+      "end": 289.4888
+    },
+    {
+      "word": "crisis.",
+      "start": 289.4888,
+      "end": 290.0688
+    },
+    {
+      "word": "The",
+      "start": 290.5088,
+      "end": 290.6088
+    },
+    {
+      "word": "Great",
+      "start": 290.6088,
+      "end": 290.9088
+    },
+    {
+      "word": "Oxidation",
+      "start": 290.9088,
+      "end": 291.5088
+    },
+    {
+      "word": "Event",
+      "start": 291.5088,
+      "end": 291.8688
+    },
+    {
+      "word": "2",
+      "start": 291.8688,
+      "end": 292.3288
+    },
+    {
+      "word": ".4",
+      "start": 292.3288,
+      "end": 293.0488
+    },
+    {
+      "word": "billion",
+      "start": 293.0488,
+      "end": 293.4088
+    },
+    {
+      "word": "years",
+      "start": 293.4088,
+      "end": 293.7888
+    },
+    {
+      "word": "ago.",
+      "start": 293.7888,
+      "end": 294.1088
+    },
+    {
+      "word": "But",
+      "start": 294.3888,
+      "end": 294.5488
+    },
+    {
+      "word": "that",
+      "start": 294.5488,
+      "end": 294.8688
+    },
+    {
+      "word": "same",
+      "start": 294.8688,
+      "end": 295.1688
+    },
+    {
+      "word": "oxygen",
+      "start": 295.1688,
+      "end": 295.8288
+    },
+    {
+      "word": "created",
+      "start": 295.8288,
+      "end": 296.3088
+    },
+    {
+      "word": "the",
+      "start": 296.3088,
+      "end": 296.5888
+    },
+    {
+      "word": "ozone",
+      "start": 296.5888,
+      "end": 296.9888
+    },
+    {
+      "word": "layer,",
+      "start": 296.9888,
+      "end": 297.3888
+    },
+    {
+      "word": "made",
+      "start": 297.5688,
+      "end": 297.7088
+    },
+    {
+      "word": "the",
+      "start": 297.7088,
+      "end": 297.9488
+    },
+    {
+      "word": "sky",
+      "start": 297.9488,
+      "end": 298.2088
+    },
+    {
+      "word": "blue",
+      "start": 298.2088,
+      "end": 298.6288
+    },
+    {
+      "word": "and",
+      "start": 298.6288,
+      "end": 298.8688
+    },
+    {
+      "word": "allowed",
+      "start": 298.8688,
+      "end": 299.2088
+    },
+    {
+      "word": "energy",
+      "start": 299.2088,
+      "end": 299.7288
+    },
+    {
+      "word": "-hungry",
+      "start": 299.7288,
+      "end": 300.0688
+    },
+    {
+      "word": "life",
+      "start": 300.0688,
+      "end": 300.3688
+    },
+    {
+      "word": "to",
+      "start": 300.3688,
+      "end": 300.6288
+    },
+    {
+      "word": "evolve",
+      "start": 300.6288,
+      "end": 300.9688
+    },
+    {
+      "word": "later.",
+      "start": 300.9688,
+      "end": 301.3088
+    },
+    {
+      "word": "The",
+      "start": 301.6488,
+      "end": 301.8888
+    },
+    {
+      "word": "tiniest",
+      "start": 301.8888,
+      "end": 302.3488
+    },
+    {
+      "word": "creatures",
+      "start": 302.3488,
+      "end": 302.7888
+    },
+    {
+      "word": "rewrote",
+      "start": 302.7888,
+      "end": 303.2888
+    },
+    {
+      "word": "the",
+      "start": 303.2888,
+      "end": 303.5688
+    },
+    {
+      "word": "entire",
+      "start": 303.5688,
+      "end": 303.9888
+    },
+    {
+      "word": "sky.",
+      "start": 303.9888,
+      "end": 304.4088
+    },
+    {
+      "word": "Cells",
+      "start": 304.4088,
+      "end": 305.2488
+    },
+    {
+      "word": "with",
+      "start": 305.2488,
+      "end": 305.5288
+    },
+    {
+      "word": "nuclei",
+      "start": 305.5288,
+      "end": 306.0088
+    },
+    {
+      "word": "appeared,",
+      "start": 306.0088,
+      "end": 306.5888
+    },
+    {
+      "word": "then",
+      "start": 306.8888,
+      "end": 307.2088
+    },
+    {
+      "word": "multicellular",
+      "start": 307.2088,
+      "end": 308.1288
+    },
+    {
+      "word": "organisms,",
+      "start": 308.1288,
+      "end": 308.7088
+    },
+    {
+      "word": "then",
+      "start": 309.0488,
+      "end": 309.2888
+    },
+    {
+      "word": "sexual",
+      "start": 309.2888,
+      "end": 309.7888
+    },
+    {
+      "word": "reproduction.",
+      "start": 309.7888,
+      "end": 310.4488
+    },
+    {
+      "word": "And",
+      "start": 310.8688,
+      "end": 311.0888
+    },
+    {
+      "word": "Earth",
+      "start": 311.0888,
+      "end": 311.2688
+    },
+    {
+      "word": "nearly",
+      "start": 311.2688,
+      "end": 311.7088
+    },
+    {
+      "word": "died",
+      "start": 311.7088,
+      "end": 311.9288
+    },
+    {
+      "word": "a",
+      "start": 311.9288,
+      "end": 312.1888
+    },
+    {
+      "word": "second",
+      "start": 312.1888,
+      "end": 312.3888
+    },
+    {
+      "word": "time.",
+      "start": 312.3888,
+      "end": 312.7888
+    },
+    {
+      "word": "720",
+      "start": 313.3088,
+      "end": 314.0288
+    },
+    {
+      "word": "million",
+      "start": 314.0288,
+      "end": 314.5888
+    },
+    {
+      "word": "years",
+      "start": 314.5888,
+      "end": 314.9288
+    },
+    {
+      "word": "ago",
+      "start": 314.9288,
+      "end": 315.2288
+    },
+    {
+      "word": "it",
+      "start": 315.2288,
+      "end": 315.4488
+    },
+    {
+      "word": "froze",
+      "start": 315.4488,
+      "end": 315.8088
+    },
+    {
+      "word": "into",
+      "start": 315.8088,
+      "end": 316.0488
+    },
+    {
+      "word": "a",
+      "start": 316.0488,
+      "end": 316.2688
+    },
+    {
+      "word": "completely",
+      "start": 316.2688,
+      "end": 316.6688
+    },
+    {
+      "word": "white",
+      "start": 316.6688,
+      "end": 317.1288
+    },
+    {
+      "word": "snowball,",
+      "start": 317.1288,
+      "end": 317.6288
+    },
+    {
+      "word": "ice",
+      "start": 317.9488,
+      "end": 318.1288
+    },
+    {
+      "word": "a",
+      "start": 318.1288,
+      "end": 318.4288
+    },
+    {
+      "word": "kilometer",
+      "start": 318.4288,
+      "end": 318.7888
+    },
+    {
+      "word": "thick.",
+      "start": 318.7888,
+      "end": 319.2688
+    },
+    {
+      "word": "Minus",
+      "start": 319.7488,
+      "end": 320.1488
+    },
+    {
+      "word": "50",
+      "start": 320.1488,
+      "end": 320.4888
+    },
+    {
+      "word": "degrees",
+      "start": 320.4888,
+      "end": 320.9688
+    },
+    {
+      "word": "Celsius,",
+      "start": 320.9688,
+      "end": 321.4688
+    },
+    {
+      "word": "but",
+      "start": 321.8288,
+      "end": 321.9888
+    },
+    {
+      "word": "volcanoes",
+      "start": 321.9888,
+      "end": 322.5288
+    },
+    {
+      "word": "under",
+      "start": 322.5288,
+      "end": 322.8688
+    },
+    {
+      "word": "the",
+      "start": 322.8688,
+      "end": 323.1088
+    },
+    {
+      "word": "ice",
+      "start": 323.1088,
+      "end": 323.3288
+    },
+    {
+      "word": "kept",
+      "start": 323.3288,
+      "end": 323.6288
+    },
+    {
+      "word": "erupting.",
+      "start": 323.6288,
+      "end": 324.4288
+    },
+    {
+      "word": "Carbon",
+      "start": 324.6288,
+      "end": 324.9888
+    },
+    {
+      "word": "dioxide",
+      "start": 324.9888,
+      "end": 325.7288
+    },
+    {
+      "word": "built",
+      "start": 325.7288,
+      "end": 326.0488
+    },
+    {
+      "word": "up",
+      "start": 326.0488,
+      "end": 326.3688
+    },
+    {
+      "word": "creating",
+      "start": 326.3688,
+      "end": 326.7288
+    },
+    {
+      "word": "a",
+      "start": 326.7288,
+      "end": 326.9888
+    },
+    {
+      "word": "powerful",
+      "start": 326.9888,
+      "end": 327.5088
+    },
+    {
+      "word": "greenhouse",
+      "start": 327.5088,
+      "end": 328.0488
+    },
+    {
+      "word": "effect",
+      "start": 328.0488,
+      "end": 328.4888
+    },
+    {
+      "word": "that",
+      "start": 328.4888,
+      "end": 328.7688
+    },
+    {
+      "word": "melted",
+      "start": 328.7688,
+      "end": 329.0888
+    },
+    {
+      "word": "the",
+      "start": 329.0888,
+      "end": 329.3688
+    },
+    {
+      "word": "ice.",
+      "start": 329.3688,
+      "end": 329.6688
+    },
+    {
+      "word": "Meltwater",
+      "start": 329.6688,
+      "end": 330.6088
+    },
+    {
+      "word": "carried",
+      "start": 330.6088,
+      "end": 331.0088
+    },
+    {
+      "word": "minerals",
+      "start": 331.0088,
+      "end": 331.4488
+    },
+    {
+      "word": "into",
+      "start": 331.4488,
+      "end": 331.6888
+    },
+    {
+      "word": "the",
+      "start": 331.6888,
+      "end": 331.9488
+    },
+    {
+      "word": "sea,",
+      "start": 331.9488,
+      "end": 332.2688
+    },
+    {
+      "word": "a",
+      "start": 332.5288,
+      "end": 332.6288
+    },
+    {
+      "word": "buffet",
+      "start": 332.6288,
+      "end": 332.9688
+    },
+    {
+      "word": "for",
+      "start": 332.9688,
+      "end": 333.2888
+    },
+    {
+      "word": "life.",
+      "start": 333.2888,
+      "end": 333.7688
+    },
+    {
+      "word": "Then",
+      "start": 334.2488,
+      "end": 334.3688
+    },
+    {
+      "word": "came",
+      "start": 334.3688,
+      "end": 334.6488
+    },
+    {
+      "word": "the",
+      "start": 334.6488,
+      "end": 334.8088
+    },
+    {
+      "word": "Cambrian",
+      "start": 334.8088,
+      "end": 335.3088
+    },
+    {
+      "word": "Explosion",
+      "start": 335.3088,
+      "end": 336.0488
+    },
+    {
+      "word": "541",
+      "start": 336.0488,
+      "end": 337.4688
+    },
+    {
+      "word": "million",
+      "start": 337.4688,
+      "end": 337.9888
+    },
+    {
+      "word": "years",
+      "start": 337.9888,
+      "end": 338.3488
+    },
+    {
+      "word": "ago.",
+      "start": 338.3488,
+      "end": 338.7488
+    },
+    {
+      "word": "In",
+      "start": 339.0088,
+      "end": 339.1288
+    },
+    {
+      "word": "20",
+      "start": 339.1288,
+      "end": 339.4888
+    },
+    {
+      "word": "million",
+      "start": 339.4888,
+      "end": 339.8288
+    },
+    {
+      "word": "years,",
+      "start": 339.8288,
+      "end": 340.2688
+    },
+    {
+      "word": "eyes",
+      "start": 340.4288,
+      "end": 340.7088
+    },
+    {
+      "word": "appeared.",
+      "start": 340.7088,
+      "end": 341.3088
+    },
+    {
+      "word": "Jointed",
+      "start": 341.5888,
+      "end": 342.0488
+    },
+    {
+      "word": "legs,",
+      "start": 342.0488,
+      "end": 342.4088
+    },
+    {
+      "word": "claws,",
+      "start": 342.6288,
+      "end": 343.0288
+    },
+    {
+      "word": "hard",
+      "start": 343.2288,
+      "end": 343.4688
+    },
+    {
+      "word": "shells,",
+      "start": 343.4688,
+      "end": 343.8688
+    },
+    {
+      "word": "the",
+      "start": 344.1288,
+      "end": 344.2488
+    },
+    {
+      "word": "ocean",
+      "start": 344.2488,
+      "end": 344.5688
+    },
+    {
+      "word": "went",
+      "start": 344.5688,
+      "end": 344.7488
+    },
+    {
+      "word": "from",
+      "start": 344.7488,
+      "end": 344.9488
+    },
+    {
+      "word": "a",
+      "start": 344.9488,
+      "end": 345.1888
+    },
+    {
+      "word": "stagnant",
+      "start": 345.1888,
+      "end": 345.6088
+    },
+    {
+      "word": "pond",
+      "start": 345.6088,
+      "end": 345.9288
+    },
+    {
+      "word": "to",
+      "start": 345.9288,
+      "end": 346.1488
+    },
+    {
+      "word": "an",
+      "start": 346.1488,
+      "end": 346.3288
+    },
+    {
+      "word": "arena",
+      "start": 346.3288,
+      "end": 346.6088
+    },
+    {
+      "word": "of",
+      "start": 346.6088,
+      "end": 346.8888
+    },
+    {
+      "word": "monsters.",
+      "start": 346.8888,
+      "end": 347.4688
+    },
+    {
+      "word": "470",
+      "start": 348.4288,
+      "end": 349.0688
+    },
+    {
+      "word": "million",
+      "start": 349.0688,
+      "end": 349.4488
+    },
+    {
+      "word": "years",
+      "start": 349.4488,
+      "end": 349.8488
+    },
+    {
+      "word": "ago",
+      "start": 349.8488,
+      "end": 350.1088
+    },
+    {
+      "word": "the",
+      "start": 350.1088,
+      "end": 350.3088
+    },
+    {
+      "word": "first",
+      "start": 350.3088,
+      "end": 350.6088
+    },
+    {
+      "word": "plants",
+      "start": 350.6088,
+      "end": 350.9088
+    },
+    {
+      "word": "crept",
+      "start": 350.9088,
+      "end": 351.2888
+    },
+    {
+      "word": "onto",
+      "start": 351.2888,
+      "end": 351.6488
+    },
+    {
+      "word": "land,",
+      "start": 351.6488,
+      "end": 352.1288
+    },
+    {
+      "word": "barely",
+      "start": 352.5488,
+      "end": 352.8688
+    },
+    {
+      "word": "as",
+      "start": 352.8688,
+      "end": 353.2288
+    },
+    {
+      "word": "tall",
+      "start": 353.2288,
+      "end": 353.4288
+    },
+    {
+      "word": "as",
+      "start": 353.4288,
+      "end": 353.6088
+    },
+    {
+      "word": "a",
+      "start": 353.6088,
+      "end": 353.8088
+    },
+    {
+      "word": "finger.",
+      "start": 353.8088,
+      "end": 354.1288
+    },
+    {
+      "word": "390",
+      "start": 354.9288,
+      "end": 355.5688
+    },
+    {
+      "word": "million",
+      "start": 355.5688,
+      "end": 356.0288
+    },
+    {
+      "word": "years",
+      "start": 356.0288,
+      "end": 356.3488
+    },
+    {
+      "word": "later",
+      "start": 356.3488,
+      "end": 356.6888
+    },
+    {
+      "word": "they",
+      "start": 356.6888,
+      "end": 356.8688
+    },
+    {
+      "word": "had",
+      "start": 356.8688,
+      "end": 357.1288
+    },
+    {
+      "word": "become",
+      "start": 357.1288,
+      "end": 357.3888
+    },
+    {
+      "word": "enormous",
+      "start": 357.3888,
+      "end": 357.9688
+    },
+    {
+      "word": "forests.",
+      "start": 357.9688,
+      "end": 358.6888
+    },
+    {
+      "word": "Lobe",
+      "start": 359.3088,
+      "end": 359.5888
+    },
+    {
+      "word": "-finned",
+      "start": 359.5888,
+      "end": 359.8488
+    },
+    {
+      "word": "fish",
+      "start": 359.8488,
+      "end": 360.1088
+    },
+    {
+      "word": "crawled",
+      "start": 360.1088,
+      "end": 360.5488
+    },
+    {
+      "word": "ashore",
+      "start": 360.5488,
+      "end": 361.0888
+    },
+    {
+      "word": "and",
+      "start": 361.0888,
+      "end": 361.3088
+    },
+    {
+      "word": "became",
+      "start": 361.3088,
+      "end": 361.6088
+    },
+    {
+      "word": "four",
+      "start": 361.6088,
+      "end": 362.0488
+    },
+    {
+      "word": "-legged",
+      "start": 362.0488,
+      "end": 362.3288
+    },
+    {
+      "word": "animals,",
+      "start": 362.3288,
+      "end": 362.8488
+    },
+    {
+      "word": "your",
+      "start": 363.1488,
+      "end": 363.3288
+    },
+    {
+      "word": "walking",
+      "start": 363.3288,
+      "end": 363.7688
+    },
+    {
+      "word": "ancestors.",
+      "start": 363.7688,
+      "end": 364.4088
+    },
+    {
+      "word": "300",
+      "start": 364.8888,
+      "end": 365.2288
+    },
+    {
+      "word": "million",
+      "start": 365.2288,
+      "end": 365.7288
+    },
+    {
+      "word": "years",
+      "start": 365.7288,
+      "end": 366.1288
+    },
+    {
+      "word": "ago",
+      "start": 366.1288,
+      "end": 366.3888
+    },
+    {
+      "word": "the",
+      "start": 366.3888,
+      "end": 366.6488
+    },
+    {
+      "word": "continents",
+      "start": 366.6488,
+      "end": 367.0888
+    },
+    {
+      "word": "joined",
+      "start": 367.0888,
+      "end": 367.5488
+    },
+    {
+      "word": "into",
+      "start": 367.5488,
+      "end": 367.8288
+    },
+    {
+      "word": "the",
+      "start": 367.8288,
+      "end": 368.0488
+    },
+    {
+      "word": "supercontinent",
+      "start": 368.0488,
+      "end": 368.7888
+    },
+    {
+      "word": "Pangea.",
+      "start": 368.7888,
+      "end": 369.4888
+    },
+    {
+      "word": "Then",
+      "start": 369.6688,
+      "end": 369.9688
+    },
+    {
+      "word": "came",
+      "start": 369.9688,
+      "end": 370.3488
+    },
+    {
+      "word": "the",
+      "start": 370.3488,
+      "end": 370.5888
+    },
+    {
+      "word": "greatest",
+      "start": 370.5888,
+      "end": 370.9888
+    },
+    {
+      "word": "catastrophe.",
+      "start": 370.9888,
+      "end": 371.8088
+    },
+    {
+      "word": "252",
+      "start": 372.9888,
+      "end": 373.7088
+    },
+    {
+      "word": "million",
+      "start": 373.7088,
+      "end": 374.0288
+    },
+    {
+      "word": "years",
+      "start": 374.0288,
+      "end": 374.4288
+    },
+    {
+      "word": "ago",
+      "start": 374.4288,
+      "end": 374.7488
+    },
+    {
+      "word": "volcanoes",
+      "start": 374.7488,
+      "end": 375.3888
+    },
+    {
+      "word": "in",
+      "start": 375.3888,
+      "end": 375.7088
+    },
+    {
+      "word": "Siberia",
+      "start": 375.7088,
+      "end": 376.3688
+    },
+    {
+      "word": "erupted",
+      "start": 376.3688,
+      "end": 376.8088
+    },
+    {
+      "word": "for",
+      "start": 376.8088,
+      "end": 377.0288
+    },
+    {
+      "word": "a",
+      "start": 377.0288,
+      "end": 377.2288
+    },
+    {
+      "word": "million",
+      "start": 377.2288,
+      "end": 377.5288
+    },
+    {
+      "word": "years.",
+      "start": 377.5288,
+      "end": 377.9688
+    },
+    {
+      "word": "Lava",
+      "start": 378.4488,
+      "end": 378.7688
+    },
+    {
+      "word": "covered",
+      "start": 378.7688,
+      "end": 379.1088
+    },
+    {
+      "word": "7",
+      "start": 379.1088,
+      "end": 379.5688
+    },
+    {
+      "word": "million",
+      "start": 379.5688,
+      "end": 380.0088
+    },
+    {
+      "word": "square",
+      "start": 380.0088,
+      "end": 380.3888
+    },
+    {
+      "word": "kilometers,",
+      "start": 380.3888,
+      "end": 380.9888
+    },
+    {
+      "word": "the",
+      "start": 381.2488,
+      "end": 381.3888
+    },
+    {
+      "word": "ocean",
+      "start": 381.3888,
+      "end": 381.7488
+    },
+    {
+      "word": "turned",
+      "start": 381.7488,
+      "end": 382.1688
+    },
+    {
+      "word": "sour",
+      "start": 382.1688,
+      "end": 382.5288
+    },
+    {
+      "word": "as",
+      "start": 382.5288,
+      "end": 382.8488
+    },
+    {
+      "word": "vinegar.",
+      "start": 382.8488,
+      "end": 383.2288
+    },
+    {
+      "word": "Temperatures",
+      "start": 383.5488,
+      "end": 384.1088
+    },
+    {
+      "word": "rose",
+      "start": 384.1088,
+      "end": 384.5888
+    },
+    {
+      "word": "by",
+      "start": 384.5888,
+      "end": 384.8488
+    },
+    {
+      "word": "10",
+      "start": 384.8488,
+      "end": 385.1288
+    },
+    {
+      "word": "degrees.",
+      "start": 385.1288,
+      "end": 385.7888
+    },
+    {
+      "word": "90",
+      "start": 386.3088,
+      "end": 386.6688
+    },
+    {
+      "word": "%",
+      "start": 386.6688,
+      "end": 387.1488
+    },
+    {
+      "word": "of",
+      "start": 387.1488,
+      "end": 387.4088
+    },
+    {
+      "word": "marine",
+      "start": 387.4088,
+      "end": 387.7488
+    },
+    {
+      "word": "species",
+      "start": 387.7488,
+      "end": 388.2688
+    },
+    {
+      "word": "and",
+      "start": 388.2688,
+      "end": 388.5288
+    },
+    {
+      "word": "70",
+      "start": 388.5288,
+      "end": 388.8888
+    },
+    {
+      "word": "%",
+      "start": 388.8888,
+      "end": 389.2688
+    },
+    {
+      "word": "of",
+      "start": 389.2688,
+      "end": 389.4288
+    },
+    {
+      "word": "land",
+      "start": 389.4288,
+      "end": 389.7488
+    },
+    {
+      "word": "species",
+      "start": 389.7488,
+      "end": 390.1888
+    },
+    {
+      "word": "vanished.",
+      "start": 390.1888,
+      "end": 390.7688
+    },
+    {
+      "word": "The",
+      "start": 391.1488,
+      "end": 391.3488
+    },
+    {
+      "word": "Permian",
+      "start": 391.3488,
+      "end": 391.7488
+    },
+    {
+      "word": "Mass",
+      "start": 391.7488,
+      "end": 392.0888
+    },
+    {
+      "word": "extinction.",
+      "start": 392.0888,
+      "end": 392.7888
+    },
+    {
+      "word": "It",
+      "start": 393.3288,
+      "end": 393.3288
+    },
+    {
+      "word": "looked",
+      "start": 393.3288,
+      "end": 393.4888
+    },
+    {
+      "word": "like",
+      "start": 393.4888,
+      "end": 393.7088
+    },
+    {
+      "word": "a",
+      "start": 393.7088,
+      "end": 393.8488
+    },
+    {
+      "word": "complete",
+      "start": 393.8488,
+      "end": 394.2288
+    },
+    {
+      "word": "reset,",
+      "start": 394.2288,
+      "end": 394.6888
+    },
+    {
+      "word": "but",
+      "start": 394.9888,
+      "end": 395.0888
+    },
+    {
+      "word": "the",
+      "start": 395.0888,
+      "end": 395.3088
+    },
+    {
+      "word": "10",
+      "start": 395.3088,
+      "end": 395.5888
+    },
+    {
+      "word": "%",
+      "start": 395.5888,
+      "end": 395.9088
+    },
+    {
+      "word": "that",
+      "start": 395.9088,
+      "end": 396.1488
+    },
+    {
+      "word": "survived",
+      "start": 396.1488,
+      "end": 396.7488
+    },
+    {
+      "word": "became",
+      "start": 396.7488,
+      "end": 397.3888
+    },
+    {
+      "word": "an",
+      "start": 397.3888,
+      "end": 397.6088
+    },
+    {
+      "word": "opportunity.",
+      "start": 397.6088,
+      "end": 398.2088
+    },
+    {
+      "word": "After",
+      "start": 398.7088,
+      "end": 398.9488
+    },
+    {
+      "word": "the",
+      "start": 398.9488,
+      "end": 399.2888
+    },
+    {
+      "word": "extinction,",
+      "start": 399.2888,
+      "end": 399.7088
+    },
+    {
+      "word": "one",
+      "start": 400.0088,
+      "end": 400.1688
+    },
+    {
+      "word": "branch",
+      "start": 400.1688,
+      "end": 400.4688
+    },
+    {
+      "word": "of",
+      "start": 400.4688,
+      "end": 400.7088
+    },
+    {
+      "word": "reptiles",
+      "start": 400.7088,
+      "end": 401.2088
+    },
+    {
+      "word": "rose",
+      "start": 401.2088,
+      "end": 401.5288
+    },
+    {
+      "word": "to",
+      "start": 401.5288,
+      "end": 401.7888
+    },
+    {
+      "word": "power,",
+      "start": 401.7888,
+      "end": 402.2288
+    },
+    {
+      "word": "the",
+      "start": 402.3888,
+      "end": 402.6888
+    },
+    {
+      "word": "dinosaurs.",
+      "start": 402.6888,
+      "end": 403.2088
+    },
+    {
+      "word": "They",
+      "start": 403.6088,
+      "end": 403.8688
+    },
+    {
+      "word": "appeared",
+      "start": 403.8688,
+      "end": 404.1688
+    },
+    {
+      "word": "230",
+      "start": 404.1688,
+      "end": 405.1888
+    },
+    {
+      "word": "million",
+      "start": 405.1888,
+      "end": 405.8288
+    },
+    {
+      "word": "years",
+      "start": 405.8288,
+      "end": 406.1488
+    },
+    {
+      "word": "ago,",
+      "start": 406.1488,
+      "end": 406.4888
+    },
+    {
+      "word": "growing",
+      "start": 406.6088,
+      "end": 406.9288
+    },
+    {
+      "word": "into",
+      "start": 406.9288,
+      "end": 407.2488
+    },
+    {
+      "word": "giants",
+      "start": 407.2488,
+      "end": 407.6488
+    },
+    {
+      "word": "like",
+      "start": 407.6488,
+      "end": 407.9088
+    },
+    {
+      "word": "the",
+      "start": 407.9088,
+      "end": 408.1488
+    },
+    {
+      "word": "9",
+      "start": 408.1488,
+      "end": 408.4488
+    },
+    {
+      "word": "-ton",
+      "start": 408.4488,
+      "end": 408.6088
+    },
+    {
+      "word": "Tyrannosaurus",
+      "start": 408.6088,
+      "end": 409.4688
+    },
+    {
+      "word": "They",
+      "start": 410.0888,
+      "end": 410.4088
+    },
+    {
+      "word": "ruled",
+      "start": 410.4088,
+      "end": 410.9488
+    },
+    {
+      "word": "for",
+      "start": 410.9488,
+      "end": 411.2088
+    },
+    {
+      "word": "165",
+      "start": 411.2088,
+      "end": 412.6888
+    },
+    {
+      "word": "million",
+      "start": 412.6888,
+      "end": 413.0488
+    },
+    {
+      "word": "years.",
+      "start": 413.0488,
+      "end": 413.5288
+    },
+    {
+      "word": "Mammals",
+      "start": 413.8288,
+      "end": 414.2488
+    },
+    {
+      "word": "were",
+      "start": 414.2488,
+      "end": 414.4488
+    },
+    {
+      "word": "just",
+      "start": 414.4488,
+      "end": 414.7088
+    },
+    {
+      "word": "little",
+      "start": 414.7088,
+      "end": 414.9888
+    },
+    {
+      "word": "mouse",
+      "start": 414.9888,
+      "end": 415.3288
+    },
+    {
+      "word": "-like",
+      "start": 415.3288,
+      "end": 415.5088
+    },
+    {
+      "word": "creatures",
+      "start": 415.5088,
+      "end": 415.9688
+    },
+    {
+      "word": "hiding",
+      "start": 415.9688,
+      "end": 416.2888
+    },
+    {
+      "word": "in",
+      "start": 416.2888,
+      "end": 416.4888
+    },
+    {
+      "word": "the",
+      "start": 416.4888,
+      "end": 416.6688
+    },
+    {
+      "word": "night.",
+      "start": 416.6688,
+      "end": 416.9688
+    },
+    {
+      "word": "66",
+      "start": 417.3888,
+      "end": 417.8088
+    },
+    {
+      "word": "million",
+      "start": 417.8088,
+      "end": 418.3688
+    },
+    {
+      "word": "years",
+      "start": 418.3688,
+      "end": 418.6888
+    },
+    {
+      "word": "ago",
+      "start": 418.6888,
+      "end": 419.0088
+    },
+    {
+      "word": "a",
+      "start": 419.0088,
+      "end": 419.2288
+    },
+    {
+      "word": "rock",
+      "start": 419.2288,
+      "end": 419.5288
+    },
+    {
+      "word": "10",
+      "start": 419.5288,
+      "end": 419.8288
+    },
+    {
+      "word": "kilometers",
+      "start": 419.8288,
+      "end": 420.3488
+    },
+    {
+      "word": "wide",
+      "start": 420.3488,
+      "end": 420.7888
+    },
+    {
+      "word": "raced",
+      "start": 420.7888,
+      "end": 421.2688
+    },
+    {
+      "word": "toward",
+      "start": 421.2688,
+      "end": 421.5688
+    },
+    {
+      "word": "Earth",
+      "start": 421.5688,
+      "end": 421.8488
+    },
+    {
+      "word": "at",
+      "start": 421.8488,
+      "end": 422.1488
+    },
+    {
+      "word": "70",
+      "start": 422.1488,
+      "end": 422.5088
+    },
+    {
+      "word": ",000",
+      "start": 422.5088,
+      "end": 422.9888
+    },
+    {
+      "word": "kilometers",
+      "start": 422.9888,
+      "end": 423.5288
+    },
+    {
+      "word": "per",
+      "start": 423.5288,
+      "end": 423.8488
+    },
+    {
+      "word": "hour.",
+      "start": 423.8488,
+      "end": 424.3288
+    },
+    {
+      "word": "20",
+      "start": 424.6888,
+      "end": 424.8888
+    },
+    {
+      "word": "times",
+      "start": 424.8888,
+      "end": 425.3288
+    },
+    {
+      "word": "the",
+      "start": 425.3288,
+      "end": 425.5288
+    },
+    {
+      "word": "speed",
+      "start": 425.5288,
+      "end": 425.7688
+    },
+    {
+      "word": "of",
+      "start": 425.7688,
+      "end": 425.9088
+    },
+    {
+      "word": "a",
+      "start": 425.9088,
+      "end": 426.0888
+    },
+    {
+      "word": "bullet.",
+      "start": 426.0888,
+      "end": 426.3488
+    },
+    {
+      "word": "It",
+      "start": 426.7488,
+      "end": 426.7488
+    },
+    {
+      "word": "struck",
+      "start": 426.7488,
+      "end": 427.0088
+    },
+    {
+      "word": "Mexico,",
+      "start": 427.0088,
+      "end": 427.6088
+    },
+    {
+      "word": "the",
+      "start": 427.9288,
+      "end": 428.1088
+    },
+    {
+      "word": "energy",
+      "start": 428.1088,
+      "end": 428.4488
+    },
+    {
+      "word": "of",
+      "start": 428.4488,
+      "end": 428.7088
+    },
+    {
+      "word": "10",
+      "start": 428.7088,
+      "end": 429.1488
+    },
+    {
+      "word": "billion",
+      "start": 429.1488,
+      "end": 429.5488
+    },
+    {
+      "word": "atomic",
+      "start": 429.5488,
+      "end": 430.0488
+    },
+    {
+      "word": "bombs.",
+      "start": 430.0488,
+      "end": 430.5288
+    },
+    {
+      "word": "A",
+      "start": 430.8488,
+      "end": 430.9688
+    },
+    {
+      "word": "tsunami",
+      "start": 430.9688,
+      "end": 431.3888
+    },
+    {
+      "word": "a",
+      "start": 431.3888,
+      "end": 431.7088
+    },
+    {
+      "word": "kilometer",
+      "start": 431.7088,
+      "end": 432.0688
+    },
+    {
+      "word": "high,",
+      "start": 432.0688,
+      "end": 432.5488
+    },
+    {
+      "word": "hot",
+      "start": 432.8488,
+      "end": 433.0288
+    },
+    {
+      "word": "rocks",
+      "start": 433.0288,
+      "end": 433.3288
+    },
+    {
+      "word": "fell",
+      "start": 433.3288,
+      "end": 433.5688
+    },
+    {
+      "word": "like",
+      "start": 433.5688,
+      "end": 433.8088
+    },
+    {
+      "word": "a",
+      "start": 433.8088,
+      "end": 433.9888
+    },
+    {
+      "word": "rain",
+      "start": 433.9888,
+      "end": 434.1088
+    },
+    {
+      "word": "of",
+      "start": 434.1088,
+      "end": 434.3688
+    },
+    {
+      "word": "fire",
+      "start": 434.3688,
+      "end": 434.6888
+    },
+    {
+      "word": "burning",
+      "start": 434.6888,
+      "end": 435.0288
+    },
+    {
+      "word": "every",
+      "start": 435.0288,
+      "end": 435.5288
+    },
+    {
+      "word": "forest.",
+      "start": 435.5288,
+      "end": 436.0488
+    },
+    {
+      "word": "Dust",
+      "start": 437.3288,
+      "end": 437.5888
+    },
+    {
+      "word": "hid",
+      "start": 437.5888,
+      "end": 437.8288
+    },
+    {
+      "word": "the",
+      "start": 437.8288,
+      "end": 440.4488
+    },
+    {
+      "word": "earth.",
+      "start": 440.4488,
+      "end": 440.5688
+    },
+    {
+      "word": "So",
+      "start": 440.5688,
+      "end": 440.5688
+    },
+    {
+      "word": "to",
+      "start": 440.5688,
+      "end": 440.7288
+    },
+    {
+      "word": "synthesize,",
+      "start": 440.7288,
+      "end": 441.4488
+    },
+    {
+      "word": "herbivores",
+      "start": 441.6688,
+      "end": 442.1088
+    },
+    {
+      "word": "died,",
+      "start": 442.1088,
+      "end": 442.5888
+    },
+    {
+      "word": "carnivores",
+      "start": 443.0088,
+      "end": 443.5288
+    },
+    {
+      "word": "followed,",
+      "start": 443.5288,
+      "end": 444.0088
+    },
+    {
+      "word": "75",
+      "start": 444.4088,
+      "end": 444.9288
+    },
+    {
+      "word": "%",
+      "start": 444.9288,
+      "end": 445.4688
+    },
+    {
+      "word": "of",
+      "start": 445.4688,
+      "end": 445.6888
+    },
+    {
+      "word": "life",
+      "start": 445.6888,
+      "end": 445.9288
+    },
+    {
+      "word": "vanished.",
+      "start": 445.9288,
+      "end": 446.5088
+    },
+    {
+      "word": "The",
+      "start": 446.8488,
+      "end": 447.0288
+    },
+    {
+      "word": "weakest",
+      "start": 447.0288,
+      "end": 447.3688
+    },
+    {
+      "word": "creatures",
+      "start": 447.3688,
+      "end": 447.7688
+    },
+    {
+      "word": "survived,",
+      "start": 447.7688,
+      "end": 448.3888
+    },
+    {
+      "word": "tiny",
+      "start": 448.7088,
+      "end": 449.0488
+    },
+    {
+      "word": "mammals",
+      "start": 449.0488,
+      "end": 449.4488
+    },
+    {
+      "word": "that",
+      "start": 449.4488,
+      "end": 449.6888
+    },
+    {
+      "word": "could",
+      "start": 449.6888,
+      "end": 449.8688
+    },
+    {
+      "word": "dig",
+      "start": 449.8688,
+      "end": 450.1088
+    },
+    {
+      "word": "burrows,",
+      "start": 450.1088,
+      "end": 450.6288
+    },
+    {
+      "word": "eat",
+      "start": 450.8488,
+      "end": 450.9688
+    },
+    {
+      "word": "almost",
+      "start": 450.9688,
+      "end": 451.4688
+    },
+    {
+      "word": "anything",
+      "start": 451.4688,
+      "end": 451.8688
+    },
+    {
+      "word": "and",
+      "start": 451.8688,
+      "end": 452.0888
+    },
+    {
+      "word": "keep",
+      "start": 452.0888,
+      "end": 452.3488
+    },
+    {
+      "word": "themselves",
+      "start": 452.3488,
+      "end": 452.8088
+    },
+    {
+      "word": "warm.",
+      "start": 452.8088,
+      "end": 453.3288
+    },
+    {
+      "word": "Our",
+      "start": 453.7088,
+      "end": 453.9488
+    },
+    {
+      "word": "ancestors?",
+      "start": 453.9488,
+      "end": 454.5888
+    },
+    {
+      "word": "The",
+      "start": 454.7888,
+      "end": 455.0999
+    },
+    {
+      "word": "forests",
+      "start": 455.0999,
+      "end": 455.4999
+    },
+    {
+      "word": "returned.",
+      "start": 455.4999,
+      "end": 456.2333
+    },
+    {
+      "word": "With",
+      "start": 456.6111,
+      "end": 456.7888
+    },
+    {
+      "word": "the",
+      "start": 456.7888,
+      "end": 457.1222
+    },
+    {
+      "word": "dinosaurs",
+      "start": 457.1222,
+      "end": 457.5888
+    },
+    {
+      "word": "gone,",
+      "start": 457.5888,
+      "end": 458.1222
+    },
+    {
+      "word": "mammals",
+      "start": 458.4777,
+      "end": 458.7888
+    },
+    {
+      "word": "grew",
+      "start": 458.7888,
+      "end": 459.1444
+    },
+    {
+      "word": "larger,",
+      "start": 459.1444,
+      "end": 459.6999
+    },
+    {
+      "word": "mammoths,",
+      "start": 460.0999,
+      "end": 460.5222
+    },
+    {
+      "word": "30",
+      "start": 460.7444,
+      "end": 461.0111
+    },
+    {
+      "word": "-meter",
+      "start": 461.0111,
+      "end": 461.3888
+    },
+    {
+      "word": "whales,",
+      "start": 461.3888,
+      "end": 461.8555
+    },
+    {
+      "word": "primates.",
+      "start": 462.1444,
+      "end": 462.6555
+    },
+    {
+      "word": "Seven",
+      "start": 463.0111,
+      "end": 463.3888
+    },
+    {
+      "word": "million",
+      "start": 463.3888,
+      "end": 463.7666
+    },
+    {
+      "word": "years",
+      "start": 463.7666,
+      "end": 464.1444
+    },
+    {
+      "word": "ago",
+      "start": 464.1444,
+      "end": 464.4333
+    },
+    {
+      "word": "one",
+      "start": 464.4333,
+      "end": 464.7888
+    },
+    {
+      "word": "branch",
+      "start": 464.7888,
+      "end": 465.1222
+    },
+    {
+      "word": "of",
+      "start": 465.1222,
+      "end": 465.3444
+    },
+    {
+      "word": "apes",
+      "start": 465.3444,
+      "end": 465.6111
+    },
+    {
+      "word": "came",
+      "start": 465.6111,
+      "end": 465.8999
+    },
+    {
+      "word": "down",
+      "start": 465.8999,
+      "end": 466.2111
+    },
+    {
+      "word": "to",
+      "start": 466.2111,
+      "end": 466.3444
+    },
+    {
+      "word": "ground",
+      "start": 466.3444,
+      "end": 466.8111
+    },
+    {
+      "word": "and",
+      "start": 466.8111,
+      "end": 467.0777
+    },
+    {
+      "word": "walked",
+      "start": 467.0777,
+      "end": 467.2777
+    },
+    {
+      "word": "on",
+      "start": 467.2777,
+      "end": 467.5444
+    },
+    {
+      "word": "two",
+      "start": 467.5444,
+      "end": 467.8111
+    },
+    {
+      "word": "legs.",
+      "start": 467.8111,
+      "end": 468.3888
+    },
+    {
+      "word": "Three",
+      "start": 468.8999,
+      "end": 469.1888
+    },
+    {
+      "word": "million",
+      "start": 469.1888,
+      "end": 469.5666
+    },
+    {
+      "word": "years",
+      "start": 469.5666,
+      "end": 469.9444
+    },
+    {
+      "word": "ago",
+      "start": 469.9444,
+      "end": 470.2777
+    },
+    {
+      "word": "they",
+      "start": 470.2777,
+      "end": 470.4999
+    },
+    {
+      "word": "learned",
+      "start": 470.4999,
+      "end": 470.7888
+    },
+    {
+      "word": "to",
+      "start": 470.7888,
+      "end": 471.0777
+    },
+    {
+      "word": "strike",
+      "start": 471.0777,
+      "end": 471.3444
+    },
+    {
+      "word": "stones",
+      "start": 471.3444,
+      "end": 471.8555
+    },
+    {
+      "word": "into",
+      "start": 471.8555,
+      "end": 472.1666
+    },
+    {
+      "word": "knives.",
+      "start": 472.1666,
+      "end": 472.7444
+    },
+    {
+      "word": "300",
+      "start": 473.2777,
+      "end": 473.6777
+    },
+    {
+      "word": ",000",
+      "start": 473.6777,
+      "end": 474.1888
+    },
+    {
+      "word": "years",
+      "start": 474.1888,
+      "end": 474.5444
+    },
+    {
+      "word": "ago",
+      "start": 474.5444,
+      "end": 474.9666
+    },
+    {
+      "word": "homo",
+      "start": 474.9666,
+      "end": 475.6111
+    },
+    {
+      "word": "sapiens",
+      "start": 475.6111,
+      "end": 476.0333
+    },
+    {
+      "word": "appeared,",
+      "start": 476.0333,
+      "end": 476.6111
+    },
+    {
+      "word": "If",
+      "start": 476.9888,
+      "end": 477.2333
+    },
+    {
+      "word": "we",
+      "start": 477.2333,
+      "end": 477.4555
+    },
+    {
+      "word": "compress",
+      "start": 477.4555,
+      "end": 477.8333
+    },
+    {
+      "word": "4",
+      "start": 477.8333,
+      "end": 478.2777
+    },
+    {
+      "word": ".54",
+      "start": 478.2777,
+      "end": 479.0999
+    },
+    {
+      "word": "billion",
+      "start": 479.0999,
+      "end": 479.6111
+    },
+    {
+      "word": "years",
+      "start": 479.6111,
+      "end": 479.9666
+    },
+    {
+      "word": "into",
+      "start": 479.9666,
+      "end": 480.2333
+    },
+    {
+      "word": "one",
+      "start": 480.2333,
+      "end": 480.4999
+    },
+    {
+      "word": "year,",
+      "start": 480.4999,
+      "end": 480.7888
+    },
+    {
+      "word": "Earth",
+      "start": 481.0111,
+      "end": 481.1888
+    },
+    {
+      "word": "forms",
+      "start": 481.1888,
+      "end": 481.6333
+    },
+    {
+      "word": "on",
+      "start": 481.6333,
+      "end": 481.9222
+    },
+    {
+      "word": "January",
+      "start": 481.9222,
+      "end": 482.3666
+    },
+    {
+      "word": "1.",
+      "start": 482.3666,
+      "end": 482.8111
+    },
+    {
+      "word": "Life",
+      "start": 483.1888,
+      "end": 483.4333
+    },
+    {
+      "word": "around",
+      "start": 483.4333,
+      "end": 483.7888
+    },
+    {
+      "word": "3",
+      "start": 483.7888,
+      "end": 484.1666
+    },
+    {
+      "word": ".8",
+      "start": 484.1666,
+      "end": 484.6999
+    },
+    {
+      "word": "billion",
+      "start": 484.6999,
+      "end": 484.9888
+    },
+    {
+      "word": "years",
+      "start": 484.9888,
+      "end": 485.2999
+    },
+    {
+      "word": "ago",
+      "start": 485.2999,
+      "end": 485.5888
+    },
+    {
+      "word": "falls",
+      "start": 485.5888,
+      "end": 485.9666
+    },
+    {
+      "word": "in",
+      "start": 485.9666,
+      "end": 486.2111
+    },
+    {
+      "word": "early",
+      "start": 486.2111,
+      "end": 486.4777
+    },
+    {
+      "word": "March.",
+      "start": 486.4777,
+      "end": 486.8555
+    },
+    {
+      "word": "Dinosaurs",
+      "start": 487.2555,
+      "end": 487.6555
+    },
+    {
+      "word": "arrive",
+      "start": 487.6555,
+      "end": 488.0999
+    },
+    {
+      "word": "around",
+      "start": 488.0999,
+      "end": 488.4777
+    },
+    {
+      "word": "December",
+      "start": 488.4777,
+      "end": 488.8999
+    },
+    {
+      "word": "13.",
+      "start": 488.8999,
+      "end": 489.4555
+    },
+    {
+      "word": "The",
+      "start": 489.8999,
+      "end": 490.1666
+    },
+    {
+      "word": "asteroid",
+      "start": 490.1666,
+      "end": 490.5222
+    },
+    {
+      "word": "strikes",
+      "start": 490.5222,
+      "end": 490.8999
+    },
+    {
+      "word": "on",
+      "start": 490.8999,
+      "end": 491.1666
+    },
+    {
+      "word": "December",
+      "start": 491.1666,
+      "end": 491.6111
+    },
+    {
+      "word": "26.",
+      "start": 491.6111,
+      "end": 492.2777
+    },
+    {
+      "word": "Homo",
+      "start": 492.7444,
+      "end": 493.0555
+    },
+    {
+      "word": "sapiens",
+      "start": 493.0555,
+      "end": 493.4777
+    },
+    {
+      "word": "arrives",
+      "start": 493.4777,
+      "end": 493.8999
+    },
+    {
+      "word": "around",
+      "start": 493.8999,
+      "end": 494.3666
+    },
+    {
+      "word": "11",
+      "start": 494.3666,
+      "end": 494.7222
+    },
+    {
+      "word": ".25",
+      "start": 494.7222,
+      "end": 495.3444
+    },
+    {
+      "word": "pm",
+      "start": 495.3444,
+      "end": 495.7888
+    },
+    {
+      "word": "on",
+      "start": 495.7888,
+      "end": 496.0777
+    },
+    {
+      "word": "December",
+      "start": 496.0777,
+      "end": 496.4333
+    },
+    {
+      "word": "31.",
+      "start": 496.4333,
+      "end": 497.0555
+    },
+    {
+      "word": "5",
+      "start": 497.5888,
+      "end": 497.8111
+    },
+    {
+      "word": ",000",
+      "start": 497.8111,
+      "end": 498.2111
+    },
+    {
+      "word": "years",
+      "start": 498.2111,
+      "end": 498.5666
+    },
+    {
+      "word": "of",
+      "start": 498.5666,
+      "end": 498.7888
+    },
+    {
+      "word": "written",
+      "start": 498.7888,
+      "end": 499.0111
+    },
+    {
+      "word": "history",
+      "start": 499.0111,
+      "end": 499.4999
+    },
+    {
+      "word": "including",
+      "start": 499.4999,
+      "end": 499.9666
+    },
+    {
+      "word": "dynasties,",
+      "start": 499.9666,
+      "end": 500.6111
+    },
+    {
+      "word": "wars",
+      "start": 500.6555,
+      "end": 501.0111
+    },
+    {
+      "word": "and",
+      "start": 501.0111,
+      "end": 501.2777
+    },
+    {
+      "word": "phones",
+      "start": 501.2777,
+      "end": 501.6777
+    },
+    {
+      "word": "fit",
+      "start": 501.6777,
+      "end": 502.0111
+    },
+    {
+      "word": "into",
+      "start": 502.0111,
+      "end": 502.2555
+    },
+    {
+      "word": "roughly",
+      "start": 502.2555,
+      "end": 502.6333
+    },
+    {
+      "word": "the",
+      "start": 502.6333,
+      "end": 502.9222
+    },
+    {
+      "word": "final",
+      "start": 502.9222,
+      "end": 503.1888
+    },
+    {
+      "word": "35",
+      "start": 503.1888,
+      "end": 503.8333
+    },
+    {
+      "word": "seconds.",
+      "start": 503.8333,
+      "end": 504.2999
+    },
+    {
+      "word": "Earth",
+      "start": 504.6555,
+      "end": 504.9222
+    },
+    {
+      "word": "has",
+      "start": 504.9222,
+      "end": 505.2333
+    },
+    {
+      "word": "been",
+      "start": 505.2333,
+      "end": 505.4555
+    },
+    {
+      "word": "magma,",
+      "start": 505.4555,
+      "end": 506.0333
+    },
+    {
+      "word": "it",
+      "start": 506.0555,
+      "end": 506.2333
+    },
+    {
+      "word": "has",
+      "start": 506.2333,
+      "end": 506.5222
+    },
+    {
+      "word": "frozen",
+      "start": 506.5222,
+      "end": 506.9666
+    },
+    {
+      "word": "solid,",
+      "start": 506.9666,
+      "end": 507.4999
+    },
+    {
+      "word": "it",
+      "start": 507.7222,
+      "end": 507.8555
+    },
+    {
+      "word": "has",
+      "start": 507.8555,
+      "end": 508.0333
+    },
+    {
+      "word": "been",
+      "start": 508.0333,
+      "end": 508.3444
+    },
+    {
+      "word": "smashed",
+      "start": 508.3444,
+      "end": 508.7444
+    },
+    {
+      "word": "apart",
+      "start": 508.7444,
+      "end": 509.1666
+    },
+    {
+      "word": "and",
+      "start": 509.1666,
+      "end": 509.4999
+    },
+    {
+      "word": "still",
+      "start": 509.4999,
+      "end": 509.6777
+    },
+    {
+      "word": "healed,",
+      "start": 509.6777,
+      "end": 510.0777
+    },
+    {
+      "word": "it",
+      "start": 510.3666,
+      "end": 510.5444
+    },
+    {
+      "word": "does",
+      "start": 510.5444,
+      "end": 510.7444
+    },
+    {
+      "word": "not",
+      "start": 510.7444,
+      "end": 510.9888
+    },
+    {
+      "word": "need",
+      "start": 510.9888,
+      "end": 511.0999
+    },
+    {
+      "word": "us,",
+      "start": 511.0999,
+      "end": 511.4111
+    },
+    {
+      "word": "we",
+      "start": 511.4111,
+      "end": 511.6111
+    },
+    {
+      "word": "need",
+      "start": 511.6111,
+      "end": 511.8111
+    },
+    {
+      "word": "it.",
+      "start": 511.8111,
+      "end": 512.0999
+    },
+    {
+      "word": "Because",
+      "start": 512.4111,
+      "end": 512.7666
+    },
+    {
+      "word": "after",
+      "start": 512.7666,
+      "end": 513.2999
+    },
+    {
+      "word": "4",
+      "start": 513.2999,
+      "end": 513.7222
+    },
+    {
+      "word": ".5",
+      "start": 513.7222,
+      "end": 514.5444
+    },
+    {
+      "word": "billion",
+      "start": 514.5444,
+      "end": 514.9888
+    },
+    {
+      "word": "years",
+      "start": 514.9888,
+      "end": 515.3444
+    },
+    {
+      "word": "of",
+      "start": 515.3444,
+      "end": 515.6333
+    },
+    {
+      "word": "chaos",
+      "start": 515.6333,
+      "end": 516.0333
+    },
+    {
+      "word": "it",
+      "start": 516.0333,
+      "end": 516.2555
+    },
+    {
+      "word": "has",
+      "start": 516.2555,
+      "end": 516.5222
+    },
+    {
+      "word": "finally",
+      "start": 516.5222,
+      "end": 516.9222
+    },
+    {
+      "word": "become",
+      "start": 516.9222,
+      "end": 517.3888
+    },
+    {
+      "word": "peaceful",
+      "start": 517.3888,
+      "end": 517.8777
+    },
+    {
+      "word": "enough",
+      "start": 517.8777,
+      "end": 518.2111
+    },
+    {
+      "word": "for",
+      "start": 518.2111,
+      "end": 518.4333
+    },
+    {
+      "word": "a",
+      "start": 518.4333,
+      "end": 518.7222
+    },
+    {
+      "word": "species",
+      "start": 518.7222,
+      "end": 519.1444
+    },
+    {
+      "word": "that",
+      "start": 519.1444,
+      "end": 519.4111
+    },
+    {
+      "word": "can",
+      "start": 519.4111,
+      "end": 519.6111
+    },
+    {
+      "word": "tell",
+      "start": 519.6111,
+      "end": 519.9666
+    },
+    {
+      "word": "stories.",
+      "start": 519.9666,
+      "end": 520.5666
+    },
+    {
+      "word": "For",
+      "start": 520.8777,
+      "end": 521.1222
+    },
+    {
+      "word": "you,",
+      "start": 521.1222,
+      "end": 521.5444
+    },
+    {
+      "word": "to",
+      "start": 521.7888,
+      "end": 522.0111
+    },
+    {
+      "word": "sit",
+      "start": 522.0111,
+      "end": 522.2555
+    },
+    {
+      "word": "here",
+      "start": 522.2555,
+      "end": 522.6333
+    },
+    {
+      "word": "and",
+      "start": 522.6333,
+      "end": 522.7888
+    },
+    {
+      "word": "hear",
+      "start": 522.7888,
+      "end": 522.9888
+    },
+    {
+      "word": "the",
+      "start": 522.9888,
+      "end": 523.2999
+    },
+    {
+      "word": "story",
+      "start": 523.2999,
+      "end": 523.5222
+    },
+    {
+      "word": "yourself,",
+      "start": 523.5222,
+      "end": 524.1888
+    },
+    {
+      "word": "you",
+      "start": 524.5888,
+      "end": 524.7444
+    },
+    {
+      "word": "are",
+      "start": 524.7444,
+      "end": 524.9444
+    },
+    {
+      "word": "made",
+      "start": 524.9444,
+      "end": 525.1666
+    },
+    {
+      "word": "of",
+      "start": 525.1666,
+      "end": 525.4333
+    },
+    {
+      "word": "stardust.",
+      "start": 525.4333,
+      "end": 526.0333
+    },
+    {
+      "word": "Do",
+      "start": 526.4333,
+      "end": 526.5666
+    },
+    {
+      "word": "not",
+      "start": 526.5666,
+      "end": 526.7444
+    },
+    {
+      "word": "live",
+      "start": 526.7444,
+      "end": 526.9444
+    },
+    {
+      "word": "like",
+      "start": 526.9444,
+      "end": 527.1888
+    },
+    {
+      "word": "a",
+      "start": 527.1888,
+      "end": 527.3666
+    },
+    {
+      "word": "speck",
+      "start": 527.3666,
+      "end": 527.5222
+    },
+    {
+      "word": "of",
+      "start": 527.5222,
+      "end": 527.6999
+    },
+    {
+      "word": "dust.",
+      "start": 527.6999,
+      "end": 528.0111
+    }
+  ]
+}

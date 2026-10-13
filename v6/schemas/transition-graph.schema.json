@@ -1,0 +1,121 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:explainer:v6:transition-graph",
+  "type": "object",
+  "required": [
+    "version",
+    "edges"
+  ],
+  "properties": {
+    "version": {
+      "const": 1
+    },
+    "edges": {
+      "type": "array",
+      "minItems": 0,
+      "items": {
+        "type": "object",
+        "required": [
+          "transition_id",
+          "from_shot",
+          "to_shot",
+          "type",
+          "time",
+          "cause",
+          "carries",
+          "invariant",
+          "state_handoff",
+          "continuity_test",
+          "exception_reason"
+        ],
+        "properties": {
+          "transition_id": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_-]*$"
+          },
+          "from_shot": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_-]*$"
+          },
+          "to_shot": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_-]*$"
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "occlusion",
+              "match_motion",
+              "object_transformation",
+              "camera_travel",
+              "light_bridge",
+              "sound_bridge",
+              "motivated_cut",
+              "semantic_cut",
+              "fade_exception"
+            ]
+          },
+          "time": {
+            "type": "object",
+            "required": [
+              "start_frame",
+              "end_frame"
+            ],
+            "properties": {
+              "start_frame": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "end_frame": {
+                "type": "integer",
+                "minimum": 0
+              }
+            },
+            "additionalProperties": false
+          },
+          "cause": {
+            "type": "string",
+            "minLength": 1
+          },
+          "carries": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string",
+              "enum": [
+                "subject",
+                "action",
+                "motion_vector",
+                "velocity",
+                "light",
+                "color",
+                "geometry",
+                "scale",
+                "depth",
+                "sound",
+                "semantic_idea"
+              ]
+            }
+          },
+          "invariant": {
+            "type": "string",
+            "minLength": 1
+          },
+          "state_handoff": {
+            "type": "string",
+            "minLength": 1
+          },
+          "continuity_test": {
+            "type": "string",
+            "minLength": 1
+          },
+          "exception_reason": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

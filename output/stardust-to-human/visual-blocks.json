@@ -1,0 +1,1804 @@
+{
+  "sections": [
+    {
+      "section_id": 1,
+      "title": "STARDUST TO HUMAN",
+      "start_frame": 0,
+      "end_frame": 1185,
+      "narration": "Put your hand on your chest. The iron in your blood, the calcium in your bones, the gold in your ring, none of it was born on Earth. It was forged at a hundred million degrees inside the heart of a star that exploded before the sun even existed. Literally, you are the ashes of a stellar explosion, and the rock beneath your feet? 4 .5 billion years ago it was a boiling inferno at 1200 degrees Celsius. No water, no air, meteorites hammered it every day. So how, did that hell become the place where you are sitting scrolling through your phone? This is the whole story.",
+      "layout": "cinematic",
+      "composition": "Zoom-In",
+      "beats": [
+        {
+          "id": "META_TYPEANATOMY_SUBTYPELABELED",
+          "tag": "META",
+          "text": "type=anatomy, subtype=labeled, subject=human body elements, context=origin in stars",
+          "frame": 91,
+          "timestamp_seconds": 3.0465,
+          "aligned": true
+        },
+        {
+          "id": "EM_IRON",
+          "tag": "EM",
+          "text": "iron",
+          "frame": 96,
+          "timestamp_seconds": 3.2093,
+          "aligned": true
+        },
+        {
+          "id": "EM_CALCIUM",
+          "tag": "EM",
+          "text": "calcium",
+          "frame": 144,
+          "timestamp_seconds": 4.814,
+          "aligned": true
+        },
+        {
+          "id": "EM_GOLD",
+          "tag": "EM",
+          "text": "gold",
+          "frame": 198,
+          "timestamp_seconds": 6.6047,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPEFLOW_SUBTYPELINEAR_STE",
+          "tag": "META",
+          "text": "type=flow, subtype=linear, steps=Forged in stars\u2192Exploded\u2192Scattered elements",
+          "frame": 313,
+          "timestamp_seconds": 10.4651,
+          "aligned": true
+        },
+        {
+          "id": "STAT_A_HUNDRED_MILLION__DEGREES__",
+          "tag": "STAT",
+          "text": "a hundred million | degrees | inside a star",
+          "frame": 349,
+          "timestamp_seconds": 11.6512,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPEMETAPHOR_SUBTYPEABSTRAC",
+          "tag": "META",
+          "text": "type=metaphor, subtype=abstract, subject=human body, context=composed of stardust",
+          "frame": 550,
+          "timestamp_seconds": 18.3488,
+          "aligned": true
+        },
+        {
+          "id": "EM_ASHES_OF_A_STELLAR_EXPLOSION",
+          "tag": "EM",
+          "text": "ashes of a stellar explosion",
+          "frame": 584,
+          "timestamp_seconds": 19.4888,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPETIMELINE_SUBTYPEERA_ER",
+          "tag": "META",
+          "text": "type=timeline, subtype=era, era=Early Earth inferno, span=4.5B years ago",
+          "frame": 641,
+          "timestamp_seconds": 21.3688,
+          "aligned": true
+        },
+        {
+          "id": "STAT_FOUR_POINT_FIVE_BILLION__YEAR",
+          "tag": "STAT",
+          "text": "four point five billion | years ago",
+          "frame": 729,
+          "timestamp_seconds": 24.3288,
+          "aligned": true
+        },
+        {
+          "id": "STAT_TWELVE_HUNDRED__DEGREES_CELSI",
+          "tag": "STAT",
+          "text": "twelve hundred | degrees Celsius",
+          "frame": 822,
+          "timestamp_seconds": 27.4088,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPETRANSFORMATION_SUBTYPEE",
+          "tag": "META",
+          "text": "type=transformation, subtype=evolution-stages, from=Hellish Earth, to=Livable planet",
+          "frame": 972,
+          "timestamp_seconds": 32.4288,
+          "aligned": true
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "title": "FROM NOTHING",
+      "start_frame": 1185,
+      "end_frame": 2920,
+      "narration": "To tell the story of Earth we have to begin before Earth, before time itself. 13 .8 billion years ago everything was packed into a point smaller than an atom. Then it expanded. The Big Bang, not an explosion like fireworks but space itself swelling faster than light. Three minutes later the first protons appeared, 380 ,000 years later there was light. 200 million years later hydrogen gas gathered grew hotter and lit up. The first star switched on. Inside every star is a furnace, burning hydrogen into carbon, oxygen and eventually iron. The very carbon in your skin, the oxygen you are breathing, the bigger a star the sooner it dies, it collapses inward then explodes. A supernova? As bright as an entire galaxy, scattering gold, silver and uranium across the universe. The gold in a wedding ring was not born on Earth, it was born when two stellar corpses collided.",
+      "layout": "floating",
+      "composition": "Scale",
+      "beats": [
+        {
+          "id": "META_TYPETIMELINE_SUBTYPEMILESTO",
+          "tag": "META",
+          "text": "type=timeline, subtype=milestone, era=Universe origin, span=Before Earth",
+          "frame": 1185,
+          "timestamp_seconds": 39.5288,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPETIMELINE_SUBTYPEMILESTO",
+          "tag": "META",
+          "text": "type=timeline, subtype=milestone, era=Big Bang, span=13.8B years ago",
+          "frame": 1361,
+          "timestamp_seconds": 45.3688,
+          "aligned": true
+        },
+        {
+          "id": "STAT_THIRTEEN_POINT_EIGHT_BILLION_",
+          "tag": "STAT",
+          "text": "Thirteen point eight billion | years ago",
+          "frame": 1361,
+          "timestamp_seconds": 45.3688,
+          "aligned": true
+        },
+        {
+          "id": "EM_BIG_BANG",
+          "tag": "EM",
+          "text": "Big Bang",
+          "frame": 1536,
+          "timestamp_seconds": 51.2088,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPETIMELINE_SUBTYPEMILESTO",
+          "tag": "META",
+          "text": "type=timeline, subtype=milestone, era=Early Universe milestones, span=First minutes to first stars",
+          "frame": 1704,
+          "timestamp_seconds": 56.8088,
+          "aligned": true
+        },
+        {
+          "id": "STAT_THREE__MINUTES",
+          "tag": "STAT",
+          "text": "Three | minutes",
+          "frame": 1704,
+          "timestamp_seconds": 56.8088,
+          "aligned": true
+        },
+        {
+          "id": "EM_PROTONS",
+          "tag": "EM",
+          "text": "protons",
+          "frame": 1746,
+          "timestamp_seconds": 58.2088,
+          "aligned": true
+        },
+        {
+          "id": "STAT_THREE_HUNDRED_AND_EIGHTY_THOUS",
+          "tag": "STAT",
+          "text": "Three hundred and eighty thousand | years",
+          "frame": 1830,
+          "timestamp_seconds": 61.0088,
+          "aligned": true
+        },
+        {
+          "id": "STAT_TWO_HUNDRED_MILLION__YEARS",
+          "tag": "STAT",
+          "text": "Two hundred million | years",
+          "frame": 1895,
+          "timestamp_seconds": 63.1688,
+          "aligned": true
+        },
+        {
+          "id": "EM_HYDROGEN_GAS",
+          "tag": "EM",
+          "text": "hydrogen gas",
+          "frame": 1930,
+          "timestamp_seconds": 64.3488,
+          "aligned": true
+        },
+        {
+          "id": "EM_FIRST_STAR",
+          "tag": "EM",
+          "text": "first star",
+          "frame": 2033,
+          "timestamp_seconds": 67.7688,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPEFLOW_SUBTYPELINEAR_STE",
+          "tag": "META",
+          "text": "type=flow, subtype=linear, steps=Hydrogen\u2192Carbon\u2192Oxygen\u2192Iron, context=stellar nucleosynthesis",
+          "frame": 2094,
+          "timestamp_seconds": 69.8288,
+          "aligned": true
+        },
+        {
+          "id": "EM_HYDROGEN",
+          "tag": "EM",
+          "text": "hydrogen",
+          "frame": 2163,
+          "timestamp_seconds": 72.1288,
+          "aligned": true
+        },
+        {
+          "id": "EM_CARBON",
+          "tag": "EM",
+          "text": "carbon",
+          "frame": 2191,
+          "timestamp_seconds": 73.0488,
+          "aligned": true
+        },
+        {
+          "id": "EM_OXYGEN",
+          "tag": "EM",
+          "text": "oxygen",
+          "frame": 2216,
+          "timestamp_seconds": 73.8888,
+          "aligned": true
+        },
+        {
+          "id": "EM_IRON",
+          "tag": "EM",
+          "text": "iron",
+          "frame": 2252,
+          "timestamp_seconds": 75.0888,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPEFLOW_SUBTYPECAUSAL_STE",
+          "tag": "META",
+          "text": "type=flow, subtype=causal, steps=Star collapse\u2192Supernova\u2192Element scattering",
+          "frame": 2378,
+          "timestamp_seconds": 79.2888,
+          "aligned": true
+        },
+        {
+          "id": "EM_SUPERNOVA",
+          "tag": "EM",
+          "text": "supernova",
+          "frame": 2527,
+          "timestamp_seconds": 84.2488,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPESCENARIO_SUBTYPEEXAMPLE",
+          "tag": "META",
+          "text": "type=scenario, subtype=example, context=origin of gold in a wedding ring",
+          "frame": 2733,
+          "timestamp_seconds": 91.1288,
+          "aligned": true
+        },
+        {
+          "id": "EM_STELLAR_CORPSES",
+          "tag": "EM",
+          "text": "stellar corpses",
+          "frame": 2864,
+          "timestamp_seconds": 95.4688,
+          "aligned": true
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "title": "THE SUN CAME FIRST",
+      "start_frame": 2920,
+      "end_frame": 4167,
+      "narration": "Fast forward to 4 .6 billion years ago, a cold cloud of stardust millions of times larger than the solar system was drifting through space. Then a nearby star exploded. Its shock wave arrived like an invisible hand crushing the cloud. The cloud collapsed inward, spinning like a whirlpool. At its center the temperature reached 10 million degrees, and it lit up. The newborn sun. The first light in our solar system. There was no Earth yet, just a young sun in the middle surrounded by an enormous wildly spinning disk of dust. That disk was the construction site. Remember this, the sun came first. Earth was the child built from the leftover dust.",
+      "layout": "radial",
+      "composition": "Hub-Spoke",
+      "beats": [
+        {
+          "id": "META_TYPETIMELINE_SUBTYPEMILESTO",
+          "tag": "META",
+          "text": "type=timeline, subtype=milestone, era=Solar System formation, span=4.6B years ago",
+          "frame": 2920,
+          "timestamp_seconds": 97.3488,
+          "aligned": true
+        },
+        {
+          "id": "STAT_FOUR_POINT_SIX_BILLION__YEARS",
+          "tag": "STAT",
+          "text": "four point six billion | years ago",
+          "frame": 2981,
+          "timestamp_seconds": 99.3688,
+          "aligned": true
+        },
+        {
+          "id": "EM_STARDUST",
+          "tag": "EM",
+          "text": "stardust",
+          "frame": 3052,
+          "timestamp_seconds": 101.7488,
+          "aligned": true
+        },
+        {
+          "id": "STAT_MILLIONS__OF_TIMES_LARGER",
+          "tag": "STAT",
+          "text": "millions | of times larger",
+          "frame": 3067,
+          "timestamp_seconds": 102.2488,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPEFLOW_SUBTYPECAUSAL_STE",
+          "tag": "META",
+          "text": "type=flow, subtype=causal, steps=Nearby star explodes\u2192Shock wave\u2192Cloud collapses\u2192Spins like whirlpool",
+          "frame": 3203,
+          "timestamp_seconds": 106.7688,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPETIMELINE_SUBTYPEMILESTO",
+          "tag": "META",
+          "text": "type=timeline, subtype=milestone, era=Sun's birth, span=4.6B years ago",
+          "frame": 3501,
+          "timestamp_seconds": 116.7088,
+          "aligned": true
+        },
+        {
+          "id": "STAT_TEN_MILLION__DEGREES",
+          "tag": "STAT",
+          "text": "ten million | degrees",
+          "frame": 3560,
+          "timestamp_seconds": 118.6888,
+          "aligned": true
+        },
+        {
+          "id": "EM_NEWBORN_SUN",
+          "tag": "EM",
+          "text": "newborn Sun",
+          "frame": 3629,
+          "timestamp_seconds": 120.9888,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPEHIERARCHY_SUBTYPESTACK",
+          "tag": "META",
+          "text": "type=hierarchy, subtype=stack, root=Sun, base=Disk of dust, context=Solar System formation",
+          "frame": 3734,
+          "timestamp_seconds": 124.4888,
+          "aligned": true
+        },
+        {
+          "id": "EM_DISK_OF_DUST",
+          "tag": "EM",
+          "text": "disk of dust",
+          "frame": 3892,
+          "timestamp_seconds": 129.7488,
+          "aligned": true
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "title": "HELL AND THE MOON",
+      "start_frame": 4167,
+      "end_frame": 6071,
+      "narration": "Inside that disk dust grains collided and stuck together. Dust became pebbles, pebbles became house -sized rocks, rocks became planetary embryos. Colliding and merging for 50 million years. The result? A glowing ball of hot rock. The newborn Earth 4 .54 billion years ago, this was hell. The surface was boiling magma at 1200 degrees Celsius. No water. No soil, a sky full of poisonous gases. Thousands of meteorites rained down every day. Then came the apocalypse. A Mars -sized planet called Theia hurtled toward Earth at 40 ,000 kilometers per hour and struck it head on. The impact shattered Theia and blasted Earth's outer layers into space. It looked like the end. But the debris did not escape. Gravity held it nearby. The fragments orbited, collided, stuck together. And in just a hundred years became the moon. The moon is a piece of Earth. Every time you gaze at it you are looking at the scar of the most terrifying accident in our planet's history.",
+      "layout": "cinematic",
+      "composition": "Timeline",
+      "beats": [
+        {
+          "id": "META_TYPEFLOW_SUBTYPELINEAR_STE",
+          "tag": "META",
+          "text": "type=flow, subtype=linear, steps=Dust grains\u2192Pebbles\u2192Rocks\u2192Planetary embryos, context=planetary accretion",
+          "frame": 4167,
+          "timestamp_seconds": 138.9088,
+          "aligned": true
+        },
+        {
+          "id": "STAT_FIFTY_MILLION__YEARS",
+          "tag": "STAT",
+          "text": "fifty million | years",
+          "frame": 4529,
+          "timestamp_seconds": 150.9888,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPETIMELINE_SUBTYPEMILESTO",
+          "tag": "META",
+          "text": "type=timeline, subtype=milestone, era=Earth's birth, span=4.54B years ago",
+          "frame": 4561,
+          "timestamp_seconds": 152.0488,
+          "aligned": true
+        },
+        {
+          "id": "EM_NEWBORN_EARTH",
+          "tag": "EM",
+          "text": "newborn Earth",
+          "frame": 4650,
+          "timestamp_seconds": 155.0288,
+          "aligned": true
+        },
+        {
+          "id": "STAT_FOUR_POINT_FIVE_FOUR_BILLION_",
+          "tag": "STAT",
+          "text": "four point five four billion | years ago",
+          "frame": 4713,
+          "timestamp_seconds": 157.1088,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPEMAP_SUBTYPEHEAT_REGION",
+          "tag": "META",
+          "text": "type=map, subtype=heat, region=Earth, subject=early hellish surface",
+          "frame": 4749,
+          "timestamp_seconds": 158.3088,
+          "aligned": true
+        },
+        {
+          "id": "STAT_TWELVE_HUNDRED__DEGREES_CELSI",
+          "tag": "STAT",
+          "text": "twelve hundred | degrees Celsius",
+          "frame": 4849,
+          "timestamp_seconds": 161.6488,
+          "aligned": true
+        },
+        {
+          "id": "E_POISONOUS_GASES",
+          "tag": "E",
+          "text": "poisonous gases",
+          "frame": 4984,
+          "timestamp_seconds": 166.1488,
+          "aligned": true
+        },
+        {
+          "id": "STAT_THOUSANDS__OF_METEORITES",
+          "tag": "STAT",
+          "text": "Thousands | of meteorites",
+          "frame": 5013,
+          "timestamp_seconds": 167.1288,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPETIMELINE_SUBTYPEMILESTO",
+          "tag": "META",
+          "text": "type=timeline, subtype=milestone, era=Theia impact, span=~4.5B years ago",
+          "frame": 5107,
+          "timestamp_seconds": 170.2488,
+          "aligned": true
+        },
+        {
+          "id": "EM_THEIA",
+          "tag": "EM",
+          "text": "Theia",
+          "frame": 5211,
+          "timestamp_seconds": 173.7288,
+          "aligned": true
+        },
+        {
+          "id": "STAT_FORTY_THOUSAND__KILOMETERS_PE",
+          "tag": "STAT",
+          "text": "forty thousand | kilometers per hour",
+          "frame": 5285,
+          "timestamp_seconds": 176.1888,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPE3D_SUBTYPEEXPLODE_OBJE",
+          "tag": "META",
+          "text": "type=3d, subtype=explode, object=Earth and Theia, context=planetary collision",
+          "frame": 5385,
+          "timestamp_seconds": 179.5088,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPEFLOW_SUBTYPELINEAR_STE",
+          "tag": "META",
+          "text": "type=flow, subtype=linear, steps=Debris orbits\u2192Collides\u2192Sticks together\u2192Forms Moon, context=Moon's formation",
+          "frame": 5567,
+          "timestamp_seconds": 185.5888,
+          "aligned": true
+        },
+        {
+          "id": "STAT_A_HUNDRED__YEARS",
+          "tag": "STAT",
+          "text": "a hundred | years",
+          "frame": 5772,
+          "timestamp_seconds": 192.4288,
+          "aligned": true
+        },
+        {
+          "id": "EM_MOON",
+          "tag": "EM",
+          "text": "Moon",
+          "frame": 5820,
+          "timestamp_seconds": 194.0088,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPEMETAPHOR_SUBTYPEICEBERG",
+          "tag": "META",
+          "text": "type=metaphor, subtype=iceberg, visible=Moon, hidden=Scar of impact, context=Moon's origin",
+          "frame": 5836,
+          "timestamp_seconds": 194.5488,
+          "aligned": true
+        },
+        {
+          "id": "EM_SCAR",
+          "tag": "EM",
+          "text": "scar",
+          "frame": 5966,
+          "timestamp_seconds": 198.8688,
+          "aligned": true
+        }
+      ]
+    },
+    {
+      "section_id": 5,
+      "title": "WATER FROM THE SKY",
+      "start_frame": 6071,
+      "end_frame": 7671,
+      "narration": "After the impact, Earth was a ball of fire. But it had two rescuers, the perfect distance from the sun and just enough size to hold on to water. Earth cooled. Magma hardened into a rocky crust. Volcanoes erupted furiously releasing water vapor and building the first atmosphere. The vapor rose into clouds. Then came rain, rain that lasted, not a few days but thousands of years. Millions of icy comets crashed down bringing even more water. Water filled every low place. Magma basins became oceans. The Red Inferno became a blue planet. The evidence is in Australia. Zircon crystals 4 .4 billion years old formed in the presence of water. Just 150 million years after its birth, Earth already had seas. This was the first great turning point. With water, everything became possible. 3 .8",
+      "layout": "split-h",
+      "composition": "Comparison",
+      "beats": [
+        {
+          "id": "META_TYPETENSION_SUBTYPEBALANCE_",
+          "tag": "META",
+          "text": "type=tension, subtype=balance-scale, a=Distance from Sun, b=Earth's size, context=conditions for life",
+          "frame": 6071,
+          "timestamp_seconds": 202.3888,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPEFLOW_SUBTYPELINEAR_STE",
+          "tag": "META",
+          "text": "type=flow, subtype=linear, steps=Earth cools\u2192Magma hardens\u2192Volcanoes erupt\u2192First atmosphere",
+          "frame": 6333,
+          "timestamp_seconds": 211.1088,
+          "aligned": true
+        },
+        {
+          "id": "EM_ROCKY_CRUST",
+          "tag": "EM",
+          "text": "rocky crust",
+          "frame": 6407,
+          "timestamp_seconds": 213.5888,
+          "aligned": true
+        },
+        {
+          "id": "EM_FIRST_ATMOSPHERE",
+          "tag": "EM",
+          "text": "first atmosphere",
+          "frame": 6557,
+          "timestamp_seconds": 218.5888,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPEFLOW_SUBTYPELINEAR_STE",
+          "tag": "META",
+          "text": "type=flow, subtype=linear, steps=Vapor\u2192Clouds\u2192Rain\u2192Comets add water, context=formation of oceans",
+          "frame": 6597,
+          "timestamp_seconds": 219.9088,
+          "aligned": true
+        },
+        {
+          "id": "STAT_THOUSANDS__OF_YEARS",
+          "tag": "STAT",
+          "text": "thousands | of years",
+          "frame": 6764,
+          "timestamp_seconds": 225.4888,
+          "aligned": true
+        },
+        {
+          "id": "STAT_MILLIONS__OF_ICY_COMETS",
+          "tag": "STAT",
+          "text": "Millions | of icy comets",
+          "frame": 6804,
+          "timestamp_seconds": 226.8088,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPETRANSFORMATION_SUBTYPES",
+          "tag": "META",
+          "text": "type=transformation, subtype=state-machine, from=Red inferno, to=Blue planet, context=Earth's surface change",
+          "frame": 6919,
+          "timestamp_seconds": 230.6488,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPESCENARIO_SUBTYPECASE_ST",
+          "tag": "META",
+          "text": "type=scenario, subtype=case-study, context=zircon crystals as evidence for early water",
+          "frame": 7140,
+          "timestamp_seconds": 238.0288,
+          "aligned": true
+        },
+        {
+          "id": "EM_ZIRCON_CRYSTALS",
+          "tag": "EM",
+          "text": "zircon crystals",
+          "frame": 7197,
+          "timestamp_seconds": 239.9088,
+          "aligned": true
+        },
+        {
+          "id": "STAT_FOUR_POINT_FOUR_BILLION__YEAR",
+          "tag": "STAT",
+          "text": "four point four billion | years old",
+          "frame": 7263,
+          "timestamp_seconds": 242.1288,
+          "aligned": true
+        },
+        {
+          "id": "STAT_A_HUNDRED_AND_FIFTY_MILLION__",
+          "tag": "STAT",
+          "text": "a hundred and fifty million | years",
+          "frame": 7385,
+          "timestamp_seconds": 246.1688,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPEICON_SUBTYPESINGLE_SYM",
+          "tag": "META",
+          "text": "type=icon, subtype=single, symbols=[water drop], context=water as catalyst for life",
+          "frame": 7494,
+          "timestamp_seconds": 249.8088,
+          "aligned": true
+        },
+        {
+          "id": "EM_FIRST_GREAT_TURNING_POINT",
+          "tag": "EM",
+          "text": "first great turning point",
+          "frame": 7517,
+          "timestamp_seconds": 250.5688,
+          "aligned": true
+        }
+      ]
+    },
+    {
+      "section_id": 6,
+      "title": "SLIME REWRITES THE SKY",
+      "start_frame": 7671,
+      "end_frame": 9132,
+      "narration": "billion years ago on the ocean floor, underwater volcanoes vented hot water rich in chemicals. A tiny fatty membrane folded around itself trapped chemicals inside and learned to copy itself. The first life, just bacteria, for a billion years Earth had nothing but these little things, blue water, green, slimy rocks. Then one branch learned a magic trick, photosynthesis, taking in carbon dioxide and releasing oxygen. Back then, oxygen was poison. It killed almost all the older life. This was the first pollution crisis. The Great Oxidation Event 2 .4 billion years ago. But that same oxygen created the ozone layer, made the sky blue and allowed energy -hungry life to evolve later. The tiniest creatures rewrote the entire sky.",
+      "layout": "grid",
+      "composition": "Zoom-In",
+      "beats": [
+        {
+          "id": "META_TYPETIMELINE_SUBTYPEMILESTO",
+          "tag": "META",
+          "text": "type=timeline, subtype=milestone, era=First life, span=3.8B years ago",
+          "frame": 7671,
+          "timestamp_seconds": 255.7288,
+          "aligned": true
+        },
+        {
+          "id": "STAT_THREE_POINT_EIGHT_BILLION__YE",
+          "tag": "STAT",
+          "text": "Three point eight billion | years ago",
+          "frame": 7671,
+          "timestamp_seconds": 255.7288,
+          "aligned": true
+        },
+        {
+          "id": "EM_TINY_FATTY_MEMBRANE",
+          "tag": "EM",
+          "text": "tiny fatty membrane",
+          "frame": 7867,
+          "timestamp_seconds": 262.2488,
+          "aligned": true
+        },
+        {
+          "id": "EM_FIRST_LIFE",
+          "tag": "EM",
+          "text": "first life",
+          "frame": 8051,
+          "timestamp_seconds": 268.3888,
+          "aligned": true
+        },
+        {
+          "id": "EM_BACTERIA",
+          "tag": "EM",
+          "text": "bacteria",
+          "frame": 8084,
+          "timestamp_seconds": 269.4888,
+          "aligned": true
+        },
+        {
+          "id": "STAT_A_BILLION__YEARS",
+          "tag": "STAT",
+          "text": "a billion | years",
+          "frame": 8118,
+          "timestamp_seconds": 270.6088,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPEFLOW_SUBTYPELINEAR_STE",
+          "tag": "META",
+          "text": "type=flow, subtype=linear, steps=Carbon dioxide in\u2192Oxygen out, context=photosynthesis",
+          "frame": 8295,
+          "timestamp_seconds": 276.5088,
+          "aligned": true
+        },
+        {
+          "id": "EM_PHOTOSYNTHESIS",
+          "tag": "EM",
+          "text": "photosynthesis",
+          "frame": 8358,
+          "timestamp_seconds": 278.6088,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPETENSION_SUBTYPETRADE_OF",
+          "tag": "META",
+          "text": "type=tension, subtype=trade-off, a=Oxygen as poison, b=Oxygen creating ozone, context=Great Oxidation Event",
+          "frame": 8510,
+          "timestamp_seconds": 283.6888,
+          "aligned": true
+        },
+        {
+          "id": "E_POISON",
+          "tag": "E",
+          "text": "poison",
+          "frame": 8554,
+          "timestamp_seconds": 285.1488,
+          "aligned": true
+        },
+        {
+          "id": "E_KILLED",
+          "tag": "E",
+          "text": "killed",
+          "frame": 8578,
+          "timestamp_seconds": 285.9488,
+          "aligned": true
+        },
+        {
+          "id": "EM_FIRST_POLLUTION_CRISIS",
+          "tag": "EM",
+          "text": "first pollution crisis",
+          "frame": 8664,
+          "timestamp_seconds": 288.8088,
+          "aligned": true
+        },
+        {
+          "id": "EM_GREAT_OXIDATION_EVENT",
+          "tag": "EM",
+          "text": "Great Oxidation Event",
+          "frame": 8718,
+          "timestamp_seconds": 290.6088,
+          "aligned": true
+        },
+        {
+          "id": "STAT_TWO_POINT_FOUR_BILLION__YEARS",
+          "tag": "STAT",
+          "text": "two point four billion | years ago",
+          "frame": 8791,
+          "timestamp_seconds": 293.0488,
+          "aligned": true
+        },
+        {
+          "id": "EM_OZONE_LAYER",
+          "tag": "EM",
+          "text": "ozone layer",
+          "frame": 8897,
+          "timestamp_seconds": 296.5888,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPEMETAPHOR_SUBTYPEABSTRAC",
+          "tag": "META",
+          "text": "type=metaphor, subtype=abstract, subject=microbes, context=reshaping Earth's atmosphere",
+          "frame": 9049,
+          "timestamp_seconds": 301.6488,
+          "aligned": true
+        }
+      ]
+    },
+    {
+      "section_id": 7,
+      "title": "FROZEN THEN ALIVE",
+      "start_frame": 9132,
+      "end_frame": 10472,
+      "narration": "Cells with nuclei appeared, then multicellular organisms, then sexual reproduction. And Earth nearly died a second time. 720 million years ago it froze into a completely white snowball, ice a kilometer thick. Minus 50 degrees Celsius, but volcanoes under the ice kept erupting. Carbon dioxide built up creating a powerful greenhouse effect that melted the ice. Meltwater carried minerals into the sea, a buffet for life. Then came the Cambrian Explosion 541 million years ago. In 20 million years, eyes appeared. Jointed legs, claws, hard shells, the ocean went from a stagnant pond to an arena of monsters. 470",
+      "layout": "split-v",
+      "composition": "Comparison",
+      "beats": [
+        {
+          "id": "META_TYPEPROGRESS_SUBTYPESTEPS_",
+          "tag": "META",
+          "text": "type=progress, subtype=steps, steps=[Cells with nuclei,Multicellular organisms,Sexual reproduction], context=evolution of life forms",
+          "frame": 9132,
+          "timestamp_seconds": 304.4088,
+          "aligned": true
+        },
+        {
+          "id": "EM_CELLS_WITH_NUCLEI",
+          "tag": "EM",
+          "text": "Cells with nuclei",
+          "frame": 9132,
+          "timestamp_seconds": 304.4088,
+          "aligned": true
+        },
+        {
+          "id": "EM_MULTICELLULAR_ORGANISMS",
+          "tag": "EM",
+          "text": "multicellular organisms",
+          "frame": 9216,
+          "timestamp_seconds": 307.2088,
+          "aligned": true
+        },
+        {
+          "id": "EM_SEXUAL_REPRODUCTION",
+          "tag": "EM",
+          "text": "sexual reproduction",
+          "frame": 9278,
+          "timestamp_seconds": 309.2888,
+          "aligned": true
+        },
+        {
+          "id": "E_NEARLY_DIED",
+          "tag": "E",
+          "text": "nearly died",
+          "frame": 9338,
+          "timestamp_seconds": 311.2688,
+          "aligned": true
+        },
+        {
+          "id": "STAT_SEVEN_HUNDRED_AND_TWENTY_MILLI",
+          "tag": "STAT",
+          "text": "Seven hundred and twenty million | years ago",
+          "frame": 9420,
+          "timestamp_seconds": 314.0288,
+          "aligned": true
+        },
+        {
+          "id": "EM_SNOWBALL",
+          "tag": "EM",
+          "text": "snowball",
+          "frame": 9513,
+          "timestamp_seconds": 317.1288,
+          "aligned": true
+        },
+        {
+          "id": "STAT_KILOMETER__THICK",
+          "tag": "STAT",
+          "text": "kilometer | thick",
+          "frame": 9552,
+          "timestamp_seconds": 318.4288,
+          "aligned": true
+        },
+        {
+          "id": "STAT_MINUS_FIFTY__DEGREES_CELSIUS",
+          "tag": "STAT",
+          "text": "Minus fifty | degrees Celsius",
+          "frame": 9592,
+          "timestamp_seconds": 319.7488,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPECYCLE_FEEDBACK_SUBTYPEB",
+          "tag": "META",
+          "text": "type=cycle-feedback, subtype=balancing-loop, steps=Volcanoes erupt\u2192CO2 buildup\u2192Greenhouse effect\u2192Ice melts\u2192CO2 absorbed\u2192Cooling, context=ending Snowball Earth",
+          "frame": 9654,
+          "timestamp_seconds": 321.8288,
+          "aligned": true
+        },
+        {
+          "id": "EM_CARBON_DIOXIDE",
+          "tag": "EM",
+          "text": "Carbon dioxide",
+          "frame": 9738,
+          "timestamp_seconds": 324.6288,
+          "aligned": true
+        },
+        {
+          "id": "EM_GREENHOUSE_EFFECT",
+          "tag": "EM",
+          "text": "greenhouse effect",
+          "frame": 9825,
+          "timestamp_seconds": 327.5088,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPETIMELINE_SUBTYPEMILESTO",
+          "tag": "META",
+          "text": "type=timeline, subtype=milestone, era=Cambrian Explosion, span=541M years ago",
+          "frame": 10027,
+          "timestamp_seconds": 334.2488,
+          "aligned": true
+        },
+        {
+          "id": "EM_CAMBRIAN_EXPLOSION",
+          "tag": "EM",
+          "text": "Cambrian Explosion",
+          "frame": 10044,
+          "timestamp_seconds": 334.8088,
+          "aligned": true
+        },
+        {
+          "id": "STAT_FIVE_HUNDRED_AND_FORTY_ONE_MIL",
+          "tag": "STAT",
+          "text": "five hundred and forty-one million | years ago",
+          "frame": 10124,
+          "timestamp_seconds": 337.4688,
+          "aligned": true
+        },
+        {
+          "id": "STAT_TWENTY_MILLION__YEARS",
+          "tag": "STAT",
+          "text": "twenty million | years",
+          "frame": 10184,
+          "timestamp_seconds": 339.4888,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPETRANSFORMATION_SUBTYPES",
+          "tag": "META",
+          "text": "type=transformation, subtype=state-machine, from=Stagnant pond, to=Arena of monsters, context=Cambrian life",
+          "frame": 10323,
+          "timestamp_seconds": 344.1288,
+          "aligned": true
+        }
+      ]
+    },
+    {
+      "section_id": 8,
+      "title": "LAND AND THE GREAT DYING",
+      "start_frame": 10472,
+      "end_frame": 11961,
+      "narration": "million years ago the first plants crept onto land, barely as tall as a finger. 390 million years later they had become enormous forests. Lobe -finned fish crawled ashore and became four -legged animals, your walking ancestors. 300 million years ago the continents joined into the supercontinent Pangea. Then came the greatest catastrophe. 252 million years ago volcanoes in Siberia erupted for a million years. Lava covered 7 million square kilometers, the ocean turned sour as vinegar. Temperatures rose by 10 degrees. 90 % of marine species and 70 % of land species vanished. The Permian Mass extinction. It looked like a complete reset, but the 10 % that survived became an opportunity.",
+      "layout": "stacked",
+      "composition": "Timeline",
+      "beats": [
+        {
+          "id": "META_TYPETIMELINE_SUBTYPEMILESTO",
+          "tag": "META",
+          "text": "type=timeline, subtype=milestone, era=Colonization of land, span=470M years ago",
+          "frame": 10472,
+          "timestamp_seconds": 349.0688,
+          "aligned": true
+        },
+        {
+          "id": "STAT_FOUR_HUNDRED_AND_SEVENTY_MILLI",
+          "tag": "STAT",
+          "text": "Four hundred and seventy million | years ago",
+          "frame": 10472,
+          "timestamp_seconds": 349.0688,
+          "aligned": true
+        },
+        {
+          "id": "EM_FIRST_PLANTS",
+          "tag": "EM",
+          "text": "first plants",
+          "frame": 10509,
+          "timestamp_seconds": 350.3088,
+          "aligned": true
+        },
+        {
+          "id": "STAT_THREE_HUNDRED_AND_NINETY_MILLI",
+          "tag": "STAT",
+          "text": "Three hundred and ninety million | years",
+          "frame": 10667,
+          "timestamp_seconds": 355.5688,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPETRANSFORMATION_SUBTYPEE",
+          "tag": "META",
+          "text": "type=transformation, subtype=evolution-stages, stages=[Lobe-finned fish,Four-legged animals], context=transition to land",
+          "frame": 10795,
+          "timestamp_seconds": 359.8488,
+          "aligned": true
+        },
+        {
+          "id": "EM_LOBE_FINNED_FISH",
+          "tag": "EM",
+          "text": "Lobe-finned fish",
+          "frame": 10795,
+          "timestamp_seconds": 359.8488,
+          "aligned": true
+        },
+        {
+          "id": "EM_FOUR_LEGGED_ANIMALS",
+          "tag": "EM",
+          "text": "four-legged animals",
+          "frame": 10869,
+          "timestamp_seconds": 362.3288,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPETIMELINE_SUBTYPEMILESTO",
+          "tag": "META",
+          "text": "type=timeline, subtype=milestone, era=Pangea formation, span=300M years ago",
+          "frame": 10956,
+          "timestamp_seconds": 365.2288,
+          "aligned": true
+        },
+        {
+          "id": "STAT_THREE_HUNDRED_MILLION__YEARS_",
+          "tag": "STAT",
+          "text": "Three hundred million | years ago",
+          "frame": 10956,
+          "timestamp_seconds": 365.2288,
+          "aligned": true
+        },
+        {
+          "id": "EM_SUPERCONTINENT_PANGEA",
+          "tag": "EM",
+          "text": "supercontinent Pangea",
+          "frame": 11041,
+          "timestamp_seconds": 368.0488,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPETIMELINE_SUBTYPEMILESTO",
+          "tag": "META",
+          "text": "type=timeline, subtype=milestone, era=Permian Extinction event, span=252M years ago",
+          "frame": 11090,
+          "timestamp_seconds": 369.6688,
+          "aligned": true
+        },
+        {
+          "id": "E_GREATEST_CATASTROPHE",
+          "tag": "E",
+          "text": "greatest catastrophe",
+          "frame": 11117,
+          "timestamp_seconds": 370.5888,
+          "aligned": true
+        },
+        {
+          "id": "STAT_TWO_HUNDRED_AND_FIFTY_TWO_MILL",
+          "tag": "STAT",
+          "text": "Two hundred and fifty-two million | years ago",
+          "frame": 11211,
+          "timestamp_seconds": 373.7088,
+          "aligned": true
+        },
+        {
+          "id": "EM_VOLCANOES_IN_SIBERIA",
+          "tag": "EM",
+          "text": "volcanoes in Siberia",
+          "frame": 11242,
+          "timestamp_seconds": 374.7488,
+          "aligned": true
+        },
+        {
+          "id": "STAT_A_MILLION__YEARS",
+          "tag": "STAT",
+          "text": "a million | years",
+          "frame": 11310,
+          "timestamp_seconds": 377.0288,
+          "aligned": true
+        },
+        {
+          "id": "STAT_SEVEN_MILLION__SQUARE_KILOMET",
+          "tag": "STAT",
+          "text": "seven million | square kilometers",
+          "frame": 11387,
+          "timestamp_seconds": 379.5688,
+          "aligned": true
+        },
+        {
+          "id": "STAT_TEN__DEGREES",
+          "tag": "STAT",
+          "text": "ten | degrees",
+          "frame": 11553,
+          "timestamp_seconds": 385.1288,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPEFUNNEL_ANALYSIS_SUBTYPE",
+          "tag": "META",
+          "text": "type=funnel-analysis, subtype=elimination, steps=[90% marine species,70% land species], data=Permian extinction survival",
+          "frame": 11614,
+          "timestamp_seconds": 387.1488,
+          "aligned": true
+        },
+        {
+          "id": "STAT_NINETY__PERCENT",
+          "tag": "STAT",
+          "text": "Ninety | percent",
+          "frame": 11614,
+          "timestamp_seconds": 387.1488,
+          "aligned": true
+        },
+        {
+          "id": "STAT_SEVENTY__PERCENT",
+          "tag": "STAT",
+          "text": "seventy | percent",
+          "frame": 11678,
+          "timestamp_seconds": 389.2688,
+          "aligned": true
+        },
+        {
+          "id": "E_VANISHED",
+          "tag": "E",
+          "text": "vanished",
+          "frame": 11705,
+          "timestamp_seconds": 390.1888,
+          "aligned": true
+        },
+        {
+          "id": "EM_PERMIAN_MASS_EXTINCTION",
+          "tag": "EM",
+          "text": "Permian mass extinction",
+          "frame": 11740,
+          "timestamp_seconds": 391.3488,
+          "aligned": true
+        },
+        {
+          "id": "STAT_TEN__PERCENT",
+          "tag": "STAT",
+          "text": "ten | percent",
+          "frame": 11877,
+          "timestamp_seconds": 395.9088,
+          "aligned": true
+        }
+      ]
+    },
+    {
+      "section_id": 9,
+      "title": "THE DINOSAURS LAST DAY",
+      "start_frame": 11961,
+      "end_frame": 13643,
+      "narration": "After the extinction, one branch of reptiles rose to power, the dinosaurs. They appeared 230 million years ago, growing into giants like the 9 -ton Tyrannosaurus They ruled for 165 million years. Mammals were just little mouse -like creatures hiding in the night. 66 million years ago a rock 10 kilometers wide raced toward Earth at 70 ,000 kilometers per hour. 20 times the speed of a bullet. It struck Mexico, the energy of 10 billion atomic bombs. A tsunami a kilometer high, hot rocks fell like a rain of fire burning every forest. Dust hid the earth. So to synthesize, herbivores died, carnivores followed, 75 % of life vanished. The weakest creatures survived, tiny mammals that could dig burrows, eat almost anything and keep themselves warm. Our ancestors?",
+      "layout": "cinematic",
+      "composition": "Scale",
+      "beats": [
+        {
+          "id": "META_TYPETIMELINE_SUBTYPEERA_ER",
+          "tag": "META",
+          "text": "type=timeline, subtype=era, era=Age of Dinosaurs, span=230M years ago to 66M years ago",
+          "frame": 11961,
+          "timestamp_seconds": 398.7088,
+          "aligned": true
+        },
+        {
+          "id": "EM_DINOSAURS",
+          "tag": "EM",
+          "text": "dinosaurs",
+          "frame": 12080,
+          "timestamp_seconds": 402.6888,
+          "aligned": true
+        },
+        {
+          "id": "STAT_TWO_HUNDRED_AND_THIRTY_MILLION",
+          "tag": "STAT",
+          "text": "two hundred and thirty million | years ago",
+          "frame": 12155,
+          "timestamp_seconds": 405.1888,
+          "aligned": true
+        },
+        {
+          "id": "STAT_NINE_TON__TYRANNOSAURUS_REX",
+          "tag": "STAT",
+          "text": "nine-ton | Tyrannosaurus rex",
+          "frame": 12258,
+          "timestamp_seconds": 408.6088,
+          "aligned": true
+        },
+        {
+          "id": "STAT_A_HUNDRED_AND_SIXTY_FIVE_MILLI",
+          "tag": "STAT",
+          "text": "a hundred and sixty-five million | years",
+          "frame": 12380,
+          "timestamp_seconds": 412.6888,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPECOMPARISON_SUBTYPESPLIT",
+          "tag": "META",
+          "text": "type=comparison, subtype=split, a=Dinosaurs, b=Mammals, context=post-Permian life",
+          "frame": 12414,
+          "timestamp_seconds": 413.8288,
+          "aligned": true
+        },
+        {
+          "id": "EM_MAMMALS",
+          "tag": "EM",
+          "text": "Mammals",
+          "frame": 12414,
+          "timestamp_seconds": 413.8288,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPETIMELINE_SUBTYPEMILESTO",
+          "tag": "META",
+          "text": "type=timeline, subtype=milestone, era=Dinosaur extinction event, span=66M years ago",
+          "frame": 12534,
+          "timestamp_seconds": 417.8088,
+          "aligned": true
+        },
+        {
+          "id": "STAT_SIXTY_SIX_MILLION__YEARS_AGO",
+          "tag": "STAT",
+          "text": "Sixty-six million | years ago",
+          "frame": 12534,
+          "timestamp_seconds": 417.8088,
+          "aligned": true
+        },
+        {
+          "id": "STAT_TEN__KILOMETERS",
+          "tag": "STAT",
+          "text": "ten | kilometers",
+          "frame": 12594,
+          "timestamp_seconds": 419.8288,
+          "aligned": true
+        },
+        {
+          "id": "STAT_SEVENTY_THOUSAND__KILOMETERS_",
+          "tag": "STAT",
+          "text": "seventy thousand | kilometers per hour",
+          "frame": 12689,
+          "timestamp_seconds": 422.9888,
+          "aligned": true
+        },
+        {
+          "id": "STAT_TWENTY__TIMES",
+          "tag": "STAT",
+          "text": "Twenty | times",
+          "frame": 12746,
+          "timestamp_seconds": 424.8888,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPESCALE_SUBTYPEHUMAN_SCAL",
+          "tag": "META",
+          "text": "type=scale, subtype=human-scale, subject=asteroid impact energy, context=compared to atomic bombs",
+          "frame": 12802,
+          "timestamp_seconds": 426.7488,
+          "aligned": true
+        },
+        {
+          "id": "STAT_TEN_BILLION__ATOMIC_BOMBS",
+          "tag": "STAT",
+          "text": "ten billion | atomic bombs",
+          "frame": 12874,
+          "timestamp_seconds": 429.1488,
+          "aligned": true
+        },
+        {
+          "id": "STAT_KILOMETER__HIGH",
+          "tag": "STAT",
+          "text": "kilometer | high",
+          "frame": 12951,
+          "timestamp_seconds": 431.7088,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPEMETAPHOR_SUBTYPEABSTRAC",
+          "tag": "META",
+          "text": "type=metaphor, subtype=abstract, subject=hot rocks, context=rain of fire",
+          "frame": 12985,
+          "timestamp_seconds": 432.8488,
+          "aligned": true
+        },
+        {
+          "id": "EM_RAIN_OF_FIRE",
+          "tag": "EM",
+          "text": "rain of fire",
+          "frame": 13019,
+          "timestamp_seconds": 433.9888,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPEFLOW_SUBTYPECAUSAL_STE",
+          "tag": "META",
+          "text": "type=flow, subtype=causal, steps=Dust hides Sun\u2192No photosynthesis\u2192Herbivores die\u2192Carnivores die\u2192Life vanishes",
+          "frame": 13119,
+          "timestamp_seconds": 437.3288,
+          "aligned": true
+        },
+        {
+          "id": "STAT_TWO__YEARS",
+          "tag": "STAT",
+          "text": "two | years",
+          "frame": 13250,
+          "timestamp_seconds": 441.6688,
+          "aligned": true
+        },
+        {
+          "id": "STAT_SEVENTY_FIVE__PERCENT",
+          "tag": "STAT",
+          "text": "Seventy-five | percent",
+          "frame": 13364,
+          "timestamp_seconds": 445.4688,
+          "aligned": true
+        },
+        {
+          "id": "E_VANISHED",
+          "tag": "E",
+          "text": "vanished",
+          "frame": 13377,
+          "timestamp_seconds": 445.9288,
+          "aligned": true
+        },
+        {
+          "id": "EM_WEAKEST_CREATURES",
+          "tag": "EM",
+          "text": "weakest creatures",
+          "frame": 13410,
+          "timestamp_seconds": 447.0288,
+          "aligned": true
+        },
+        {
+          "id": "EM_TINY_MAMMALS",
+          "tag": "EM",
+          "text": "tiny mammals",
+          "frame": 13461,
+          "timestamp_seconds": 448.7088,
+          "aligned": true
+        },
+        {
+          "id": "EM_OUR_ANCESTORS",
+          "tag": "EM",
+          "text": "Our ancestors",
+          "frame": 13611,
+          "timestamp_seconds": 453.7088,
+          "aligned": true
+        }
+      ]
+    },
+    {
+      "section_id": 10,
+      "title": "THE FINAL SECOND",
+      "start_frame": 13643,
+      "end_frame": 16064,
+      "narration": "The forests returned. With the dinosaurs gone, mammals grew larger, mammoths, 30 -meter whales, primates. Seven million years ago one branch of apes came down to ground and walked on two legs. Three million years ago they learned to strike stones into knives. 300 ,000 years ago homo sapiens appeared, If we compress 4 .54 billion years into one year, Earth forms on January 1. Life around 3 .8 billion years ago falls in early March. Dinosaurs arrive around December 13. The asteroid strikes on December 26. Homo sapiens arrives around 11 .25 pm on December 31. 5 ,000 years of written history including dynasties, wars and phones fit into roughly the final 35 seconds. Earth has been magma, it has frozen solid, it has been smashed apart and still healed, it does not need us, we need it. Because after 4 .5 billion years of chaos it has finally become peaceful enough for a species that can tell stories. For you, to sit here and hear the story yourself, you are made of stardust. Do not live like a speck of dust.",
+      "layout": "floating",
+      "composition": "Verdict",
+      "beats": [
+        {
+          "id": "META_TYPEFLOW_SUBTYPECAUSAL_STE",
+          "tag": "META",
+          "text": "type=flow, subtype=causal, steps=Dinosaurs gone\u2192Mammals grow larger",
+          "frame": 13643,
+          "timestamp_seconds": 454.7888,
+          "aligned": true
+        },
+        {
+          "id": "EM_MAMMOTHS",
+          "tag": "EM",
+          "text": "mammoths",
+          "frame": 13802,
+          "timestamp_seconds": 460.0999,
+          "aligned": true
+        },
+        {
+          "id": "STAT_THIRTY_METER__WHALES",
+          "tag": "STAT",
+          "text": "thirty-meter | whales",
+          "frame": 13841,
+          "timestamp_seconds": 461.3888,
+          "aligned": true
+        },
+        {
+          "id": "EM_PRIMATES",
+          "tag": "EM",
+          "text": "primates",
+          "frame": 13864,
+          "timestamp_seconds": 462.1444,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPETIMELINE_SUBTYPEMILESTO",
+          "tag": "META",
+          "text": "type=timeline, subtype=milestone, era=Human evolution, span=7M years ago to 300K years ago",
+          "frame": 13890,
+          "timestamp_seconds": 463.0111,
+          "aligned": true
+        },
+        {
+          "id": "STAT_SEVEN_MILLION__YEARS_AGO",
+          "tag": "STAT",
+          "text": "Seven million | years ago",
+          "frame": 13890,
+          "timestamp_seconds": 463.0111,
+          "aligned": true
+        },
+        {
+          "id": "STAT_THREE_MILLION__YEARS_AGO",
+          "tag": "STAT",
+          "text": "Three million | years ago",
+          "frame": 14066,
+          "timestamp_seconds": 468.8999,
+          "aligned": true
+        },
+        {
+          "id": "STAT_THREE_HUNDRED_THOUSAND__YEARS",
+          "tag": "STAT",
+          "text": "Three hundred thousand | years ago",
+          "frame": 14225,
+          "timestamp_seconds": 474.1888,
+          "aligned": true
+        },
+        {
+          "id": "EM_HOMO_SAPIENS",
+          "tag": "EM",
+          "text": "Homo sapiens",
+          "frame": 14248,
+          "timestamp_seconds": 474.9666,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPESCENARIO_SUBTYPEANALOGY",
+          "tag": "META",
+          "text": "type=scenario, subtype=analogy, context=Earth's history compressed into one year",
+          "frame": 14309,
+          "timestamp_seconds": 476.9888,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPETIMELINE_SUBTYPEERA_ER",
+          "tag": "META",
+          "text": "type=timeline, subtype=era, era=Earth history as one year",
+          "frame": 14430,
+          "timestamp_seconds": 481.0111,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPESCALE_SUBTYPEZOOM_SUBJ",
+          "tag": "META",
+          "text": "type=scale, subtype=zoom, subject=written history, context=final 35 seconds",
+          "frame": 14946,
+          "timestamp_seconds": 498.2111,
+          "aligned": true
+        },
+        {
+          "id": "META_TYPETENSION_SUBTYPETRADE_OF",
+          "tag": "META",
+          "text": "type=tension, subtype=trade-off, a=Earth's chaos, b=Earth's peace, context=human existence",
+          "frame": 15342,
+          "timestamp_seconds": 511.4111,
+          "aligned": true
+        },
+        {
+          "id": "STAT_FOUR_POINT_FIVE_BILLION__YEAR",
+          "tag": "STAT",
+          "text": "four point five billion | years",
+          "frame": 15436,
+          "timestamp_seconds": 514.5444,
+          "aligned": true
+        },
+        {
+          "id": "CLOSE_YOU_ARE_MADE_OF_STARDUST_DO_N",
+          "tag": "CLOSE",
+          "text": "You are made of stardust. Do not live like a speck of dust.",
+          "frame": 15737,
+          "timestamp_seconds": 524.5888,
+          "aligned": true
+        }
+      ]
+    }
+  ],
+  "shots": [
+    {
+      "time": 0.0,
+      "frame": 0,
+      "kind": "hand",
+      "title": "YOU ARE STARDUST"
+    },
+    {
+      "time": 9.0,
+      "frame": 270,
+      "kind": "elements",
+      "title": "IRON / CALCIUM / GOLD"
+    },
+    {
+      "time": 18.348837209302324,
+      "frame": 550,
+      "kind": "dust",
+      "title": "ASHES OF A STAR"
+    },
+    {
+      "time": 21.528837209302324,
+      "frame": 645,
+      "kind": "lava",
+      "title": "4.5 BILLION YEARS"
+    },
+    {
+      "time": 32.42883720930232,
+      "frame": 972,
+      "kind": "earth",
+      "title": "FROM FIRE TO HOME"
+    },
+    {
+      "time": 39.528837209302324,
+      "frame": 1185,
+      "kind": "void",
+      "title": "BEFORE EARTH"
+    },
+    {
+      "time": 49.808837209302325,
+      "frame": 1494,
+      "kind": "bang",
+      "title": "13.8 BILLION YEARS AGO"
+    },
+    {
+      "time": 64.34883720930233,
+      "frame": 1930,
+      "kind": "star",
+      "title": "THE FIRST STARS"
+    },
+    {
+      "time": 69.82883720930232,
+      "frame": 2094,
+      "kind": "elements",
+      "title": "A COSMIC FURNACE"
+    },
+    {
+      "time": 81.54883720930232,
+      "frame": 2446,
+      "kind": "supernova",
+      "title": "A STAR DIES"
+    },
+    {
+      "time": 95.06883720930233,
+      "frame": 2852,
+      "kind": "collision-stars",
+      "title": "GOLD FROM COLLISION"
+    },
+    {
+      "time": 97.34883720930233,
+      "frame": 2920,
+      "kind": "cloud",
+      "title": "4.6 BILLION YEARS"
+    },
+    {
+      "time": 113.42883720930233,
+      "frame": 3402,
+      "kind": "disk",
+      "title": "GRAVITY BUILDS A STAR"
+    },
+    {
+      "time": 120.82883720930234,
+      "frame": 3624,
+      "kind": "sun",
+      "title": "THE SUN CAME FIRST"
+    },
+    {
+      "time": 131.0288372093023,
+      "frame": 3930,
+      "kind": "disk",
+      "title": "THE PLANET FACTORY"
+    },
+    {
+      "time": 138.9088372093023,
+      "frame": 4167,
+      "kind": "accretion",
+      "title": "DUST / ROCK / WORLD"
+    },
+    {
+      "time": 154.9088372093023,
+      "frame": 4647,
+      "kind": "lava",
+      "title": "4.54 BILLION YEARS"
+    },
+    {
+      "time": 158.30883720930234,
+      "frame": 4749,
+      "kind": "meteors",
+      "title": "1,200 C / NO OCEANS"
+    },
+    {
+      "time": 172.16883720930235,
+      "frame": 5165,
+      "kind": "theia",
+      "title": "THEIA APPROACHES"
+    },
+    {
+      "time": 179.50883720930233,
+      "frame": 5385,
+      "kind": "collision",
+      "title": "THE GREAT IMPACT"
+    },
+    {
+      "time": 185.58883720930234,
+      "frame": 5567,
+      "kind": "debris",
+      "title": "GRAVITY HOLDS THE PIECES"
+    },
+    {
+      "time": 193.30883720930234,
+      "frame": 5799,
+      "kind": "moon",
+      "title": "4.51 BILLION YEARS"
+    },
+    {
+      "time": 202.38883720930232,
+      "frame": 6071,
+      "kind": "lava",
+      "title": "THE LONG COOLING"
+    },
+    {
+      "time": 212.44883720930233,
+      "frame": 6373,
+      "kind": "crust",
+      "title": "THE FIRST CRUST"
+    },
+    {
+      "time": 214.88883720930232,
+      "frame": 6446,
+      "kind": "volcano",
+      "title": "VAPOR BECOMES SKY"
+    },
+    {
+      "time": 221.72883720930233,
+      "frame": 6651,
+      "kind": "rain",
+      "title": "THOUSANDS OF YEARS OF RAIN"
+    },
+    {
+      "time": 232.90883720930233,
+      "frame": 6987,
+      "kind": "ocean",
+      "title": "4.4 BILLION YEARS / OCEANS"
+    },
+    {
+      "time": 239.90883720930233,
+      "frame": 7197,
+      "kind": "zircon",
+      "title": "WATER LEAVES EVIDENCE"
+    },
+    {
+      "time": 255.72883720930233,
+      "frame": 7671,
+      "kind": "vents",
+      "title": "THE OCEAN FLOOR"
+    },
+    {
+      "time": 262.06883720930233,
+      "frame": 7862,
+      "kind": "cells",
+      "title": "LIFE COPIES ITSELF"
+    },
+    {
+      "time": 273.80883720930234,
+      "frame": 8214,
+      "kind": "slime",
+      "title": "A BILLION YEARS OF MICROBES"
+    },
+    {
+      "time": 278.60883720930235,
+      "frame": 8358,
+      "kind": "oxygen",
+      "title": "SUNLIGHT BECOMES ENERGY"
+    },
+    {
+      "time": 284.54883720930235,
+      "frame": 8536,
+      "kind": "oxygen",
+      "title": "2.4 BILLION YEARS / OXYGEN"
+    },
+    {
+      "time": 304.4088372093023,
+      "frame": 9132,
+      "kind": "cells",
+      "title": "CELLS BECOME COMPLEX"
+    },
+    {
+      "time": 315.22883720930236,
+      "frame": 9456,
+      "kind": "snowball",
+      "title": "720 MILLION / SNOWBALL EARTH"
+    },
+    {
+      "time": 321.98883720930235,
+      "frame": 9659,
+      "kind": "thaw",
+      "title": "VOLCANOES BREAK THE FREEZE"
+    },
+    {
+      "time": 334.80883720930234,
+      "frame": 10044,
+      "kind": "cambrian",
+      "title": "541 MILLION / LIFE EXPLODES"
+    },
+    {
+      "time": 349.06883720930233,
+      "frame": 10472,
+      "kind": "plants",
+      "title": "LIFE REACHES LAND"
+    },
+    {
+      "time": 357.3888372093023,
+      "frame": 10721,
+      "kind": "forest",
+      "title": "THE LAND TURNS GREEN"
+    },
+    {
+      "time": 359.30883720930234,
+      "frame": 10779,
+      "kind": "fish",
+      "title": "FINS BECOME FEET"
+    },
+    {
+      "time": 368.04883720930235,
+      "frame": 11041,
+      "kind": "pangea",
+      "title": "ONE SUPERCONTINENT"
+    },
+    {
+      "time": 374.74883720930234,
+      "frame": 11242,
+      "kind": "volcano",
+      "title": "252 MILLION / THE GREAT DYING"
+    },
+    {
+      "time": 387.1488372093023,
+      "frame": 11614,
+      "kind": "extinction",
+      "title": "90% OF MARINE SPECIES LOST"
+    },
+    {
+      "time": 398.7088372093023,
+      "frame": 11961,
+      "kind": "dinosaur",
+      "title": "230 MILLION / DINOSAURS"
+    },
+    {
+      "time": 413.8288372093023,
+      "frame": 12414,
+      "kind": "mammal",
+      "title": "SMALL CREATURES WAIT"
+    },
+    {
+      "time": 419.0088372093023,
+      "frame": 12570,
+      "kind": "asteroid",
+      "title": "66 MILLION / INCOMING"
+    },
+    {
+      "time": 426.74883720930234,
+      "frame": 12802,
+      "kind": "impact",
+      "title": "THE DINOSAURS LAST DAY"
+    },
+    {
+      "time": 437.3288372093023,
+      "frame": 13119,
+      "kind": "ash",
+      "title": "THE SUN DISAPPEARS"
+    },
+    {
+      "time": 446.84883720930236,
+      "frame": 13405,
+      "kind": "mammal",
+      "title": "THE SURVIVORS"
+    },
+    {
+      "time": 454.78883720930236,
+      "frame": 13643,
+      "kind": "forest",
+      "title": "LIFE RETURNS"
+    },
+    {
+      "time": 464.43328165374675,
+      "frame": 13932,
+      "kind": "human",
+      "title": "OUR ANCESTORS STAND UP"
+    },
+    {
+      "time": 474.9666149870801,
+      "frame": 14248,
+      "kind": "cave",
+      "title": "300,000 YEARS / US"
+    },
+    {
+      "time": 477.455503875969,
+      "frame": 14323,
+      "kind": "calendar",
+      "title": "4.54 BILLION YEARS / ONE CALENDAR YEAR"
+    },
+    {
+      "time": 498.2110594315246,
+      "frame": 14946,
+      "kind": "calendar",
+      "title": "THE FINAL 35 SECONDS"
+    },
+    {
+      "time": 510.3666149870801,
+      "frame": 15310,
+      "kind": "earth",
+      "title": "WE NEED IT"
+    },
+    {
+      "time": 524.5888372093024,
+      "frame": 15737,
+      "kind": "city",
+      "title": "4.5 BILLION YEARS TO MAKE YOU."
+    }
+  ]
+}

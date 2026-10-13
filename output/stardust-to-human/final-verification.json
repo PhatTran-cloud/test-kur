@@ -1,0 +1,31 @@
+{
+  "file": "D:\\output\\v5\\v5\\output\\stardust-to-human\\render\\final.mp4",
+  "bytes": 379624331,
+  "durationSeconds": 535.509333,
+  "frames": 16064,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "decode": "passed",
+  "audioRevision": "95950ec478a1",
+  "audioEncoderDelaySamples": 1024,
+  "audioCorrelation": 0.999940266534638,
+  "audioRmsDifference": 0.0010157256620004773,
+  "sfxCues": 0,
+  "encodedShotChecks": 56,
+  "continuousExplosionVsFreshStillMeanDifferences": {
+    "bang+65": 2.25264274691358,
+    "bang+100": 2.572894804526749,
+    "bang+180": 2.652298096707819,
+    "supernova+65": 2.153076131687243,
+    "supernova+100": 2.2247312242798354,
+    "supernova+180": 2.8952539866255145
+  },
+  "openingVisible": true,
+  "lastSentencePresent": true,
+  "closingBlackAndSilence": true,
+  "contactSheetVisuallyReviewed": true,
+  "userApprovedFullExport": true
+}

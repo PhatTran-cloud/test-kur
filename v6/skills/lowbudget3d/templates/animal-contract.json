@@ -1,0 +1,17 @@
+{
+  "species_or_analogue": "",
+  "representation": "authored-rigged-or-procedural",
+  "scale_meters": null,
+  "attachments": [],
+  "required_views": ["front", "profile", "three-quarter", "back", "hero"],
+  "required_checks": [
+    "species-silhouette",
+    "spine-ribcage-pelvis",
+    "limb-segments",
+    "joint-directions",
+    "paw-hoof-contact",
+    "neck-head",
+    "tail-root",
+    "gait-if-animated"
+  ]
+}

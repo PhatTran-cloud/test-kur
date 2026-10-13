@@ -1,0 +1,43 @@
+{
+  "name": "remotion-animations",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx remotion studio src/index.ts",
+    "build": "python scripts/render_v6.py",
+    "upgrade": "npx remotion upgrade",
+    "v6:init": "python scripts/v6_packet.py init",
+    "v6:session": "python scripts/v6_session.py",
+    "v6:validate": "python scripts/validate_v6.py",
+    "v6:spec": "python scripts/05_spec_generator.py",
+    "v6:render": "python scripts/render_v6.py",
+    "test:v6": "python -m unittest discover -s scripts/tests -p test_v6*.py",
+    "test:v6:runtime": "node scripts/tests/runtime-v6.cjs"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.122.0",
+    "@react-three/fiber": "^8.17.10",
+    "@react-three/postprocessing": "^2.19.1",
+    "@remotion/cli": "4.0.427",
+    "@remotion/google-fonts": "4.0.427",
+    "@remotion/media-utils": "4.0.427",
+    "@remotion/noise": "4.0.427",
+    "@remotion/paths": "4.0.427",
+    "@remotion/shapes": "4.0.427",
+    "@remotion/three": "^4.0.427",
+    "@remotion/transitions": "4.0.427",
+    "@types/three": "^0.169.0",
+    "culori": "^4.0.2",
+    "postprocessing": "^6.38.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "4.0.427",
+    "three": "^0.169.0",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "typescript": "^5.7.0"
+  }
+}

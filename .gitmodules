@@ -1,0 +1,6 @@
+[submodule "remotion-bits"]
+	path = remotion-bits
+	url = https://github.com/av/remotion-bits.git
+[submodule "research/prompt-to-motion"]
+	path = research/prompt-to-motion
+	url = https://github.com/remotion-dev/template-prompt-to-motion-graphics-saas.git

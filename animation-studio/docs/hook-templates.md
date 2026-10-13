@@ -1,0 +1,3 @@
+# v6 hook development
+Read visual-storytelling-script-guide.md. Hooks are questions/promises executed as action/reveal, not text effect rotations. Propose three distinct genre candidates and select with payoff/reasons. Atmospheric mystery is valid; explosions/high density are not compulsory. First frame obeys explicit picture intent.
+Families: contradiction, personal embodiment, mystery object, scale flip, consequence first, hidden cause, sensory immersion, character obstacle, before/after, impossible comparison, countdown, visual loop, system failure. Re-hooks reveal meaning. Reject invented shocking claims and unpaid questions.

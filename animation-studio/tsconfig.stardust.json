@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {"paths": {"@remotion/transitions/*": ["node_modules/@remotion/transitions/dist/presentations/*"], "*": ["node_modules/*", "node_modules/@types/*"], "@/*": ["src/*"]}},
+  "include": ["src/stardust-entry.tsx", "../output/stardust-to-human/build/**/*"],
+  "exclude": ["node_modules", "dist", "out"]
+}

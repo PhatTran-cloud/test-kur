@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "visual_system_id": "replace_me",
+  "visual_thesis": "",
+  "audience_question": "",
+  "emotional_arc": "",
+  "candidates": [],
+  "selection_reason": "",
+  "grammar": {
+    "palette_roles": "",
+    "shape_language": "",
+    "silhouette_rules": "",
+    "edge_craft": "",
+    "typography": "",
+    "material_language": "",
+    "lighting": "",
+    "depth_compositing": "",
+    "camera_grammar": "",
+    "motion_grammar": "",
+    "vfx_grammar": "",
+    "transition_grammar": "",
+    "sound_relationship": ""
+  },
+  "tokens": {
+    "palette": [],
+    "shapes": [],
+    "materials": [],
+    "type_roles": [],
+    "lighting": [],
+    "motion": []
+  },
+  "motifs": [],
+  "styleframe_coverage": []
+}

@@ -1,0 +1,12 @@
+It starts the way these stories always start: with something that looks normal… until you zoom in.
+On the surface, the world economy is "fine." The global machine is still running. In fact, the world's GDP in 2024 was about $110.98 trillion—a number so large it feels untouchable. But behind that headline, the data leaves fingerprints. And in 2026, those prints point to one thing: a system that isn't collapsing… it's quietly tightening.
+First, the timeline. The International Monetary Fund projects global growth at 3.3% in 2026 and 3.2% in 2027.
+That looks steady—almost comforting. But steady isn't the same as safe. In true crime, stability can be a cover. A neat alibi. A calm voice on the phone while something else is happening off-screen.
+Now look at inflation—the motive that changed everyone's behavior. The OECD reports headline CPI inflation across the OECD at 3.7% in December 2025, slightly down from 3.8% in November 2025.
+Chart that as a line and you'll see it: the spike has cooled, but it hasn't vanished. And when inflation stays "a little too high," central banks don't relax. Borrowing stays expensive. Households hesitate. Businesses delay hiring. The pressure doesn't scream—it suffocates.
+Then comes the part that doesn't make headlines until it's too late: debt. The IMF's Global Debt Monitor 2025 says global debt in 2024 stabilized just above 235% of world GDP, and in dollar terms rose to about $251 trillion.
+That's not a single smoking gun. It's a room full of locked doors. High debt doesn't guarantee a crash—but it shrinks the exits when the next shock hits. One surprise oil spike, one tariff shock, one financial accident… and suddenly "manageable" becomes "urgent."
+Finally, the trail leads to trade—the getaway car of the global economy. The Reuters reported the World Trade Organization downgraded merchandise trade volume growth to 2.4% for 2025, and just 0.5% for 2026.
+Plot that on a bar chart and you'll feel the drop. Trade slows, factories idle, export economies lose momentum—and the world gets more sensitive to every policy headline.
+So here's the true-crime twist: the "crime scene" isn't one event. It's a pattern.
+A huge economy. Steady growth. Cooling inflation. But heavy debt. Fragile trade. In 2026, the global story isn't about a dramatic crash—it's about pressure building quietly, in numbers most people scroll past… until the ending forces them to look.

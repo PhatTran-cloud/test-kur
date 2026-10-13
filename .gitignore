@@ -1,0 +1,74 @@
+node_modules/
+.env
+.env.*
+!.env.example
+!.env.*.example
+.claude/
+__pycache__/
+*.pyc
+
+# Video/image output
+*.mov
+*.mp4
+*.png
+
+# Skill examples/assets are source inputs, not generated video output.
+!v6/skills/**/*.png
+!v6/skills/**/*.mp4
+!v6/skills/**/*.mov
+
+# Generated output (per-script)
+output/*/
+
+# Runtime assets (copied from output by pipeline)
+public/audio/*.mp3
+public/timestamps/*.json
+!public/audio/.gitkeep
+!public/timestamps/.gitkeep
+
+# Remotion cache
+.remotion/
+
+# Local/cache files and Windows reserved-name artifacts
+nul
+NUL
+*.log
+*.tsbuildinfo
+.cache/
+dist/
+.next/
+*.zip
+*.raw
+*.pem
+*.key
+
+# Preserve the source packet of the verified historical Earth film.
+# Encoded exports and review captures remain local.
+!output/stardust-to-human/
+output/stardust-to-human/**
+!output/stardust-to-human/**/
+!output/stardust-to-human/**/*.md
+!output/stardust-to-human/**/*.json
+!output/stardust-to-human/**/*.py
+!output/stardust-to-human/**/*.cjs
+!output/stardust-to-human/build/**
+output/stardust-to-human/render/
+output/stardust-to-human/voice-review/
+!output/stardust-to-human/voice-review/report.json
+
+# Runtime audio: retain the Earth film, omit unrelated generated narration.
+animation-studio/public/audio/*.mp3
+animation-studio/public/timestamps/*.json
+!animation-studio/public/audio/stardust-to-human.mp3
+!animation-studio/public/timestamps/stardust-to-human-timestamps.json
+animation-studio/public/stardust-to-human/*.wav
+animation-studio/public/stardust-to-human/foley/
+
+# Exported human models contain their textures; intake archives stay local.
+animation-studio/public/models/human/system/
+
+# Explicit maintenance audit, not a production film approval.
+!output/github-publish-test-kur/
+output/github-publish-test-kur/**
+!output/github-publish-test-kur/v6/
+!output/github-publish-test-kur/v6/production.json

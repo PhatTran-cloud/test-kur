@@ -1,0 +1,51 @@
+{
+  "project": "StardustToHuman",
+  "version": "v5",
+  "backupPath": "D:/output/v5/v5-backup-20261010",
+  "backupScope": "All repository files except node_modules and .remotion",
+  "backupFiles": 1313,
+  "backupBytes": 1659653859,
+  "timeline": {
+    "fps": 30,
+    "frames": 16064,
+    "durationSecondsFromFrames": 535.4666667,
+    "renderedDurationSeconds": 535.509333,
+    "chapters": 10,
+    "shots": 56,
+    "words": 1320,
+    "sfxCues": 0
+  },
+  "taggedBeatCounts": {
+    "declaredTotalBeats": 192,
+    "actualAllBeats": 188,
+    "contentBeats": 169,
+    "sceneBreaks": 19
+  },
+  "render": {
+    "path": "D:/output/v5/v5/output/stardust-to-human/render/final.mp4",
+    "resolution": "1920x1080",
+    "fps": 30,
+    "frames": 16064,
+    "audioRevision": "95950ec478a1",
+    "audio": "VO+BGM; SFX disabled",
+    "openingVisible": true,
+    "lastSentencePresent": true,
+    "closingBlackAndSilence": true
+  },
+  "knownStrengths": [
+    "Frame-locked Whisper word timestamps",
+    "Deterministic Remotion render and encoded-shot QA",
+    "Working Three.js shader environments for planets, space, impactor and natural scenes",
+    "Modern overhead street with animated crowd",
+    "Full render has a visible opening, complete final sentence and closing black/silence"
+  ],
+  "knownGaps": [
+    "No claim ledger or expert review record",
+    "No stable visual thesis or asset bible used by the renderer",
+    "META/EM/STAT annotations are not rendered as per-beat visual events",
+    "Generic chapter transitions and several literal or placeholder visuals",
+    "Mixed 3D, SVG and DOM overlays lack one authored visual language",
+    "Sound effects were disabled after poor quality; no replacement sound-design system exists",
+    "Spec and visual-block artifacts are partially stale relative to the active build"
+  ]
+}

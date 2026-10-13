@@ -1,0 +1,31 @@
+{
+  "shot_id": "",
+  "interval": {
+    "start": 0,
+    "end": 0
+  },
+  "attention": {
+    "hero": "",
+    "secondary": [],
+    "suppressed": []
+  },
+  "camera_information": {
+    "known_before": "",
+    "information_gain": "",
+    "eye_lands_on": "",
+    "reveal_time": null
+  },
+  "motion_ledger": [],
+  "vfx_events": [],
+  "persistent_state_in": {},
+  "persistent_state_out": {},
+  "transition": {},
+  "conformance": {
+    "ids": "UNVERIFIED",
+    "attention": "UNVERIFIED",
+    "camera": "UNVERIFIED",
+    "physics": "UNVERIFIED",
+    "continuity": "UNVERIFIED",
+    "final_frames": "UNVERIFIED"
+  }
+}

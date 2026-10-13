@@ -1,0 +1,598 @@
+{
+  "text": " If we compress 4.54 billion years into one year, Earth forms on January 1. Life around 3.8 billion years ago falls in early March. Dinosaurs arrive around December 13. The asteroid strikes on December 26. Homo sapiens arrives around 11.25 pm on December 31. 5,000 years of written history including dynasties, wars and phones fit into roughly the final 35 seconds.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.24,
+      "text": " If we compress 4.54 billion years into one year, Earth forms on January 1.",
+      "tokens": [
+        50364,
+        759,
+        321,
+        14778,
+        1017,
+        13,
+        19563,
+        5218,
+        924,
+        666,
+        472,
+        1064,
+        11,
+        4755,
+        6422,
+        322,
+        7061,
+        502,
+        13,
+        50648
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2005114314532039,
+      "compression_ratio": 1.5423728813559323,
+      "no_speech_prob": 0.006789177656173706,
+      "words": [
+        {
+          "word": " If",
+          "start": 0.0,
+          "end": 0.22,
+          "probability": 0.9296684861183167
+        },
+        {
+          "word": " we",
+          "start": 0.22,
+          "end": 0.42,
+          "probability": 0.9987331032752991
+        },
+        {
+          "word": " compress",
+          "start": 0.42,
+          "end": 0.76,
+          "probability": 0.9956132173538208
+        },
+        {
+          "word": " 4",
+          "start": 0.76,
+          "end": 1.16,
+          "probability": 0.98819899559021
+        },
+        {
+          "word": ".54",
+          "start": 1.16,
+          "end": 1.9,
+          "probability": 0.9896425902843475
+        },
+        {
+          "word": " billion",
+          "start": 1.9,
+          "end": 2.36,
+          "probability": 0.9817049503326416
+        },
+        {
+          "word": " years",
+          "start": 2.36,
+          "end": 2.68,
+          "probability": 0.998440682888031
+        },
+        {
+          "word": " into",
+          "start": 2.68,
+          "end": 2.92,
+          "probability": 0.9982051849365234
+        },
+        {
+          "word": " one",
+          "start": 2.92,
+          "end": 3.16,
+          "probability": 0.885857105255127
+        },
+        {
+          "word": " year,",
+          "start": 3.16,
+          "end": 3.42,
+          "probability": 0.9972298741340637
+        },
+        {
+          "word": " Earth",
+          "start": 3.62,
+          "end": 3.78,
+          "probability": 0.9245389103889465
+        },
+        {
+          "word": " forms",
+          "start": 3.78,
+          "end": 4.18,
+          "probability": 0.9950624108314514
+        },
+        {
+          "word": " on",
+          "start": 4.18,
+          "end": 4.44,
+          "probability": 0.9985760450363159
+        },
+        {
+          "word": " January",
+          "start": 4.44,
+          "end": 4.84,
+          "probability": 0.8902077078819275
+        },
+        {
+          "word": " 1.",
+          "start": 4.84,
+          "end": 5.24,
+          "probability": 0.9846478700637817
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.58,
+      "end": 8.88,
+      "text": " Life around 3.8 billion years ago falls in early March.",
+      "tokens": [
+        50648,
+        7720,
+        926,
+        805,
+        13,
+        23,
+        5218,
+        924,
+        2057,
+        8804,
+        294,
+        2440,
+        6129,
+        13,
+        50840
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2005114314532039,
+      "compression_ratio": 1.5423728813559323,
+      "no_speech_prob": 0.006789177656173706,
+      "words": [
+        {
+          "word": " Life",
+          "start": 5.58,
+          "end": 5.8,
+          "probability": 0.9858415126800537
+        },
+        {
+          "word": " around",
+          "start": 5.8,
+          "end": 6.12,
+          "probability": 0.99722820520401
+        },
+        {
+          "word": " 3",
+          "start": 6.12,
+          "end": 6.46,
+          "probability": 0.9965090155601501
+        },
+        {
+          "word": ".8",
+          "start": 6.46,
+          "end": 6.94,
+          "probability": 0.9991039931774139
+        },
+        {
+          "word": " billion",
+          "start": 6.94,
+          "end": 7.2,
+          "probability": 0.9946539402008057
+        },
+        {
+          "word": " years",
+          "start": 7.2,
+          "end": 7.48,
+          "probability": 0.9990981817245483
+        },
+        {
+          "word": " ago",
+          "start": 7.48,
+          "end": 7.74,
+          "probability": 0.9991413354873657
+        },
+        {
+          "word": " falls",
+          "start": 7.74,
+          "end": 8.08,
+          "probability": 0.998264729976654
+        },
+        {
+          "word": " in",
+          "start": 8.08,
+          "end": 8.3,
+          "probability": 0.9982200264930725
+        },
+        {
+          "word": " early",
+          "start": 8.3,
+          "end": 8.54,
+          "probability": 0.9896969199180603
+        },
+        {
+          "word": " March.",
+          "start": 8.54,
+          "end": 8.88,
+          "probability": 0.989952027797699
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.24,
+      "end": 11.22,
+      "text": " Dinosaurs arrive around December 13.",
+      "tokens": [
+        50840,
+        27156,
+        23244,
+        8881,
+        926,
+        7687,
+        3705,
+        13,
+        50942
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2005114314532039,
+      "compression_ratio": 1.5423728813559323,
+      "no_speech_prob": 0.006789177656173706,
+      "words": [
+        {
+          "word": " Dinosaurs",
+          "start": 9.24,
+          "end": 9.6,
+          "probability": 0.9757649898529053
+        },
+        {
+          "word": " arrive",
+          "start": 9.6,
+          "end": 10.0,
+          "probability": 0.997250497341156
+        },
+        {
+          "word": " around",
+          "start": 10.0,
+          "end": 10.34,
+          "probability": 0.9990662932395935
+        },
+        {
+          "word": " December",
+          "start": 10.34,
+          "end": 10.72,
+          "probability": 0.9810824394226074
+        },
+        {
+          "word": " 13.",
+          "start": 10.72,
+          "end": 11.22,
+          "probability": 0.9987597465515137
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.62,
+      "end": 13.76,
+      "text": " The asteroid strikes on December 26.",
+      "tokens": [
+        50942,
+        440,
+        33833,
+        16750,
+        322,
+        7687,
+        7551,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2005114314532039,
+      "compression_ratio": 1.5423728813559323,
+      "no_speech_prob": 0.006789177656173706,
+      "words": [
+        {
+          "word": " The",
+          "start": 11.62,
+          "end": 11.86,
+          "probability": 0.9909255504608154
+        },
+        {
+          "word": " asteroid",
+          "start": 11.86,
+          "end": 12.18,
+          "probability": 0.9962647557258606
+        },
+        {
+          "word": " strikes",
+          "start": 12.18,
+          "end": 12.52,
+          "probability": 0.9993077516555786
+        },
+        {
+          "word": " on",
+          "start": 12.52,
+          "end": 12.76,
+          "probability": 0.9985093474388123
+        },
+        {
+          "word": " December",
+          "start": 12.76,
+          "end": 13.16,
+          "probability": 0.9977267384529114
+        },
+        {
+          "word": " 26.",
+          "start": 13.16,
+          "end": 13.76,
+          "probability": 0.998482882976532
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 14.18,
+      "end": 18.06,
+      "text": " Homo sapiens arrives around 11.25 pm on December 31.",
+      "tokens": [
+        51064,
+        389,
+        13395,
+        18985,
+        24594,
+        20116,
+        926,
+        2975,
+        13,
+        6074,
+        23023,
+        322,
+        7687,
+        10353,
+        13,
+        51284
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2005114314532039,
+      "compression_ratio": 1.5423728813559323,
+      "no_speech_prob": 0.006789177656173706,
+      "words": [
+        {
+          "word": " Homo",
+          "start": 14.18,
+          "end": 14.46,
+          "probability": 0.9920108914375305
+        },
+        {
+          "word": " sapiens",
+          "start": 14.46,
+          "end": 14.84,
+          "probability": 0.9351688325405121
+        },
+        {
+          "word": " arrives",
+          "start": 14.84,
+          "end": 15.22,
+          "probability": 0.9821588397026062
+        },
+        {
+          "word": " around",
+          "start": 15.22,
+          "end": 15.64,
+          "probability": 0.9983980059623718
+        },
+        {
+          "word": " 11",
+          "start": 15.64,
+          "end": 15.96,
+          "probability": 0.9960132837295532
+        },
+        {
+          "word": ".25",
+          "start": 15.96,
+          "end": 16.52,
+          "probability": 0.9447997808456421
+        },
+        {
+          "word": " pm",
+          "start": 16.52,
+          "end": 16.92,
+          "probability": 0.34809985756874084
+        },
+        {
+          "word": " on",
+          "start": 16.92,
+          "end": 17.18,
+          "probability": 0.9949766397476196
+        },
+        {
+          "word": " December",
+          "start": 17.18,
+          "end": 17.5,
+          "probability": 0.9967768788337708
+        },
+        {
+          "word": " 31.",
+          "start": 17.5,
+          "end": 18.06,
+          "probability": 0.9983605742454529
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 18.54,
+      "end": 23.58,
+      "text": " 5,000 years of written history including dynasties, wars and phones fit into roughly the final",
+      "tokens": [
+        51284,
+        1025,
+        11,
+        1360,
+        924,
+        295,
+        3720,
+        2503,
+        3009,
+        274,
+        2534,
+        525,
+        530,
+        11,
+        13718,
+        293,
+        10216,
+        3318,
+        666,
+        9810,
+        264,
+        2572,
+        51544
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2005114314532039,
+      "compression_ratio": 1.5423728813559323,
+      "no_speech_prob": 0.006789177656173706,
+      "words": [
+        {
+          "word": " 5",
+          "start": 18.54,
+          "end": 18.74,
+          "probability": 0.37172386050224304
+        },
+        {
+          "word": ",000",
+          "start": 18.74,
+          "end": 19.1,
+          "probability": 0.9701985418796539
+        },
+        {
+          "word": " years",
+          "start": 19.1,
+          "end": 19.42,
+          "probability": 0.9967503547668457
+        },
+        {
+          "word": " of",
+          "start": 19.42,
+          "end": 19.62,
+          "probability": 0.9992855191230774
+        },
+        {
+          "word": " written",
+          "start": 19.62,
+          "end": 19.82,
+          "probability": 0.9990948438644409
+        },
+        {
+          "word": " history",
+          "start": 19.82,
+          "end": 20.26,
+          "probability": 0.999452531337738
+        },
+        {
+          "word": " including",
+          "start": 20.26,
+          "end": 20.68,
+          "probability": 0.8344485759735107
+        },
+        {
+          "word": " dynasties,",
+          "start": 20.68,
+          "end": 21.26,
+          "probability": 0.9954045861959457
+        },
+        {
+          "word": " wars",
+          "start": 21.3,
+          "end": 21.62,
+          "probability": 0.998489499092102
+        },
+        {
+          "word": " and",
+          "start": 21.62,
+          "end": 21.86,
+          "probability": 0.6773975491523743
+        },
+        {
+          "word": " phones",
+          "start": 21.86,
+          "end": 22.22,
+          "probability": 0.8988107442855835
+        },
+        {
+          "word": " fit",
+          "start": 22.22,
+          "end": 22.52,
+          "probability": 0.7842617630958557
+        },
+        {
+          "word": " into",
+          "start": 22.52,
+          "end": 22.74,
+          "probability": 0.9847604632377625
+        },
+        {
+          "word": " roughly",
+          "start": 22.74,
+          "end": 23.08,
+          "probability": 0.9988017082214355
+        },
+        {
+          "word": " the",
+          "start": 23.08,
+          "end": 23.34,
+          "probability": 0.9986374974250793
+        },
+        {
+          "word": " final",
+          "start": 23.34,
+          "end": 23.58,
+          "probability": 0.9986822009086609
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 23.58,
+      "end": 24.58,
+      "text": " 35 seconds.",
+      "tokens": [
+        51544,
+        6976,
+        3949,
+        13,
+        51594
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2005114314532039,
+      "compression_ratio": 1.5423728813559323,
+      "no_speech_prob": 0.006789177656173706,
+      "words": [
+        {
+          "word": " 35",
+          "start": 23.58,
+          "end": 24.16,
+          "probability": 0.9719678163528442
+        },
+        {
+          "word": " seconds.",
+          "start": 24.16,
+          "end": 24.58,
+          "probability": 0.9947472214698792
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

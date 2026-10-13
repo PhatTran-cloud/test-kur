@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "policy": "Context-aware editorial review, not a moderation bypass list",
+  "sources": [
+    {
+      "url": "https://support.google.com/youtube/answer/6162278?hl=en",
+      "review": "Retrieved: context, graphic detail, title/thumbnail/audio/video and ad eligibility are distinct from removal."
+    },
+    {
+      "url": "https://transparency.meta.com/policies/community-standards/",
+      "review": "Official source must be checked for each publication; detailed page unavailable in this session."
+    },
+    {
+      "url": "https://www.tiktok.com/community-guidelines/en/",
+      "review": "Official source must be checked for each publication; detailed page unavailable in this session."
+    }
+  ],
+  "principles": [
+    "accurate ordinary language",
+    "no gratuitous graphic detail, glorification, incitement or demeaning framing",
+    "do not use euphemisms to evade moderation",
+    "review video/audio/title/thumbnail/description/tags together",
+    "educational context does not guarantee ads or reach"
+  ],
+  "review_categories": [
+    "profanity",
+    "graphic detail",
+    "sensitive event",
+    "harmful advice",
+    "hate/harassment",
+    "misleading claim",
+    "adult themes"
+  ],
+  "scientific_terms": [
+    "death",
+    "extinction",
+    "impact",
+    "explosion"
+  ],
+  "scientific_terms_rule": "Review context and visual treatment; these are not automatically prohibited words. Preserve scientific accuracy.",
+  "decision_fields": [
+    "phrase",
+    "context",
+    "visual_treatment",
+    "reason",
+    "replacement_if_needed",
+    "reviewer",
+    "policy_source",
+    "reviewed_at"
+  ]
+}

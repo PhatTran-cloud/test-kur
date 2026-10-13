@@ -1,0 +1,53 @@
+{
+  "scaleYears": 4540000000.0,
+  "calendarDays": 365,
+  "dates": [
+    {
+      "event": "Earth",
+      "yearsAgo": 4540000000.0,
+      "calendarDate": "2026-01-01T00:00:00",
+      "secondsToYearEnd": 31536000.0
+    },
+    {
+      "event": "Early life",
+      "yearsAgo": 3800000000.0,
+      "calendarDate": "2026-03-01T11:50:29.074890",
+      "secondsToYearEnd": 26395770.925110128
+    },
+    {
+      "event": "Dinosaurs",
+      "yearsAgo": 230000000.0,
+      "calendarDate": "2026-12-13T12:12:41.233480",
+      "secondsToYearEnd": 1597638.7665198238
+    },
+    {
+      "event": "Impact",
+      "yearsAgo": 66000000.0,
+      "calendarDate": "2026-12-26T16:39:07.136564",
+      "secondsToYearEnd": 458452.86343612336
+    },
+    {
+      "event": "Homo sapiens",
+      "yearsAgo": 300000,
+      "calendarDate": "2026-12-31T23:25:16.123348",
+      "secondsToYearEnd": 2083.876651982379
+    },
+    {
+      "event": "Written history",
+      "yearsAgo": 5000,
+      "calendarDate": "2026-12-31T23:59:25.268722",
+      "secondsToYearEnd": 34.731277533039645
+    }
+  ],
+  "narrationSourcesMatch": true,
+  "sfxCues": 0,
+  "mixPeak": 0.787753164768219,
+  "openingAudioPresent": true,
+  "closingSilence": true,
+  "replacementSourceSpan": [
+    469.14,
+    494.04
+  ],
+  "newVoice": "am_fenrir",
+  "durationSeconds": 535.4421705426356
+}

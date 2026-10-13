@@ -1,0 +1,125 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:explainer:v6:claim-ledger",
+  "type": "object",
+  "required": [
+    "version",
+    "claims"
+  ],
+  "properties": {
+    "version": {
+      "const": 1
+    },
+    "claims": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "claim_id",
+          "narration",
+          "kind",
+          "evidence",
+          "confidence",
+          "uncertainty",
+          "visual_limits",
+          "causal_visuals_allowed",
+          "review_status"
+        ],
+        "properties": {
+          "claim_id": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_-]*$"
+          },
+          "narration": {
+            "type": "string",
+            "minLength": 1
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "fact",
+              "approximation",
+              "hypothesis",
+              "metaphor",
+              "rhetorical",
+              "fiction"
+            ]
+          },
+          "evidence": {
+            "type": "array",
+            "minItems": 0,
+            "items": {
+              "type": "object",
+              "required": [
+                "source_id",
+                "url",
+                "title",
+                "passage_or_summary",
+                "checked_at"
+              ],
+              "properties": {
+                "source_id": {
+                  "type": "string",
+                  "pattern": "^[A-Za-z][A-Za-z0-9_-]*$"
+                },
+                "url": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "title": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "passage_or_summary": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "checked_at": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "confidence": {
+            "type": "string",
+            "enum": [
+              "unreviewed",
+              "supported",
+              "uncertain",
+              "expressive",
+              "fictional"
+            ]
+          },
+          "uncertainty": {
+            "type": "string"
+          },
+          "visual_limits": {
+            "type": "string",
+            "minLength": 1
+          },
+          "causal_visuals_allowed": {
+            "type": "array",
+            "minItems": 0,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "review_status": {
+            "type": "string",
+            "enum": [
+              "unreviewed",
+              "reviewed",
+              "rejected"
+            ]
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

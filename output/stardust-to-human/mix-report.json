@@ -1,0 +1,12 @@
+{
+  "sampleRate": 24000,
+  "duration": 535.4421705426356,
+  "duckingDb": -14,
+  "gain": 1.0,
+  "peak": 0.787753164768219,
+  "cueCount": 0,
+  "majorImpacts": 0,
+  "sfxEnabled": false,
+  "source": "Narration and background music only; all SFX removed by user request",
+  "stereoDifferenceRms": 0.0
+}

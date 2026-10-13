@@ -1,0 +1,21 @@
+{
+  "subject": "",
+  "build_id": "",
+  "mandatory_gates": [
+    "technical_runtime",
+    "geometry_integrity",
+    "domain_fidelity",
+    "composition_readability",
+    "evidence_integrity"
+  ],
+  "gates": {
+    "technical_runtime": {"status": "UNVERIFIED", "evidence": []},
+    "geometry_integrity": {"status": "UNVERIFIED", "evidence": []},
+    "domain_fidelity": {"status": "UNVERIFIED", "evidence": []},
+    "composition_readability": {"status": "UNVERIFIED", "evidence": []},
+    "motion_physics": {"status": "UNVERIFIED", "evidence": [], "required": false},
+    "performance": {"status": "UNVERIFIED", "evidence": [], "required": false},
+    "evidence_integrity": {"status": "UNVERIFIED", "evidence": []}
+  },
+  "final_status": "UNVERIFIED"
+}

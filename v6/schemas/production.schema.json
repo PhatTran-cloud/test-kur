@@ -1,0 +1,794 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:explainer:v6:production",
+  "type": "object",
+  "required": [
+    "version",
+    "film_id",
+    "title",
+    "genre",
+    "format",
+    "editorial",
+    "timing",
+    "sound",
+    "platform_review",
+    "rule_reads",
+    "reviews",
+    "render_authorization",
+    "delivery"
+  ],
+  "properties": {
+    "version": {
+      "const": 1
+    },
+    "film_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z][A-Za-z0-9_-]*$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "genre": {
+      "type": "string",
+      "minLength": 1
+    },
+    "format": {
+      "type": "object",
+      "required": [
+        "width",
+        "height",
+        "fps"
+      ],
+      "properties": {
+        "width": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "height": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "fps": {
+          "type": "integer",
+          "minimum": 1
+        }
+      },
+      "additionalProperties": false
+    },
+    "editorial": {
+      "type": "object",
+      "required": [
+        "viewer_question",
+        "promise",
+        "payoff",
+        "final_reframe",
+        "hook_candidates",
+        "chosen_hook",
+        "hook_reason"
+      ],
+      "properties": {
+        "viewer_question": {
+          "type": "string",
+          "minLength": 1
+        },
+        "promise": {
+          "type": "string",
+          "minLength": 1
+        },
+        "payoff": {
+          "type": "string",
+          "minLength": 1
+        },
+        "final_reframe": {
+          "type": "string",
+          "minLength": 1
+        },
+        "hook_candidates": {
+          "type": "array",
+          "minItems": 3,
+          "items": {
+            "type": "object",
+            "required": [
+              "family",
+              "visual_event",
+              "question",
+              "payoff"
+            ],
+            "properties": {
+              "family": {
+                "type": "string",
+                "minLength": 1
+              },
+              "visual_event": {
+                "type": "string",
+                "minLength": 1
+              },
+              "question": {
+                "type": "string",
+                "minLength": 1
+              },
+              "payoff": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "additionalProperties": false
+          }
+        },
+        "chosen_hook": {
+          "type": "string",
+          "minLength": 1
+        },
+        "hook_reason": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": false
+    },
+    "timing": {
+      "type": "object",
+      "required": [
+        "status",
+        "audio_file",
+        "timestamps_file",
+        "audio_duration_seconds",
+        "vo_start_frame",
+        "tail_frames",
+        "total_frames",
+        "opening_intent",
+        "ending_intent"
+      ],
+      "properties": {
+        "mode": {
+          "type": "string",
+          "enum": ["narrated", "authored_audio"]
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "provisional",
+            "verified"
+          ]
+        },
+        "audio_file": {
+          "type": "string"
+        },
+        "timestamps_file": {
+          "type": "string"
+        },
+        "audio_duration_seconds": {
+          "type": "number",
+          "minimum": 0
+        },
+        "vo_start_frame": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "tail_frames": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "total_frames": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "opening_intent": {
+          "type": "string",
+          "minLength": 1
+        },
+        "ending_intent": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": false
+    },
+    "sound": {
+      "type": "object",
+      "required": [
+        "sfx",
+        "reason",
+        "mix_report"
+      ],
+      "properties": {
+        "sfx": {
+          "type": "string",
+          "enum": [
+            "off",
+            "authored"
+          ]
+        },
+        "reason": {
+          "type": "string",
+          "minLength": 1
+        },
+        "mix_report": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "platform_review": {
+      "type": "object",
+      "required": [
+        "status",
+        "policy_sources",
+        "reviewed_at",
+        "reviewer",
+        "decisions"
+      ],
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": [
+            "unreviewed",
+            "reviewed"
+          ]
+        },
+        "policy_sources": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "reviewed_at": {
+          "type": "string"
+        },
+        "reviewer": {
+          "type": "string"
+        },
+        "decisions": {
+          "type": "array",
+          "minItems": 0,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "rule_reads": {
+      "type": "array",
+      "minItems": 0,
+      "items": {
+        "type": "object",
+        "required": [
+          "stage",
+          "paths",
+          "decisions"
+        ],
+        "properties": {
+          "stage": {
+            "type": "string",
+            "enum": [
+              "plan",
+              "build",
+              "render"
+            ]
+          },
+          "session_id": {"type": "string", "minLength": 1},
+          "actor": {"type": "string", "minLength": 1},
+          "operation": {"type": "string", "minLength": 1},
+          "timestamp": {"type": "string", "minLength": 1},
+          "hashes": {
+            "type": "object",
+            "additionalProperties": {"type": "string", "pattern": "^[a-f0-9]{64}$"}
+          },
+          "paths": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "decisions": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "reviews": {
+      "type": "object",
+      "required": [
+        "research_lock",
+        "script_lock",
+        "art_lock",
+        "animatic_lock",
+        "hero_lock",
+        "sound_lock",
+        "final_qa"
+      ],
+      "properties": {
+        "research_lock": {
+          "type": "object",
+          "required": [
+            "status",
+            "reviewer",
+            "timestamp",
+            "evidence",
+            "observations",
+            "blocking_issues",
+            "contract_hashes"
+          ],
+          "properties": {
+            "status": {
+              "type": "string",
+              "enum": [
+                "unstarted",
+                "in_review",
+                "approved",
+                "rejected"
+              ]
+            },
+            "reviewer": {
+              "type": "string"
+            },
+            "timestamp": {
+              "type": "string"
+            },
+            "evidence": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "observations": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "blocking_issues": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "contract_hashes": {
+              "type": "object",
+              "additionalProperties": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$"
+              }
+            }
+          },
+          "additionalProperties": false
+        },
+        "script_lock": {
+          "type": "object",
+          "required": [
+            "status",
+            "reviewer",
+            "timestamp",
+            "evidence",
+            "observations",
+            "blocking_issues",
+            "contract_hashes"
+          ],
+          "properties": {
+            "status": {
+              "type": "string",
+              "enum": [
+                "unstarted",
+                "in_review",
+                "approved",
+                "rejected"
+              ]
+            },
+            "reviewer": {
+              "type": "string"
+            },
+            "timestamp": {
+              "type": "string"
+            },
+            "evidence": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "observations": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "blocking_issues": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "contract_hashes": {
+              "type": "object",
+              "additionalProperties": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$"
+              }
+            }
+          },
+          "additionalProperties": false
+        },
+        "art_lock": {
+          "type": "object",
+          "required": [
+            "status",
+            "reviewer",
+            "timestamp",
+            "evidence",
+            "observations",
+            "blocking_issues",
+            "contract_hashes"
+          ],
+          "properties": {
+            "status": {
+              "type": "string",
+              "enum": [
+                "unstarted",
+                "in_review",
+                "approved",
+                "rejected"
+              ]
+            },
+            "reviewer": {
+              "type": "string"
+            },
+            "timestamp": {
+              "type": "string"
+            },
+            "evidence": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "observations": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "blocking_issues": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "contract_hashes": {
+              "type": "object",
+              "additionalProperties": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$"
+              }
+            }
+          },
+          "additionalProperties": false
+        },
+        "animatic_lock": {
+          "type": "object",
+          "required": [
+            "status",
+            "reviewer",
+            "timestamp",
+            "evidence",
+            "observations",
+            "blocking_issues",
+            "contract_hashes"
+          ],
+          "properties": {
+            "status": {
+              "type": "string",
+              "enum": [
+                "unstarted",
+                "in_review",
+                "approved",
+                "rejected"
+              ]
+            },
+            "reviewer": {
+              "type": "string"
+            },
+            "timestamp": {
+              "type": "string"
+            },
+            "evidence": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "observations": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "blocking_issues": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "contract_hashes": {
+              "type": "object",
+              "additionalProperties": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$"
+              }
+            }
+          },
+          "additionalProperties": false
+        },
+        "hero_lock": {
+          "type": "object",
+          "required": [
+            "status",
+            "reviewer",
+            "timestamp",
+            "evidence",
+            "observations",
+            "blocking_issues",
+            "contract_hashes"
+          ],
+          "properties": {
+            "status": {
+              "type": "string",
+              "enum": [
+                "unstarted",
+                "in_review",
+                "approved",
+                "rejected"
+              ]
+            },
+            "reviewer": {
+              "type": "string"
+            },
+            "timestamp": {
+              "type": "string"
+            },
+            "evidence": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "observations": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "blocking_issues": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "contract_hashes": {
+              "type": "object",
+              "additionalProperties": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$"
+              }
+            }
+          },
+          "additionalProperties": false
+        },
+        "sound_lock": {
+          "type": "object",
+          "required": [
+            "status",
+            "reviewer",
+            "timestamp",
+            "evidence",
+            "observations",
+            "blocking_issues",
+            "contract_hashes"
+          ],
+          "properties": {
+            "status": {
+              "type": "string",
+              "enum": [
+                "unstarted",
+                "in_review",
+                "approved",
+                "rejected"
+              ]
+            },
+            "reviewer": {
+              "type": "string"
+            },
+            "timestamp": {
+              "type": "string"
+            },
+            "evidence": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "observations": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "blocking_issues": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "contract_hashes": {
+              "type": "object",
+              "additionalProperties": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$"
+              }
+            }
+          },
+          "additionalProperties": false
+        },
+        "final_qa": {
+          "type": "object",
+          "required": [
+            "status",
+            "reviewer",
+            "timestamp",
+            "evidence",
+            "observations",
+            "blocking_issues",
+            "contract_hashes"
+          ],
+          "properties": {
+            "status": {
+              "type": "string",
+              "enum": [
+                "unstarted",
+                "in_review",
+                "approved",
+                "rejected"
+              ]
+            },
+            "reviewer": {
+              "type": "string"
+            },
+            "timestamp": {
+              "type": "string"
+            },
+            "evidence": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "observations": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "blocking_issues": {
+              "type": "array",
+              "minItems": 0,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "contract_hashes": {
+              "type": "object",
+              "additionalProperties": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$"
+              }
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "render_authorization": {
+      "type": "object",
+      "required": [
+        "authorized",
+        "scope",
+        "evidence",
+        "reviewer",
+        "contract_hashes"
+      ],
+      "properties": {
+        "authorized": {
+          "type": "boolean"
+        },
+        "scope": {
+          "type": "string"
+        },
+        "evidence": {
+          "type": "string"
+        },
+        "reviewer": {
+          "type": "string"
+        },
+        "contract_hashes": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$"
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "delivery": {
+      "type": "object",
+      "required": [
+        "entry",
+        "composition_id"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "entry": {
+          "type": "string"
+        },
+        "composition_id": {
+          "type": "string"
+        }
+      }
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,2 @@
+# v6 scenes and shots
+Read v6/manifest-guide.md and CONTRACT.md. Scenes continuous worlds, shots camera intervals, beats changes. No chapter/paragraph cuts. Compose meaningful layers/secondary acting/attention/landmarks. Accumulation/relocation/comparison/diagram/pursuit/scale/transformation are choices, not quotas. Objects may persist/leave/transform for a reason. Stillness/occlusion/geography valid. Every handoff has cause/invariant; do not reset state on mount.

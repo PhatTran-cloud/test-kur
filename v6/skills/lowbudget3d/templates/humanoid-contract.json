@@ -1,0 +1,17 @@
+{
+  "representation": "gltf-glb-vrm-or-project-specific",
+  "scale_meters": null,
+  "skeleton": {"type": "humanoid", "finger_bones_required": false},
+  "morph_targets": [],
+  "attachments": [],
+  "required_views": ["front", "profile", "three-quarter", "back", "hero"],
+  "required_checks": [
+    "silhouette",
+    "joint-placement",
+    "hands",
+    "head-face",
+    "ground-contact",
+    "self-intersection",
+    "clothing-clearance"
+  ]
+}

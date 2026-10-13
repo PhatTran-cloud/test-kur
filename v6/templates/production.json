@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "film_id": "replace_me",
+  "title": "",
+  "genre": "",
+  "format": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  },
+  "editorial": {
+    "viewer_question": "",
+    "promise": "",
+    "payoff": "",
+    "final_reframe": "",
+    "hook_candidates": [],
+    "chosen_hook": "",
+    "hook_reason": ""
+  },
+  "timing": {
+    "status": "provisional",
+    "audio_file": "",
+    "timestamps_file": "",
+    "audio_duration_seconds": 0,
+    "vo_start_frame": 0,
+    "tail_frames": 0,
+    "total_frames": 1,
+    "opening_intent": "",
+    "ending_intent": ""
+  },
+  "sound": {
+    "sfx": "off",
+    "reason": "Not designed or approved yet",
+    "mix_report": ""
+  },
+  "platform_review": {
+    "status": "unreviewed",
+    "policy_sources": [
+      "https://support.google.com/youtube/answer/6162278",
+      "https://transparency.meta.com/policies/community-standards/",
+      "https://www.tiktok.com/community-guidelines/en/"
+    ],
+    "reviewed_at": "",
+    "reviewer": "",
+    "decisions": []
+  },
+  "rule_reads": [],
+  "reviews": {
+    "research_lock": {
+      "status": "unstarted",
+      "reviewer": "",
+      "timestamp": "",
+      "evidence": [],
+      "observations": [],
+      "blocking_issues": [],
+      "contract_hashes": {}
+    },
+    "script_lock": {
+      "status": "unstarted",
+      "reviewer": "",
+      "timestamp": "",
+      "evidence": [],
+      "observations": [],
+      "blocking_issues": [],
+      "contract_hashes": {}
+    },
+    "art_lock": {
+      "status": "unstarted",
+      "reviewer": "",
+      "timestamp": "",
+      "evidence": [],
+      "observations": [],
+      "blocking_issues": [],
+      "contract_hashes": {}
+    },
+    "animatic_lock": {
+      "status": "unstarted",
+      "reviewer": "",
+      "timestamp": "",
+      "evidence": [],
+      "observations": [],
+      "blocking_issues": [],
+      "contract_hashes": {}
+    },
+    "hero_lock": {
+      "status": "unstarted",
+      "reviewer": "",
+      "timestamp": "",
+      "evidence": [],
+      "observations": [],
+      "blocking_issues": [],
+      "contract_hashes": {}
+    },
+    "sound_lock": {
+      "status": "unstarted",
+      "reviewer": "",
+      "timestamp": "",
+      "evidence": [],
+      "observations": [],
+      "blocking_issues": [],
+      "contract_hashes": {}
+    },
+    "final_qa": {
+      "status": "unstarted",
+      "reviewer": "",
+      "timestamp": "",
+      "evidence": [],
+      "observations": [],
+      "blocking_issues": [],
+      "contract_hashes": {}
+    }
+  },
+  "render_authorization": {
+    "authorized": false,
+    "scope": "",
+    "evidence": "",
+    "reviewer": "",
+    "contract_hashes": {}
+  },
+  "delivery": {
+    "entry": "",
+    "composition_id": ""
+  }
+}

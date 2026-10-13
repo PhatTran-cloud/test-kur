@@ -1,0 +1,8 @@
+# Complete repo-local skill integration
+Snapshots: skills/<name>/SKILL.md, hashes/origins: skills/manifest.json. No silent update. Read full entry/relevant references, not this summary alone.
+
+script-to-visual-director owns thesis/metaphor/storyboard. 3dviz-pro-max owns grounded asset/space/craft. cinematic-motion-director owns temporal behavior/camera/continuity. cinematic-vfx-director owns event/effects/reactions/aftermath. storyboard-motion-executor preserves upstream WHAT/WHERE/WHY/WHEN/IDs. threejs-skill-router selects expert graphics routes. remotion-best-practices owns established-stack implementation. hyperframes is video intake/router guidance; HTML runtime requires user-authorized port.
+
+The complete Three.js specialist family is also snapshotted, together with lowbudget3d, its illustration bridge, and media-use. Route only to experts needed by the unresolved subject. lowbudget3d supports difficult organic/character fidelity; illustration bridge preserves editable asset/anchor/variant ownership; media-use owns sourced media and provenance. Read their complete prerequisites before applying them. Bundled examples/data are tools, not pre-approved finished artwork.
+
+Current stack stays Remotion/Three.js; skill defaults do not authorize migration/install. Missing non-bundled dependencies must be resolved/logged by path/version/hash; never pretend they ran. Record actual entries/references/tools used and decisions. Skills preserve mandatory metaphor/state/causality/layers/secondary/camera/transition contract. Distinguish guidance read, custom implementation, checks, rendered observations and approval. Vendored is not the same as used in a film.

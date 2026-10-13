@@ -1,0 +1,151 @@
+{
+  "kind": "repository-maintenance",
+  "not_a_film_packet": true,
+  "date": "2026-10-13",
+  "actor": "Codex",
+  "scope": "Publish the existing Earth-video workspace as GitHub repository test-kur",
+  "authorization": "User requested GitHub publication, supplied test-kur name and clarified the Earth-history video repository. Private chosen as stated default.",
+  "rule_reads": [
+    {
+      "file": "AGENTS.md",
+      "sha256": "fc4cd08a1a4e8f887644490ad4593bbcec0fa1dee5975b454da1b3db2b03426f",
+      "read": true
+    },
+    {
+      "file": "CLAUDE.md",
+      "sha256": "66046551f9c4513c608a3b18fcd95ac0cc9c82a2a229d6c6587c5c5199a78344",
+      "read": true
+    },
+    {
+      "file": "CONTEXT.md",
+      "sha256": "955375c2b339800f4e536900157f4be5428547e52b75535995776b8da856c1dc",
+      "read": true
+    },
+    {
+      "file": "v6/execution-protocol.md",
+      "sha256": "34e93077f1d249be8026f49ef6d6e3b03cdfdb34af5738958ecc021143a22e30",
+      "read": true
+    },
+    {
+      "file": "v6/CONTRACT.md",
+      "sha256": "61566687b88d9403b3f436c7388405ef2a2921a74b5d267775bab86440b7888c",
+      "read": true
+    },
+    {
+      "file": "v6/skill-routing.md",
+      "sha256": "11897dd2ff6b4fab06d3e2fbf232ab0e7dc800940bc92b0974e8c32a1ca9e4fe",
+      "read": true
+    },
+    {
+      "file": ".gitignore",
+      "sha256": "fca7089a2210c5866caa9ebbf47feb267d5c2888224f9ba895216b2a70f58581",
+      "read": true
+    },
+    {
+      "file": "animation-studio/CONTEXT.md",
+      "sha256": "f231dfe4204741a2d7bd64c0d2836933e5649b5b3ee4b87144791e05b522dfb8",
+      "read": true
+    },
+    {
+      "file": "animation-studio/package.json",
+      "sha256": "c1c34e858175be9d7d899751ebf7ecc41f240088e937bf5f359358a867e8fc75",
+      "read": true
+    },
+    {
+      "file": "animation-studio/tsconfig.json",
+      "sha256": "28f175df2f13b9cea9b4f4311e42b34006cd47dea2d53b931c65fafa68531336",
+      "read": true
+    },
+    {
+      "file": "animation-studio/tsconfig.stardust.json",
+      "sha256": "3ec14be87642ad978cbcf9649d730c4ad88b0121a847d6c3e802cab28c879335",
+      "read": true
+    },
+    {
+      "file": "animation-studio/remotion.config.ts",
+      "sha256": "4f720669a0c1f4fdb1c2300a33a1970462826b651ce5f68635737089cede6be1",
+      "read": true
+    },
+    {
+      "file": "animation-studio/src/stardust-entry.tsx",
+      "sha256": "95f7f23b6b31b80b1306397621c7014bfc1318563ccf738254ff86e94993598a",
+      "read": true
+    },
+    {
+      "file": "animation-studio/src/utils/audioMetadata.ts",
+      "sha256": "d592d64b9f7cb55323aaae3cdfc44ffda5c411b61dc1f8dce568ebaf8a33a813",
+      "read": true
+    },
+    {
+      "file": "output/stardust-to-human/RUN.md",
+      "sha256": "e78ca953bfdab15ff1389c5d494c7193ade65efe520efd97c371bc4038862b02",
+      "read": true
+    },
+    {
+      "file": "output/stardust-to-human/production-brief.md",
+      "sha256": "ea88c2321884db44b33ff4ec1e447f144e763a88c7acd0c4807f81d7122f5ea8",
+      "read": true
+    },
+    {
+      "file": "output/stardust-to-human/build/StardustToHuman.tsx",
+      "sha256": "4c247005cd221795b47b6ba6b7b0765a666c3c3933ae4649b39ae6e973e59aa3",
+      "read": true
+    },
+    {
+      "file": "output/stardust-to-human/build/components/HumanAsset.tsx",
+      "sha256": "761a40239bace3133144212acd7586c508e06896f38e6fea1fe2086bdc67b38b",
+      "read": true
+    },
+    {
+      "file": "output/stardust-to-human/build/components/SceneShell.tsx",
+      "sha256": "bea51fa954df1ef3d71a5ec8747c77c1a125e4278827a7b51e3e8f81c4220a36",
+      "read": true
+    },
+    {
+      "file": "v6-prep/README.md",
+      "sha256": "a16ffaa324133f05702a7e387bedaf8b94e2e1c97d42a7a332d0e7d346d525ae",
+      "read": true
+    },
+    {
+      "file": "research/prompt-to-motion/.gitignore",
+      "sha256": "6a4bff0e5110d487e73e74e5b5c226bd6166d1c317c3184d1a40c33e91e3c970",
+      "read": true
+    },
+    {
+      "file": "remotion-bits/.gitignore",
+      "sha256": "8eab952f6c18464653de8071ccc5b0731591a2f167f933f54e715e8abd69d82b",
+      "read": true
+    }
+  ],
+  "decisions": [
+    "Preserve historical films, backups and nested checkouts; no film generation or rendering.",
+    "Include Stardust To Human source packet, timeline and runtime inputs; exclude encoded exports, captures, archives, caches and unrelated generated film outputs.",
+    "Preserve optional upstream reference repositories as pinned submodules; existing remotion-bits local modifications remain untouched.",
+    "Use the authenticated GitHub account PhatTran-cloud, HTTPS and stored Git Credential Manager credentials; never persist credentials in source or remote URLs.",
+    "Secret pattern scan found one bundled PostHog ingestion constant in the unmodified vendored media-use snapshot, not a user credential; no other matches."
+  ],
+  "checks": [
+    {
+      "name": "Earth film TypeScript",
+      "command": "node node_modules/typescript/bin/tsc --project tsconfig.stardust.json --noEmit",
+      "status": "passed"
+    },
+    {
+      "name": "v6 unit tests",
+      "command": "python -m unittest discover -s animation-studio/scripts/tests -p test_v6*.py",
+      "status": "passed",
+      "tests": 53
+    },
+    {
+      "name": "Git publication size",
+      "status": "passed",
+      "files_over_100_mib": 0
+    }
+  ],
+  "publication": {
+    "repository": "PhatTran-cloud/test-kur",
+    "visibility": "private",
+    "status": "prepared"
+  },
+  "production_approval": false
+}
